@@ -302,6 +302,7 @@ http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 #EXTINF:-1 tvg-name=TVB星河 tvg-logo=https://live.fanmingming.com/tv/TVB星河.png group-title="港澳台",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 tvg-name=亚洲武侠 tvg-logo=https://live.fanmingming.com/tv/亚洲武侠.png group-title="港澳台",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name=aHa tvg-logo=https://live.fanmingming.com/tv/aHa.png group-title="港澳台",aHa
