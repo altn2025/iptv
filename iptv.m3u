@@ -383,3 +383,5 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name=台视新闻 tvg-logo=https://live.fanmingming.com/tv/台视新闻.png group-title="港澳台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="港澳台",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
