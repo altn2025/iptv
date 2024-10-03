@@ -331,6 +331,14 @@ rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳台",民视
 rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-name=东森超视 tvg-logo=https://live.fanmingming.com/tv/东森超视.png group-title="港澳台",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name=非凡新闻 tvg-logo=https://live.fanmingming.com/tv/非凡新闻.png group-title="港澳台",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-name=纬来育乐 tvg-logo=https://live.fanmingming.com/tv/纬来育乐.png group-title="港澳台",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-name=纬来体育 tvg-logo=https://live.fanmingming.com/tv/纬来体育.png group-title="港澳台",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name=面包台 tvg-logo=https://live.fanmingming.com/tv/面包台.png group-title="港澳台",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
 #EXTINF:-1 tvg-name=VIUTV tvg-logo=https://live.fanmingming.com/tv/VIUTV.png group-title="港澳台",VIUTV
@@ -343,31 +351,25 @@ http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name=aHa tvg-logo=https://live.fanmingming.com/tv/aHa.png group-title="港澳台",aHa
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 tvg-name=TVBSNEWS tvg-logo=https://live.fanmingming.com/tv/TVBSNEWS.png group-title="港澳台",TVBSNEWS
+#EXTINF:-1 tvg-name=TVBSNEWS tvg-logo=https://live.fanmingming.com/tv/TVBSNEWS.png group-title="港澳台",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-name=东森超视 tvg-logo=https://live.fanmingming.com/tv/东森超视.png group-title="港澳台",东森超视
-rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name=三立戏剧台 tvg-logo=https://live.fanmingming.com/tv/三立戏剧台.png group-title="港澳台",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-name=AMC电影台 tvg-logo=https://live.fanmingming.com/tv/AMC电影台.png group-title="港澳台",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-name=纬来精采 tvg-logo=https://live.fanmingming.com/tv/纬来精采.png group-title="港澳台",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-name=中天娱乐 tvg-logo=https://live.fanmingming.com/tv/中天娱乐.png group-title="港澳台",中天娱乐
+http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name=八大戏剧台 tvg-logo=https://live.fanmingming.com/tv/八大戏剧台.png group-title="港澳台",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-name=八大第1台 tvg-logo=https://live.fanmingming.com/tv/八大第1台.png group-title="港澳台",八大第1台
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-name=八大综合台 tvg-logo=https://live.fanmingming.com/tv/八大综合台.png group-title="港澳台",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-name=非凡新闻 tvg-logo=https://live.fanmingming.com/tv/非凡新闻.png group-title="港澳台",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-name=动物星球 tvg-logo=https://live.fanmingming.com/tv/动物星球.png group-title="港澳台",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name=民视新闻台 tvg-logo=https://live.fanmingming.com/tv/民视新闻台.png group-title="港澳台",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-name=纬来精采 tvg-logo=https://live.fanmingming.com/tv/纬来精采.png group-title="港澳台",纬来精采
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-name=纬来育乐 tvg-logo=https://live.fanmingming.com/tv/纬来育乐.png group-title="港澳台",纬来育乐
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-name=纬来体育 tvg-logo=https://live.fanmingming.com/tv/纬来体育.png group-title="港澳台",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-name=三立戏剧台 tvg-logo=https://live.fanmingming.com/tv/三立戏剧台.png group-title="港澳台",三立戏剧台
-http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name=台视新闻 tvg-logo=https://live.fanmingming.com/tv/台视新闻.png group-title="港澳台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name=点掌财经 tvg-logo=https://live.fanmingming.com/tv/点掌财经.png group-title="港澳台",点掌财经
-https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 tvg-name=AMC电影台 tvg-logo=https://live.fanmingming.com/tv/AMC电影台.png group-title="港澳台",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
