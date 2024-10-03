@@ -310,9 +310,9 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="明珠台" "tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+http://124.244.149.194:65531/bysid/2
 #EXTINF:-1 tvg-name="无线新闻台" "tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
-http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
+http://124.244.149.194:65531/bysid/83
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB千禧经典台" tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="港澳台",TVB千禧经典台
@@ -323,6 +323,12 @@ http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 tvg-name=凤凰香港 tvg-logo=https://live.fanmingming.com/tv/凤凰香港.png group-title="港澳台",凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-name=凤凰电影 tvg-logo=https://live.fanmingming.com/tv/凤凰电影.png group-title="港澳台",凤凰电影
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name=星空卫视 tvg-logo=https://live.fanmingming.com/tv/星空卫视.png group-title="港澳台",星空卫视
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name=Channel V tvg-logo=https://live.fanmingming.com/tv/ChannelV.png group-title="港澳台",Channel V
+http://wouu.net:9977/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="港澳台",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳台",台视
