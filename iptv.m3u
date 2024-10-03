@@ -360,13 +360,15 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name=纬来精采 tvg-logo=https://live.fanmingming.com/tv/纬来精采.png group-title="港澳台",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name=中天娱乐 tvg-logo=https://live.fanmingming.com/tv/中天娱乐.png group-title="港澳台",中天娱乐
-http://61.221.215.25:8800/hls/48/index.m3u8
+http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name=八大戏剧台 tvg-logo=https://live.fanmingming.com/tv/八大戏剧台.png group-title="港澳台",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-name=八大第1台 tvg-logo=https://live.fanmingming.com/tv/八大第1台.png group-title="港澳台",八大第1台
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-name=八大综合台 tvg-logo=https://live.fanmingming.com/tv/八大综合台.png group-title="港澳台",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 tvg-name=探索亚洲 tvg-logo=https://live.fanmingming.com/tv/探索亚洲.png group-title="港澳台",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name=动物星球 tvg-logo=https://live.fanmingming.com/tv/动物星球.png group-title="港澳台",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 tvg-name=民视新闻台 tvg-logo=https://live.fanmingming.com/tv/民视新闻台.png group-title="港澳台",民视新闻台
