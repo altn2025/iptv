@@ -345,6 +345,8 @@ rtmp://f13h.mine.nu/sat/tv581
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name=纬来体育 tvg-logo=https://live.fanmingming.com/tv/纬来体育.png group-title="港澳台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name=纬来日本 tvg-logo=https://live.fanmingming.com/tv/纬来日本.png group-title="港澳台",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-name=面包台 tvg-logo=https://live.fanmingming.com/tv/面包台.png group-title="港澳台",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
 #EXTINF:-1 tvg-name=VIUTV tvg-logo=https://live.fanmingming.com/tv/VIUTV.png group-title="港澳台",VIUTV
