@@ -357,10 +357,12 @@ http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 #EXTINF:-1 tvg-name=亚洲武侠 tvg-logo=https://live.fanmingming.com/tv/亚洲武侠.png group-title="港澳台",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name=aHa tvg-logo=https://live.fanmingming.com/tv/aHa.png group-title="港澳台",aHa
+#EXTINF:-1 tvg-name=探索亚洲a tvg-logo=https://live.fanmingming.com/tv/探索亚洲.png group-title="港澳台",探索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name=TVBSNEWS tvg-logo=https://live.fanmingming.com/tv/TVBSNEWS.png group-title="港澳台",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="TVBS-Asia" tvg-logo="https://live.fanmingming.com/tv/TVBS-Asia.png" group-title="港澳台",TVBS Asia
+rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name=三立戏剧台 tvg-logo=https://live.fanmingming.com/tv/三立戏剧台.png group-title="港澳台",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name=AMC电影台 tvg-logo=https://live.fanmingming.com/tv/AMC电影台.png group-title="港澳台",AMC电影台
