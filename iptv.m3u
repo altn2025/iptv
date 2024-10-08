@@ -316,9 +316,9 @@ https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="明珠台" "tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
-http://124.244.149.194:65531/bysid/2
+http://222.186.57.43:22222/php/jspd.php?id=10
 #EXTINF:-1 tvg-name="无线新闻台" "tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
-http://124.244.149.194:65531/bysid/83
+http://222.186.57.43:22222/php/jspd.php?id=7
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB千禧经典台" tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="港澳台",TVB千禧经典台
