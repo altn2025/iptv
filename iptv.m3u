@@ -307,8 +307,12 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://live.fanmingming.com/tv/FashionTV.png" group-title="国际台",Fashion TV
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FashionTV Paris" tvg-logo="https://live.fanmingming.com/tv/FashionTVParis.png" group-title="国际台",FashionTV Paris
+https://stream-us-east-1.getpublica.com/cl/241008cs2legq024jtnjkqu40g/1920x1080_4906400_0_f.m3u8?i=775_5457
+#EXTINF:-1 tvg-name="FashionTV New York" tvg-logo="https://live.fanmingming.com/tv/FashionTVNewYork.png" group-title="国际台",FashionTV New York
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="FashionTV Johannesburg" tvg-logo="https://live.fanmingming.com/tv/FashionTVJohannesburg.png" group-title="国际台",FashionTV Johannesburg
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="明珠台" "tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
@@ -389,6 +393,8 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="港澳台",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://live.fanmingming.com/tv/壹新聞.png" group-title="港澳台",壹新聞
+http://211.72.65.236:8548/.m3u8
 #EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://live.fanmingming.com/tv/三立新聞.png" group-title="港澳台",三立新聞
 https://www.youtube.com/watch?v=MV9mI0GChwo
 #EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png" group-title="港澳台",三立iNEWS
