@@ -307,6 +307,8 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://live.fanmingming.com/tv/FashionTV.png" group-title="国际台",Fashion TV
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="明珠台" "tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
@@ -387,8 +389,6 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="港澳台",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://live.fanmingming.com/tv/FashionTV.png" group-title="国际台",Fashion TV
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://live.fanmingming.com/tv/三立新聞.png" group-title="港澳台",三立新聞
 https://www.youtube.com/watch?v=MV9mI0GChwo
 #EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png" group-title="港澳台",三立iNEWS
@@ -409,6 +409,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png" group-title="港澳台",民視新聞
 https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-name="公視新聞" tvg-logo="https://live.fanmingming.com/tv/公視新聞.png" group-title="港澳台",公視新聞
+https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="港澳台",中天新聞
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 #EXTINF:-1 tvg-name="中天新聞2台" tvg-logo="https://live.fanmingming.com/tv/中天新聞2台.png" group-title="港澳台",中天新聞2台
@@ -419,5 +421,5 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-name="寰宇台灣新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇台灣新聞.png" group-title="港澳台",寰宇台灣新聞
 https://www.youtube.com/watch?v=w87VGpgd90U
-#EXTINF:-1 tvg-name="公視新聞" tvg-logo="https://live.fanmingming.com/tv/公視新聞.png" group-title="港澳台",公視新聞
-https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 tvg-name="寰宇財經新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇財經新聞.png" group-title="港澳台",寰宇財經新聞
+https://www.youtube.com/watch?v=WTRQiVWK1jY
