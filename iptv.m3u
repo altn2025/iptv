@@ -389,5 +389,35 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://live.fanmingming.com/tv/FashionTV.png" group-title="国际台",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://live.fanmingming.com/tv/三立新聞.png" group-title="国际台",三立新聞
+#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://live.fanmingming.com/tv/三立新聞.png" group-title="港澳台",三立新聞
 https://www.youtube.com/watch?v=MV9mI0GChwo
+#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png" group-title="港澳台",三立iNEWS
+https://www.youtube.com/watch?v=pF507BLtbqU
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="港澳台",東森新聞
+https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://live.fanmingming.com/tv/東森財經新聞.png" group-title="港澳台",東森財經新聞
+https://www.youtube.com/watch?v=WHEPzbFA3hw
+#EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞台.png" group-title="港澳台",TVBS新聞台
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="港澳台",TVBS NEWS
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="港澳台",台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="港澳台",中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png" group-title="港澳台",華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png" group-title="港澳台",民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="港澳台",中天新聞
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1 tvg-name="中天新聞2台" tvg-logo="https://live.fanmingming.com/tv/中天新聞2台.png" group-title="港澳台",中天新聞2台
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://live.fanmingming.com/tv/鏡新聞.png" group-title="港澳台",鏡新聞
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-name="寰宇國際新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇國際新聞.png" group-title="港澳台",寰宇國際新聞
+https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-name="寰宇台灣新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇台灣新聞.png" group-title="港澳台",寰宇台灣新聞
+https://www.youtube.com/watch?v=w87VGpgd90U
+#EXTINF:-1 tvg-name="公視新聞" tvg-logo="https://live.fanmingming.com/tv/公視新聞.png" group-title="港澳台",公視新聞
+https://www.youtube.com/watch?v=quwqlazU-c8
