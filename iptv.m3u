@@ -307,6 +307,14 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="BBC America" tvg-logo="https://live.fanmingming.com/tv/BBCAmerica.png" group-title="国际台",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="BBC News (North America)" tvg-logo="https://live.fanmingming.com/tv/BBCNews.png" group-title="国际台",BBC News (North America)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News (Asia Pacific)" tvg-logo="https://live.fanmingming.com/tv/BBCNews.png" group-title="国际台",BBC News (Asia Pacific)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-name="FashionTV UHD" tvg-logo="https://live.fanmingming.com/tv/FashionTVUHD.png" group-title="国际台",FashionTV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="FashionTV Paris" tvg-logo="https://live.fanmingming.com/tv/FashionTVParis.png" group-title="国际台",FashionTV Paris
 https://stream-us-east-1.getpublica.com/cl/241008cs2legq024jtnjkqu40g/1920x1080_4906400_0_f.m3u8?i=775_5457
 #EXTINF:-1 tvg-name="FashionTV New York" tvg-logo="https://live.fanmingming.com/tv/FashionTVNewYork.png" group-title="国际台",FashionTV New York
