@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png" group-title="港澳台",台視新聞
+https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png" group-title="港澳台",中視新聞
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png" group-title="港澳台",華視新聞
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png" group-title="港澳台",民視新聞
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-name="公視新聞" tvg-logo="https://live.fanmingming.com/tv/公視新聞.png" group-title="港澳台",公視新聞
+https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://live.fanmingming.com/tv/三立新聞.png" group-title="港澳台",三立新聞
+https://www.youtube.com/watch?v=MV9mI0GChwo
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="港澳台",東森新聞
+https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="港澳台",中天新聞
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="港澳台",寰宇新聞
+https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png" group-title="港澳台",TVBS新聞
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://live.fanmingming.com/tv/鏡新聞.png" group-title="港澳台",鏡新聞
+https://www.youtube.com/watch?v=5n0y6b0Q25o
