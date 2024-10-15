@@ -21,3 +21,13 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://live.fanmingming.com/tv/鏡新聞.png" group-title="港澳台",鏡新聞
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-name="Fashion Channel" tvg-logo="https://live.fanmingming.com/tv/FashionChannel.png" group-title="港澳台",Fashion Channel
+https://www.youtube.com/watch?v=rxwy2r1ka3Q
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
+https://www.youtube.com/watch?v=qv8FmrCxKp0
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7
+https://www.youtube.com/watch?v=I99gph5Mngw
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
+https://www.youtube.com/watch?v=XnG6kabv49U
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNow from Fox
+https://www.youtube.com/watch?v=uGmRtzJDcnc
