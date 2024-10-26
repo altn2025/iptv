@@ -55,6 +55,38 @@ http://fl2.moveonjoy.com/MTV_U/index.m3u8
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-id="BETSOUL.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343",BET Soul
 http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One
+https://tvheadend.tannerserver.homedns.org/stream/channel/d403f70cfd2a3b4c8469a270ab129af1?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two
+https://tvheadend.tannerserver.homedns.org/stream/channel/70cd6366a5afe8f2353c1aec7185ad49?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="General",BBC Three
+https://tvheadend.tannerserver.homedns.org/stream/channel/3cf1e9c94ae3600c588a04a90587c8e0?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four
+https://tvheadend.tannerserver.homedns.org/stream/channel/480725923e254746411ade54fa9e530f?profile=webtv-vp8-vorbis-webm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
