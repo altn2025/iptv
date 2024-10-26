@@ -37,12 +37,12 @@ http://181.78.105.146:8800/play/a048
 http://185.236.229.62:9981/play/a07f
 #EXTINF:-1 tvg-id="MTV00s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/220px-MTV_00s_remaster.png" group-title="Music",MTV 00s
 http://181.78.105.146:8800/play/a066
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/175px-MTV_Hits_2021.svg.png" group-title="Music",MTV Hits
+http://181.78.105.146:8800/play/a047
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" group-title="Music",MTV Live
+http://181.78.105.146:6060/play/a03n
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" group-title="Music",MTV Live (United States)
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 
 
