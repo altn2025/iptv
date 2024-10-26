@@ -63,16 +63,46 @@ https://tvheadend.tannerserver.homedns.org/stream/channel/70cd6366a5afe8f2353c1a
 https://tvheadend.tannerserver.homedns.org/stream/channel/3cf1e9c94ae3600c588a04a90587c8e0?profile=webtv-vp8-vorbis-webm
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four
 https://tvheadend.tannerserver.homedns.org/stream/channel/480725923e254746411ade54fa9e530f?profile=webtv-vp8-vorbis-webm
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="Music",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="Music",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-id="MUZZIK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="ELECTRO.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 tvg-id="FLASHBACK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-id="MOBA.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Music",Muzzik POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-id="RockRoll.rs" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="Undefined",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SENSE.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik SENSE 
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-id="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik TIKTAK 
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-id="ZZTV.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="Music",Muzzik ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Music",Nick Music
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Music",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/xRJDVR3.png" group-title="Music",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 
 
