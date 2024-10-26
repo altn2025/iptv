@@ -28,3 +28,5 @@ https://www.youtube.com/watch?v=I99gph5Mngw
 https://www.youtube.com/watch?v=XnG6kabv49U
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNow from Fox
 https://www.youtube.com/watch?v=YDfiTGGPYCk
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s160-c-k-c0x00ffffff-no-rj" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
