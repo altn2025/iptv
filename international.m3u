@@ -19,12 +19,13 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_d
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/800px-Sky-news-logo.png" group-title="News",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
-https://www.youtube.com/watch?v=-mvUkiILTqI
+https://apollo.production-public.tubi.io/live/abc-news2.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7
-https://www.youtube.com/watch?v=I99gph5Mngw
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/770c9069-fcfe-481b-a50f-4e8d55caf7e2:CBF2/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
-https://www.youtube.com/watch?v=XnG6kabv49U
+https://apollo.production-public.tubi.io/live/ac-nbc-news-now2.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNow from Fox
-https://www.youtube.com/watch?v=YDfiTGGPYCk
+https://apollo.production-public.tubi.io/live/livenow-fox.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews
+https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
