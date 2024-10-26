@@ -29,3 +29,44 @@ https://apollo.production-public.tubi.io/live/ac-nbc-news-now2.m3u8
 https://apollo.production-public.tubi.io/live/livenow-fox.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews
 https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="MTV80s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MTV_80s_%282020%29.png/220px-MTV_80s_%282020%29.png" group-title="Music",MTV 80s
+http://181.78.105.146:8800/play/a048
+#EXTINF:-1 tvg-id="MTV90s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png" group-title="Music",MTV 90s
+http://185.236.229.62:9981/play/a07f
+#EXTINF:-1 tvg-id="MTV00s.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/220px-MTV_00s_remaster.png" group-title="Music",MTV 00s
+http://181.78.105.146:8800/play/a066
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
