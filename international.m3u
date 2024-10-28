@@ -111,11 +111,13 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:-1 tvg-id="WMXHipHop.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951291/100x100.webp?type=color_onBlack" group-title="Music",WMX Hip-Hop
+https://dbrb49pjoymg4.cloudfront.net/10001/99951291/hls/playlist.m3u8?ads.xumo_channelId=99951291
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951127/100x100.webp?type=color_onBlack" group-title="Music",Vevo Country
+https://dbrb49pjoymg4.cloudfront.net/10001/99951127/hls/playlist.m3u8?ads.xumo_channelId=99951127
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951127/100x100.webp?type=color_onBlack" group-title="Music",Vevo Country
 
 
 
