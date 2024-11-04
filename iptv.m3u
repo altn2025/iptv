@@ -259,8 +259,6 @@ http://cfss.cc/cdn/hy/21059596.flv
 #EXTINF:-1 tvg-name="电影_怪兽系列" tvg-logo="https://live.fanmingming.com/tv/电影_怪兽系列.png" group-title="电影频道",电影_怪兽系列
 http://cfss.cc/cdn/hy/21059554.flv
 
-
-
 #EXTINF:1 group-title="AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 
@@ -429,4 +427,3 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾频道",TVBS
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
-
