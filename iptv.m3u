@@ -126,17 +126,31 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000064/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="中国频道",康巴卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8
 
+#EXTINF:-1 tvg-name="豆瓣高分电影" tvg-logo="https://live.fanmingming.com/tv/豆瓣高分电影.png" group-title="电影频道",豆瓣高分电影
+http://allinone.netsite.cc/douyu/8770422
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://live.fanmingming.com/tv/邵氏影院.png" group-title="电影频道",邵氏影院
+http://allinone.netsite.cc/douyu/4246519
 #EXTINF:-1 tvg-name="华语电影1" tvg-logo=https://live.fanmingming.com/tv/华语电影1.png group-title="电影频道",华语电影1
 http://allinone.netsite.cc/douyu/122402
 #EXTINF:-1 tvg-name="华语电影2" tvg-logo=https://live.fanmingming.com/tv/华语电影2.png group-title="电影频道",华语电影2
 http://allinone.netsite.cc/douyu/85894
-#EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://live.fanmingming.com/tv/粤语电影.png" group-title="电影频道",粤语电影
+#EXTINF:-1 tvg-name="粤语电影1" tvg-logo="https://live.fanmingming.com/tv/粤语电影1.png" group-title="电影频道",粤语电影1
 http://allinone.netsite.cc/douyu/6566671
-#EXTINF:-1 tvg-name="欧美电影" tvg-logo="https://live.fanmingming.com/tv/欧美电影.png" group-title="电影频道",欧美电影
+#EXTINF:-1 tvg-name="粤语电影2" tvg-logo="https://live.fanmingming.com/tv/粤语电影2.png" group-title="电影频道",粤语电影2
+http://allinone.netsite.cc/douyu/1226741
+#EXTINF:-1 tvg-name="粤语电影3" tvg-logo="https://live.fanmingming.com/tv/粤语电影3.png" group-title="电影频道",粤语电影3
+http://allinone.netsite.cc/douyu/5033502
+#EXTINF:-1 tvg-name="外语电影" tvg-logo="https://live.fanmingming.com/tv/外语电影.png" group-title="电影频道",外语电影
 http://allinone.netsite.cc/douyu/20415
-#EXTINF:-1 tvg-name="国内惊悚" tvg-logo="https://live.fanmingming.com/tv/国内惊悚.png" group-title="电影频道",国内惊悚
+#EXTINF:-1 tvg-name="华语喜剧片1" tvg-logo="https://live.fanmingming.com/tv/华语喜剧片1.png" group-title="电影频道",华语喜剧片1
+http://allinone.netsite.cc/douyu/276200
+#EXTINF:-1 tvg-name="华语喜剧片2" tvg-logo="https://live.fanmingming.com/tv/华语喜剧片2.png" group-title="电影频道",华语喜剧片2
+http://allinone.netsite.cc/douyu/428402
+#EXTINF:-1 tvg-name="华语恐怖片1" tvg-logo="https://live.fanmingming.com/tv/华语恐怖片1.png" group-title="电影频道",华语恐怖片1
 http://allinone.netsite.cc/douyu/218859
-#EXTINF:-1 tvg-name="国外惊悚" tvg-logo="https://live.fanmingming.com/tv/国外惊悚.png" group-title="电影频道",国外惊悚
+#EXTINF:-1 tvg-name="华语恐怖片2" tvg-logo="https://live.fanmingming.com/tv/华语恐怖片2.png" group-title="电影频道",华语恐怖片2
+http://allinone.netsite.cc/douyu/2935323
+#EXTINF:-1 tvg-name="外语恐怖片" tvg-logo="https://live.fanmingming.com/tv/外语恐怖片.png" group-title="电影频道",外语恐怖片
 http://allinone.netsite.cc/douyu/96577
 #EXTINF:-1 tvg-name="斗鱼电影1" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影1.png" group-title="电影频道",斗鱼电影1
 http://allinone.netsite.cc/douyu/747764
@@ -148,8 +162,32 @@ http://allinone.netsite.cc/douyu/36337
 http://allinone.netsite.cc/douyu/2436390
 #EXTINF:-1 tvg-name="斗鱼电影5" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影5.png" group-title="电影频道",斗鱼电影5
 http://allinone.netsite.cc/douyu/323876
-#EXTINF:-1 tvg-name="榜单电影" tvg-logo="https://live.fanmingming.com/tv/榜单电影.png" group-title="电影频道",榜单电影
-http://allinone.netsite.cc/douyu/8770422
+#EXTINF:-1 tvg-name="斗鱼电影6" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影6.png" group-title="电影频道",斗鱼电影6
+http://allinone.netsite.cc/douyu/252802
+#EXTINF:-1 tvg-name="斗鱼电影7" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影7.png" group-title="电影频道",斗鱼电影7
+http://allinone.netsite.cc/douyu/1377142
+#EXTINF:-1 tvg-name="斗鱼电影8" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影8.png" group-title="电影频道",斗鱼电影8
+http://allinone.netsite.cc/douyu/431460
+#EXTINF:-1 tvg-name="斗鱼电影9" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影9.png" group-title="电影频道",斗鱼电影9
+http://allinone.netsite.cc/douyu/4332
+#EXTINF:-1 tvg-name="斗鱼电影10" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影10.png" group-title="电影频道",斗鱼电影10
+http://allinone.netsite.cc/douyu/3928
+#EXTINF:-1 tvg-name="斗鱼电影11" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影11.png" group-title="电影频道",斗鱼电影11
+http://allinone.netsite.cc/douyu/6621
+#EXTINF:-1 tvg-name="斗鱼电影12" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影12.png" group-title="电影频道",斗鱼电影12
+http://allinone.netsite.cc/douyu/263824
+#EXTINF:-1 tvg-name="斗鱼电影13" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影13.png" group-title="电影频道",斗鱼电影13
+http://allinone.netsite.cc/douyu/315457
+#EXTINF:-1 tvg-name="斗鱼电影14" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影14.png" group-title="电影频道",斗鱼电影14
+http://allinone.netsite.cc/douyu/7254536
+#EXTINF:-1 tvg-name="斗鱼电影15" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影15.png" group-title="电影频道",斗鱼电影15
+http://allinone.netsite.cc/douyu/2793084
+
+#EXTINF:-1 tvg-name="赵本山小品" tvg-logo="https://live.fanmingming.com/tv/赵本山小品.png" group-title="电影频道",赵本山小品
+http://allinone.netsite.cc/douyu/9817716
+
+
+
 #EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://live.fanmingming.com/tv/电影_星爷.png" group-title="电影频道",电影_星爷
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 tvg-name="电影_英叔" tvg-logo="https://live.fanmingming.com/tv/电影_英叔.png" group-title="电影频道",电影_英叔
