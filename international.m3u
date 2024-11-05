@@ -113,23 +113,21 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-id="WMXHipHop.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951291/100x100.webp?type=color_onBlack" group-title="Music",WMX Hip-Hop
-https://dbrb49pjoymg4.cloudfront.net/10001/99951291/hls/playlist.m3u8?ads.xumo_channelId=99951291
+
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951122/100x100.webp?type=color_onBlack" group-title="Music",Vevo '70s
+https://dbrb49pjoymg4.cloudfront.net/10001/99951122/hls/playlist.m3u8?ads.xumo_channelId=99951122
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991132/100x100.webp?type=color_onBlack" group-title="Music",Vevo '80s
+https://dbrb49pjoymg4.cloudfront.net/10001/99991132/hls/playlist.m3u8?ads.xumo_channelId=99991132
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99991391/100x100.webp?type=color_onBlack" group-title="Music",Vevo Pop
+https://dbrb49pjoymg4.cloudfront.net/10001/99991391/hls/playlist.m3u8?ads.xumo_channelId=99991391
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951127/100x100.webp?type=color_onBlack" group-title="Music",Vevo Country
 https://dbrb49pjoymg4.cloudfront.net/10001/99951127/hls/playlist.m3u8?ads.xumo_channelId=99951127
-#EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951127/100x100.webp?type=color_onBlack" group-title="Music",Vevo Country
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="WMXPop.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951289/100x100.webp?type=color_onBlack" group-title="Music",WMX Pop
+https://dbrb49pjoymg4.cloudfront.net/10001/99951289/hls/playlist.m3u8?ads.xumo_channelId=99951289
+#EXTINF:-1 tvg-id="WMXRock.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951290/100x100.webp?type=color_onBlack" group-title="Music",WMX Rock
+https://dbrb49pjoymg4.cloudfront.net/10001/99951290/hls/playlist.m3u8?ads.xumo_channelId=99951290
+#EXTINF:-1 tvg-id="WMXHipHop.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951291/100x100.webp?type=color_onBlack" group-title="Music",WMX Hip-Hop
+https://dbrb49pjoymg4.cloudfront.net/10001/99951291/hls/playlist.m3u8?ads.xumo_channelId=99951291
 
 
 
