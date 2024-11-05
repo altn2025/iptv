@@ -443,6 +443,11 @@ http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Channel V" tvg-logo="https://live.fanmingming.com/tv/ChannelV.png" group-title="香港频道",Channel V
 http://wouu.net:9977/udp/239.93.0.157:2194
 
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾频道",TVBS
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+
+#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="台湾频道",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png" group-title="台湾频道",探索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="台湾频道",动物星球
@@ -453,15 +458,11 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://live.fanmingming.com/tv/八大综合台.png" group-title="台湾频道",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="纬来精采" tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="台湾频道",纬来精采
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="台湾频道",纬来体育
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="台湾频道",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://live.fanmingming.com/tv/三立戏剧台.png" group-title="台湾频道",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="台湾频道",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="台湾频道",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾频道",TVBS
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
