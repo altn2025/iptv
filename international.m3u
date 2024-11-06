@@ -114,7 +114,7 @@ https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-placeholder-1920x1080.png",CNN Headlines
-
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=foKh2BY-7sPp6KjmQYp8
 
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951122/100x100.webp?type=color_onBlack" group-title="Music",Vevo '70s
 https://dbrb49pjoymg4.cloudfront.net/10001/99951122/hls/playlist.m3u8?ads.xumo_channelId=99951122
