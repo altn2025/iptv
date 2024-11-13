@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-
 #EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png" group-title="台湾频道",探索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="台湾频道",动物星球
@@ -18,33 +17,12 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="台湾频道",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾频道",华视
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾频道",台视
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾频道",民视
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="台湾频道",东森超视
-rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="台湾频道",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://live.fanmingming.com/tv/纬来育乐.png" group-title="台湾频道",纬来育乐
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="台湾频道",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://live.fanmingming.com/tv/纬来日本.png" group-title="台湾频道",纬来日本
-rtmp://f13h.mine.nu/sat/tv771
-
 #EXTINF:-1 tvg-name="粤语电影1" tvg-logo="https://live.fanmingming.com/tv/粤语电影1.png" group-title="电影频道",粤语电影1
 http://allinone.netsite.cc/douyu/6566671
 #EXTINF:-1 tvg-name="粤语电影2" tvg-logo="https://live.fanmingming.com/tv/粤语电影2.png" group-title="电影频道",粤语电影2
 http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 tvg-name="粤语电影3" tvg-logo="https://live.fanmingming.com/tv/粤语电影3.png" group-title="电影频道",粤语电影3
 http://allinone.netsite.cc/douyu/5033502
-
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://live.fanmingming.com/tv/南宁文旅生活.png" group-title="中国频道",南宁文旅生活
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://live.fanmingming.com/tv/南宁影视娱乐.png" group-title="中国频道",南宁影视娱乐
