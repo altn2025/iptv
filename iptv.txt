@@ -180,6 +180,8 @@ ELTA體育1,rtmp://f13h.mine.nu/sat/md051
 粤语电影1,http://allinone.netsite.cc/douyu/6566671
 粤语电影2,http://allinone.netsite.cc/douyu/1226741
 粤语电影3,http://allinone.netsite.cc/douyu/5033502
+电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
+电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 AKTV,#genre#
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
