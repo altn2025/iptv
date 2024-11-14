@@ -157,6 +157,10 @@ TVBS 新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+(大街)中視,rtmp://220.130.201.73/sat/tv091
+(大街)華視,rtmp://220.130.201.73/sat/tv111
+(大街)臺視,rtmp://220.130.201.73/sat/tv071
+(大街)民視,rtmp://220.130.201.73/sat/tv051
 电影频道,#genre#
 粤语电影1,http://allinone.netsite.cc/douyu/6566671
 粤语电影2,http://allinone.netsite.cc/douyu/1226741
