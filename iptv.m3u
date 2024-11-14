@@ -278,7 +278,10 @@ http://litv.zapi.us.kg/?id=litv-longturn21
 #EXTINF:-1 group-title="台湾频道",台灣戲劇台
 http://litv.zapi.us.kg/?id=litv-longturn22
 #EXTINF:-1 group-title="台湾频道",博斯無限二台
-http://litv.zapi.us.kg/?id=litv-longturn13 
+http://litv.zapi.us.kg/?id=litv-longturn13
+
+#EXTINF:-1 group-title="台湾频道",HBO
+http://125.227.210.55:8153/VideoInput/play.ts
 
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾频道",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
