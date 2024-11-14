@@ -156,6 +156,26 @@ TVBS 新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
+東森超視,rtmp://f13h.mine.nu/sat/tv521
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+ELTA體育2,rtmp://f13h.mine.nu/sat/md011
+ELEVEN2,rtmp://f13h.mine.nu/sat/md021
+博斯網球,rtmp://f13h.mine.nu/sat/md031
+ELTA體育3,rtmp://f13h.mine.nu/sat/md041
+ELTA體育1,rtmp://f13h.mine.nu/sat/md051
 电影频道,#genre#
 粤语电影1,http://allinone.netsite.cc/douyu/6566671
 粤语电影2,http://allinone.netsite.cc/douyu/1226741
