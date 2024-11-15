@@ -35,7 +35,6 @@ http://[2409:8087:1a0a:df::404d]:80/wh7f454c46tw1988565230_-380430064/ottrrs.hl.
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中国频道",CCTV-17 农业农村
 http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2178989547_-748691326/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="中国频道",北京卫视
 http://[2409:8087:1a0a:df::4010]:80/wh7f454c46tw3521118935_826740184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="中国频道",天津卫视
@@ -98,7 +97,6 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="中国频道",新疆卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8
-
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVB Plus
@@ -107,7 +105,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB千禧经典台" tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="香港频道",TVB千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-
 #EXTINF:-1 group-title="台湾频道",民視第一台
 http://litv.zapi.us.kg/?id=4gtv-4gtv003
 #EXTINF:-1 group-title="台湾频道",民視台灣台
@@ -268,7 +265,6 @@ http://litv.zapi.us.kg/?id=litv-longturn21
 http://litv.zapi.us.kg/?id=litv-longturn22
 #EXTINF:-1 group-title="台湾频道",博斯無限二台
 http://litv.zapi.us.kg/?id=litv-longturn13
-
 #EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png" group-title="台湾频道",探索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="台湾频道",动物星球
@@ -287,14 +283,12 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="台湾频道",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-
 #EXTINF:-1 tvg-name="粤语电影1" tvg-logo="https://live.fanmingming.com/tv/粤语电影1.png" group-title="电影频道",粤语电影1
 http://allinone.netsite.cc/douyu/6566671
 #EXTINF:-1 tvg-name="粤语电影2" tvg-logo="https://live.fanmingming.com/tv/粤语电影2.png" group-title="电影频道",粤语电影2
 http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 tvg-name="粤语电影3" tvg-logo="https://live.fanmingming.com/tv/粤语电影3.png" group-title="电影频道",粤语电影3
 http://allinone.netsite.cc/douyu/5033502
-
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-logo="https://live.fanmingming.com/tv/南宁文旅生活.png" group-title="南宁频道",南宁文旅生活
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://live.fanmingming.com/tv/南宁影视娱乐.png" group-title="南宁频道",南宁影视娱乐
