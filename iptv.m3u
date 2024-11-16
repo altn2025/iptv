@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国频道",CCTV-1 综合
 http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中国频道",CCTV-2 财经
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226676/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中国频道",CCTV-3 综艺
 http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国频道",CCTV-4 中文国际
