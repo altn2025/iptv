@@ -121,6 +121,18 @@ http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 #EXTINF:23 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
+#EXTINF:8 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:51 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/rockaction" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ROCK Action (备用)
+http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+
+#EXTINF:10 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:11 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
+
+
 #EXTINF:2 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:3 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channel8hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 8 HD
@@ -134,16 +146,9 @@ http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 #EXTINF:7 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 
-#EXTINF:8 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:51 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/rockaction" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ROCK Action (备用)
-http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 
-#EXTINF:10 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 
-#EXTINF:11 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+
 
 #EXTINF:12 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvn" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
