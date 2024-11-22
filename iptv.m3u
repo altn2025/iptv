@@ -375,6 +375,13 @@ http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:53 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/zoomoo" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
+#EXTINF:-1 tvg-name="NOW爆谷台" "tvg-logo="https://live.fanmingming.com/tv/NOW爆谷台.png" group-title="香港频道",NOW爆谷台
+https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
+#EXTINF:-1 tvg-name="NOW星影台" "tvg-logo="https://live.fanmingming.com/tv/NOW星影台.png" group-title="香港频道",NOW星影台
+https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
+#EXTINF:-1 tvg-name="天映频道" "tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="香港频道",天映频道
+https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
+
 #EXTINF:-1 tvg-name="无线新闻台" "tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
 http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
