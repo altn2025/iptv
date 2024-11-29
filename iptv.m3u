@@ -426,11 +426,23 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a
 
 #EXTINF:-1 tvg-id="WMAQDT1.us" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="国际频道",NBC Chicago News 24/7
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master1080p.m3u8
+
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="国际频道",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="国际频道",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+
+#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="国际频道",NBC West (San Diego) (240p)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master_240.m3u8
+#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="国际频道",NBC West (San Diego) (360p)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master_360.m3u8
+#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="国际频道",NBC West (San Diego) (540p)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master_540.m3u8
+#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="国际频道",NBC West (San Diego) (720p)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master_720.m3u8
+#EXTINF:-1 tvg-id="KNSDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="国际频道",NBC West (San Diego) (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际频道",Classic Arts Showcase (240p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_240p30.m3u8
