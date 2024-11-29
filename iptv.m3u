@@ -422,11 +422,11 @@ http://114.105.187.47:9901/tsfile/live/0141_2.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际频道",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 #EXTINF:-1 tvg-id="WMAQDT1.us" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="国际频道",NBC Chicago News 24/7
-https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master1080p.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="国际频道",NBCLX
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 
 #EXTINF:-1 tvg-name="豆瓣电影TOP250" tvg-logo="https://live.fanmingming.com/tv/豆瓣电影TOP250.png" group-title="电影频道",豆瓣电影TOP250
 http://allinone.netsite.cc/douyu/8770422
