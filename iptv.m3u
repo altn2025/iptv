@@ -419,6 +419,9 @@ http://114.105.187.47:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-name="Channel V" tvg-logo="https://live.fanmingming.com/tv/ChannelV.png" group-title="香港频道",Channel V
 http://114.105.187.47:9901/tsfile/live/0141_2.m3u8
 
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 #EXTINF:-1 tvg-name="豆瓣电影TOP250" tvg-logo="https://live.fanmingming.com/tv/豆瓣电影TOP250.png" group-title="电影频道",豆瓣电影TOP250
 http://allinone.netsite.cc/douyu/8770422
 
