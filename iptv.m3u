@@ -434,7 +434,7 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="国际频道",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
-#EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="Music",Magic TV
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="国际频道",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
 #EXTINF:-1 tvg-id="RockRoll.rs" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="国际频道",Muzzik Rock&Roll
