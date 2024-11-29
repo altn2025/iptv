@@ -482,6 +482,17 @@ https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashi
 #EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="国际频道",Fashion TV (1080p)
 https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/1920x1080_4716800/index.m3u8
 
+#EXTINF:-1 tvg-id="WMXRock.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951290/100x100.webp?type=color_onBlack" group-title="国际频道",WMX Rock (216p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/4.m3u8
+#EXTINF:-1 tvg-id="WMXRock.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951290/100x100.webp?type=color_onBlack" group-title="国际频道",WMX Rock (288p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/3.m3u8
+#EXTINF:-1 tvg-id="WMXRock.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951290/100x100.webp?type=color_onBlack" group-title="国际频道",WMX Rock (404p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/0.m3u8
+#EXTINF:-1 tvg-id="WMXRock.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951290/100x100.webp?type=color_onBlack" group-title="国际频道",WMX Rock (720p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/1.m3u8
+#EXTINF:-1 tvg-id="WMXRock.us" tvg-logo="https://image.xumo.com/v1/channels/channel/99951290/100x100.webp?type=color_onBlack" group-title="国际频道",WMX Rock (1080p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/2.m3u8
+
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="国际频道",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
