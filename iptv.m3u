@@ -489,22 +489,22 @@ http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-name="Channel V" tvg-logo="https://live.fanmingming.com/tv/ChannelV.png" group-title="香港频道",Channel V
 http://114.105.187.77:9901/tsfile/live/0141_2.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News (360p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (360p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/2.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News (540p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (540p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/3.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News (720p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (720p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/4.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="国际频道",BBC News (1080p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (1080p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/5.m3u8
 
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="国际频道",CNN International (360p)
+#EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="国际频道",CNN International (360p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/3.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="国际频道",CNN International (540p)
+#EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="国际频道",CNN International (540p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/2.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="国际频道",CNN International (720p)
+#EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="国际频道",CNN International (720p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/1.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="国际频道",CNN International (1080p)
+#EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="国际频道",CNN International (1080p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/0.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际频道",ABC News Live (576p)
