@@ -507,34 +507,34 @@ https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="国际频道",CNN International (1080p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/0.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际频道",ABC News Live (576p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991377/100x100.webp?type=color_onBlack" group-title="国际频道",ABC News Live (576p)
 https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/37b41504-51f9-45f5-940e-025def7af291/2.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际频道",ABC News Live (720p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991377/100x100.webp?type=color_onBlack" group-title="国际频道",ABC News Live (720p)
 https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/37b41504-51f9-45f5-940e-025def7af291/0.m3u8
 
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="国际频道",CBS News 24/7 (360p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/100x100.webp?type=color_onBlack" group-title="国际频道",CBS News 24/7 (360p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_21.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="国际频道",CBS News 24/7 (540p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/100x100.webp?type=color_onBlack" group-title="国际频道",CBS News 24/7 (540p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_22.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="国际频道",CBS News 24/7 (720p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/100x100.webp?type=color_onBlack" group-title="国际频道",CBS News 24/7 (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="国际频道",NBC News NOW (360p)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/bd92bbe6-9617-4598-9a37-071fd7ded59f/1.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="国际频道",NBC News NOW (432p)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/bd92bbe6-9617-4598-9a37-071fd7ded59f/0.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="国际频道",NBC News NOW (720p)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/bd92bbe6-9617-4598-9a37-071fd7ded59f/3.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="国际频道",NBC News NOW (1080p)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/bd92bbe6-9617-4598-9a37-071fd7ded59f/4.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/100x100.webp?type=color_onBlack" group-title="国际频道",NBC News NOW (360p)
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/1.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/100x100.webp?type=color_onBlack" group-title="国际频道",NBC News NOW (432p)
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/0.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/100x100.webp?type=color_onBlack" group-title="国际频道",NBC News NOW (720p)
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/3.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/100x100.webp?type=color_onBlack" group-title="国际频道",NBC News NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/4.m3u8
 
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",LiveNow from Fox (360p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/100x100.webp?type=color_onBlack" group-title="国际频道",LiveNow from Fox (360p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/0.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",LiveNow from Fox (480p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/100x100.webp?type=color_onBlack" group-title="国际频道",LiveNow from Fox (480p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/1.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",LiveNow from Fox (720p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/100x100.webp?type=color_onBlack" group-title="国际频道",LiveNow from Fox (720p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/2.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",LiveNow from Fox (1080p)
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/100x100.webp?type=color_onBlack" group-title="国际频道",LiveNow from Fox (1080p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/3.m3u8
 
 #EXTINF:-1 tvg-id="WMAQDT1.us" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="国际频道",NBC Chicago News 24/7
