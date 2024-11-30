@@ -4,14 +4,15 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="News",CNN International
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991377/100x100.webp?type=color_onBlack" group-title="News",ABC News Live
 https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/100x100.webp?type=color_onBlack" group-title="News",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991247/100x100.webp?type=color_onBlack" group-title="News",NBC News NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNow from Fox
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991635/100x100.webp?type=color_onBlack" group-title="News",LiveNow from Fox
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News
