@@ -489,13 +489,13 @@ http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-name="Channel V" tvg-logo="https://live.fanmingming.com/tv/ChannelV.png" group-title="香港频道",Channel V
 http://114.105.187.77:9901/tsfile/live/0141_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/2048px-BBC_News_2019.svg.png" group-title="国际频道",BBC News (360p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/2.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (540p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/2048px-BBC_News_2019.svg.png" group-title="国际频道",BBC News (540p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/3.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/2048px-BBC_News_2019.svg.png" group-title="国际频道",BBC News (720p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/4.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/100x100.webp?type=color_onBlack" group-title="国际频道",BBC News (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/2048px-BBC_News_2019.svg.png" group-title="国际频道",BBC News (1080p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg" group-title="国际频道",CNN International (360p)
