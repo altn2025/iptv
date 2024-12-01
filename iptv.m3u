@@ -553,13 +553,13 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际频道",ABC News Australia (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 
-#EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (360p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
-#EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (432p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (432p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-1.m3u8
-#EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (720p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-4.m3u8
-#EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际频道",Classic Arts Showcase (360p)
