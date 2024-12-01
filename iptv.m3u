@@ -553,6 +553,28 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际频道",ABC News Australia (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (360p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/1.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (480p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/4.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (576p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/2.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (720p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/0.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (1080p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (360p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/1.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (480p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/4.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (576p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/2.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (720p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/0.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (1080p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/3.m3u8
+
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (360p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (432p)
