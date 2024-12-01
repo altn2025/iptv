@@ -13,14 +13,18 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="News",LiveNow from Fox
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News",ABC News Australia
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="News",Sky News
+https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="News",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="News",CBC News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_channelId=99991276
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters
+#EXTINF:-1 tvg-logo="" group-title="News",Reuters
 https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/800px-Sky-news-logo.png" group-title="News",Sky News
-https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="Lifestyle",NBC LX Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
