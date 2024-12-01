@@ -27,26 +27,17 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="Music",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV Paris 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
-#EXTINF:-1 tvg-id="FashionTVNewYork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV New York  
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="Lifestyle",Global Fashion Channel
+#EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="Lifestyle",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",Fashion One
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/800px-Sky-news-logo.png" group-title="News",Sky News
-https://dtqutq7lmcchv.cloudfront.net/10001/99951223/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951223
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live
-https://apollo.production-public.tubi.io/live/abc-news2.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
-https://apollo.production-public.tubi.io/live/ac-nbc-news-now2.m3u8
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNow from Fox
-https://apollo.production-public.tubi.io/live/livenow-fox.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="Lifestyle",Fashion TV Paris 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="Lifestyle",Fashion TV New York  
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/ftvuhd-logo-CE02F5C445-seeklogo.com.png" group-title="Lifestyle",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews
 https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
