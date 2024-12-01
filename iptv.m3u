@@ -562,11 +562,11 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-4.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际频道",Classic Arts Showcase (360p)
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="国际频道",Classic Arts Showcase (360p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_360p30.m3u8
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际频道",Classic Arts Showcase (480p)
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="国际频道",Classic Arts Showcase (480p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
-#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际频道",Classic Arts Showcase (720p)
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="国际频道",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="国际频道",Global Fashion Channel (360p)
