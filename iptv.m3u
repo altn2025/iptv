@@ -377,6 +377,8 @@ http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:36 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/now" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now星影台	
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:36 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/now" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now爆谷台	
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8	
 #EXTINF:8 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:47 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/lovenaturehd" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Love Nature HD
