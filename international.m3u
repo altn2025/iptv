@@ -35,6 +35,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991132/hls/playlist.m3u8?ads.xumo_c
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61559301bcb11028da48b065.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=foKh2BY-7sPp6KjmQYp8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="Music",vevo 2K
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-615593004054ee0a9771147a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=U3ZnfEyeM3F4mYEMRgkQ
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="Music",Vevo Pop
+https://dbrb49pjoymg4.cloudfront.net/10001/99991391/hls/playlist.m3u8?ads.xumo_channelId=99991391
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="Music",Vevo Country
+https://dbrb49pjoymg4.cloudfront.net/10001/99951127/hls/playlist.m3u8?ads.xumo_channelId=99951127
 
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="Music",WMX Rock
 https://dbrb49pjoymg4.cloudfront.net/10001/99951290/hls/playlist.m3u8?ads.xumo_channelId=99951290
