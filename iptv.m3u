@@ -690,6 +690,25 @@ https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashi
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="国际频道",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
+#EXTINF:-1 group-title="国际频道",MTV 80s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31558/index.m3u8
+#EXTINF:-1 group-title="国际频道",MTV 90s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
+#EXTINF:-1 group-title="国际频道",MTV 00s
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31559/index.m3u8
+#EXTINF:-1 group-title="国际频道",MTV Live
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
+#EXTINF:-1 group-title="国际频道",MTV Classic
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/142/index.m3u8
+#EXTINF:-1 group-title="国际频道",MTV Hits
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/153/index.m3u8
+#EXTINF:-1 group-title="国际频道",Club MTV
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
+#EXTINF:-1 group-title="国际频道",MTV Music
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/19192/index.m3u8
+#EXTINF:-1 group-title="国际频道",MTV India
+http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6582/index.m3u8
+
 #EXTINF:-1 tvg-id="RockRoll.rs" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="国际频道",Muzzik Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="MOBA.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="国际频道",Muzzik MOBA
