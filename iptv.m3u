@@ -748,6 +748,4 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="电影频道",豺狼的日子
-https://cdn.wlcdn99.com:777/9ea1c30f/index.m3u8
-#EXTINF:-1 group-title="电影频道",豺狼的日子1
-https://cdn.wlcdn99.com:777/9ea1c30f/index.m3u8
+https://s6-e1.pipecdn.vip/ppot/_definst_/mp4:s15/jvod/lxj-cldrz-01-02BEB0D41.mp4/chunklist.m3u8?vendtime=1733576230&vhash=Qm4R2iKTTB3vbp_ltpWZOuY7BOcMZmqiGI0ohnJwwWs=&vCustomParameter=0_37.9.34.38_US_0_0&lb=02633ea43bc627b0e817fd2ed9b4891c
