@@ -600,13 +600,31 @@ https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-s
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383eb2281800ff0e40843801238abb5759d438b3345d45ba5e2355608fb959f97754938309881d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa3cdc38ed4f28f639d31f05d8ca9f2f5b9688b62591ba01a9/131/1920x1080_7333040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="国际频道",WMX Rock (288p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/3.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/3.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="国际频道",WMX Rock (404p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/0.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/0.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="国际频道",WMX Rock (720p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/1.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/1.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="国际频道",WMX Rock (1080p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c71b3a13-af31-440b-a24e-9eeded8a0c98/2.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="国际频道",WMX Pop (288p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ea42b103-8089-4e9e-a433-4ac57eb102f2/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际频道",WMX Pop (404p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ea42b103-8089-4e9e-a433-4ac57eb102f2/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际频道",WMX Pop (720p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ea42b103-8089-4e9e-a433-4ac57eb102f2/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际频道",WMX Pop (1080p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ea42b103-8089-4e9e-a433-4ac57eb102f2/2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",WMX Hip-Hop (288p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",WMX Hip-Hop (404p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",WMX Hip-Hop (720p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",WMX Hip-Hop (1080p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际频道",Global Fashion Channel (360p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_360p.m3u8
