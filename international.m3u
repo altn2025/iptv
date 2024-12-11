@@ -47,6 +47,25 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951289/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="" group-title="Music",WMX Hip-Hop
 https://dbrb49pjoymg4.cloudfront.net/10001/99951291/hls/playlist.m3u8?ads.xumo_channelId=99951291
 
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 60s
+https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 70s
+https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 80s
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 90s
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 00s
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Music Video Karaoke
+https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Classic Floorfillers
+https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Greatest Music Videos of All Time
+https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Classic Rock
+https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music",Staccs Music TV Greatest Hits 
 https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Staccs Music TV 80's Hits
