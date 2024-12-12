@@ -1,41 +1,41 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国频道",CCTV-1 综合
-http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中国频道",CCTV-2 财经
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000502
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中国频道",CCTV-3 综艺
-http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000000
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国频道",CCTV-4 中文国际
-http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1452344678_931674717/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中国频道",CCTV-5 体育
-http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000093
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中国频道",CCTV-5+ 体育赛事
-http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1559678945_883095252/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000507
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中国频道",CCTV-16 奥林匹克
-http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中国频道",CCTV-6 电影
-http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw1592771597_580809367/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000223
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中国频道",CCTV-7 国防军事
-http://[2409:8087:1a0a:df::400f]:80/wh7f454c46tw1639845910_217588519/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000504
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中国频道",CCTV-8 电视剧
-http://[2409:8087:1a0a:df::4036]:80/wh7f454c46tw1670555715_-98597522/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000582
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中国频道",CCTV-9 纪录
-http://[2409:8087:1a0a:df::4015]:80/wh7f454c46tw1711975279_-1056895978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000505
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中国频道",CCTV-10 科教
-http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw1741373816_102984390/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000506
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中国频道",CCTV-11 戏曲
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000508
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中国频道",CCTV-12 社会与法
-http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1801993293_427444497/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000509
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中国频道",CCTV-13 新闻
-http://[2409:8087:1a0a:df::402d]:80/wh7f454c46tw1865416231_2120705273/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中国频道",CCTV-14 少儿
-http://[2409:8087:1a0a:df::404d]:80/wh7f454c46tw1988565230_-380430064/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000511
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中国频道",CCTV-15 音乐
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中国频道",CCTV-17 农业农村
-http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2178989547_-748691326/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁文旅生活.png" group-title="中国频道",南宁文旅生活
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
