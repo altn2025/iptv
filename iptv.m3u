@@ -715,57 +715,62 @@ https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
 #EXTINF:-1 group-title="电影频道",豆瓣电影TOP250
 http://allinone.netsite.cc/douyu/8770422
+#EXTINF:-1 group-title="电影频道",邵氏影院
+http://allinone.netsite.cc/douyu/4246519
+#EXTINF:-1 group-title="电影频道",华语喜剧片
+http://allinone.netsite.cc/douyu/428402
+
+#EXTINF:-1 group-title="电影频道",外语恐怖片
+http://allinone.netsite.cc/douyu/96577
+#EXTINF:-1 group-title="电影频道",华语恐怖片1
+http://allinone.netsite.cc/douyu/218859
+#EXTINF:-1 group-title="电影频道",华语恐怖片2
+http://allinone.netsite.cc/douyu/2935323
+
+#EXTINF:-1 group-title="电影频道",中外电影1
+http://allinone.netsite.cc/douyu/747764
+#EXTINF:-1 group-title="电影频道",中外电影2
+http://allinone.netsite.cc/douyu/1377142
+#EXTINF:-1 group-title="电影频道",中外电影3
+http://allinone.netsite.cc/douyu/431460
+
 #EXTINF:-1 group-title="电影频道",粤语电影1
 http://allinone.netsite.cc/douyu/6566671
 #EXTINF:-1 group-title="电影频道",粤语电影2
 http://allinone.netsite.cc/douyu/1226741
 #EXTINF:-1 group-title="电影频道",粤语电影3
 http://allinone.netsite.cc/douyu/5033502
-#EXTINF:-1 group-title="电影频道",邵氏影院
-http://allinone.netsite.cc/douyu/4246519
+
 #EXTINF:-1 group-title="电影频道",华语电影1
 http://allinone.netsite.cc/douyu/122402
 #EXTINF:-1 group-title="电影频道",华语电影2
 http://allinone.netsite.cc/douyu/85894
-#EXTINF:-1 group-title="电影频道",外语电影
-http://allinone.netsite.cc/douyu/20415
-#EXTINF:-1 group-title="电影频道",华语喜剧片1
+#EXTINF:-1 group-title="电影频道",华语电影3
 http://allinone.netsite.cc/douyu/276200
-#EXTINF:-1 group-title="电影频道",华语喜剧片2
-http://allinone.netsite.cc/douyu/428402
-#EXTINF:-1 group-title="电影频道",华语恐怖片1
-http://allinone.netsite.cc/douyu/218859
-#EXTINF:-1 group-title="电影频道",华语恐怖片2
-http://allinone.netsite.cc/douyu/2935323
-#EXTINF:-1 group-title="电影频道",外语恐怖片3
-http://allinone.netsite.cc/douyu/96577
-#EXTINF:-1 group-title="电影频道",斗鱼电影1
-http://allinone.netsite.cc/douyu/747764
-#EXTINF:-1 group-title="电影频道",斗鱼电影2
-http://allinone.netsite.cc/douyu/6140589
-#EXTINF:-1 group-title="电影频道",斗鱼电影3
-http://allinone.netsite.cc/douyu/36337
-#EXTINF:-1 group-title="电影频道",斗鱼电影4
-http://allinone.netsite.cc/douyu/2436390
-#EXTINF:-1 group-title="电影频道",斗鱼电影5
-http://allinone.netsite.cc/douyu/323876
-#EXTINF:-1 group-title="电影频道",斗鱼电影6
-http://allinone.netsite.cc/douyu/252802
-#EXTINF:-1 group-title="电影频道",斗鱼电影7
-http://allinone.netsite.cc/douyu/1377142
-#EXTINF:-1 group-title="电影频道",斗鱼电影8
-http://allinone.netsite.cc/douyu/431460
-#EXTINF:-1 group-title="电影频道",斗鱼电影9
-http://allinone.netsite.cc/douyu/4332
-#EXTINF:-1 group-title="电影频道",斗鱼电影10
+#EXTINF:-1 group-title="电影频道",华语电影4
 http://allinone.netsite.cc/douyu/3928
-#EXTINF:-1 group-title="电影频道",斗鱼电影11
-http://allinone.netsite.cc/douyu/6621
-#EXTINF:-1 group-title="电影频道",斗鱼电影12
-http://allinone.netsite.cc/douyu/263824
-#EXTINF:-1 group-title="电影频道",斗鱼电影13
+#EXTINF:-1 group-title="电影频道",华语电影5
 http://allinone.netsite.cc/douyu/315457
-#EXTINF:-1 group-title="电影频道",斗鱼电影14
+
+#EXTINF:-1 group-title="电影频道",外语电影1
+http://allinone.netsite.cc/douyu/20415
+#EXTINF:-1 group-title="电影频道",外语电影2
+http://allinone.netsite.cc/douyu/6140589
+#EXTINF:-1 group-title="电影频道",外语电影3
+http://allinone.netsite.cc/douyu/36337
+#EXTINF:-1 group-title="电影频道",外语电影4
+http://allinone.netsite.cc/douyu/2436390
+#EXTINF:-1 group-title="电影频道",外语电影5
+http://allinone.netsite.cc/douyu/323876
+#EXTINF:-1 group-title="电影频道",外语电影6
+http://allinone.netsite.cc/douyu/252802
+#EXTINF:-1 group-title="电影频道",外语电影7
+http://allinone.netsite.cc/douyu/4332
+#EXTINF:-1 group-title="电影频道",外语电影8
+http://allinone.netsite.cc/douyu/6621
+#EXTINF:-1 group-title="电影频道",外语电影9
+http://allinone.netsite.cc/douyu/263824
+#EXTINF:-1 group-title="电影频道",外语电影10
 http://allinone.netsite.cc/douyu/2793084
-#EXTINF:-1 group-title="电影频道",斗鱼电影15
+#EXTINF:-1 group-title="电影频道",外语电影11
 http://allinone.netsite.cc/douyu/10760490
