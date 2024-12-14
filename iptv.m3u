@@ -713,6 +713,13 @@ https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ELECTRO.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="国际频道",Muzzik ELECTRO
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
+#EXTINF:-1 group-title="电影频道",粤语电影1
+http://allinone.netsite.cc/douyu/6566671
+#EXTINF:-1 group-title="电影频道",粤语电影2
+http://allinone.netsite.cc/douyu/1226741
+#EXTINF:-1 group-title="电影频道",粤语电影3
+http://allinone.netsite.cc/douyu/5033502
+
 #EXTINF:-1 group-title="电影频道",豆瓣电影TOP250
 http://allinone.netsite.cc/douyu/8770422
 #EXTINF:-1 group-title="电影频道",邵氏影院
@@ -733,13 +740,6 @@ http://allinone.netsite.cc/douyu/747764
 http://allinone.netsite.cc/douyu/1377142
 #EXTINF:-1 group-title="电影频道",中外电影3
 http://allinone.netsite.cc/douyu/431460
-
-#EXTINF:-1 group-title="电影频道",粤语电影1
-http://allinone.netsite.cc/douyu/6566671
-#EXTINF:-1 group-title="电影频道",粤语电影2
-http://allinone.netsite.cc/douyu/1226741
-#EXTINF:-1 group-title="电影频道",粤语电影3
-http://allinone.netsite.cc/douyu/5033502
 
 #EXTINF:-1 group-title="电影频道",华语电影1
 http://allinone.netsite.cc/douyu/122402
@@ -772,5 +772,3 @@ http://allinone.netsite.cc/douyu/6621
 http://allinone.netsite.cc/douyu/263824
 #EXTINF:-1 group-title="电影频道",外语电影10
 http://allinone.netsite.cc/douyu/2793084
-#EXTINF:-1 group-title="电影频道",外语电影11
-http://allinone.netsite.cc/douyu/10760490
