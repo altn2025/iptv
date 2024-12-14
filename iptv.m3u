@@ -428,7 +428,7 @@ http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文 (备用)" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文 (备用)
-http://114.105.187.77:9901/tsfile/live/1063_1.m3u8
+http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯 (备用)" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯 (备用)
@@ -440,7 +440,7 @@ http://114.105.187.77:9901/tsfile/live/1034_1.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="香港频道",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
-http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Channel V" tvg-logo="https://live.fanmingming.com/tv/ChannelV.png" group-title="香港频道",Channel V
 http://114.105.187.77:9901/tsfile/live/0141_2.m3u8
 
