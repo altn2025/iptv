@@ -539,14 +539,25 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (360p)
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (432p)
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (720p)
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-4.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (360p)
+https://rakuten-euronews-9-gb.lg.wurl.tv/55d551f954cbc061170857c5d0a40341.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (480p)
+https://rakuten-euronews-9-gb.lg.wurl.tv/92a5d583c1409319f9c31e07a958679f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (576p)
+https://rakuten-euronews-9-gb.lg.wurl.tv/66037cf47c8df41335fbf42b1b1b9e7f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (720p)
+https://rakuten-euronews-9-gb.lg.wurl.tv/32f463ebb125922dd9112b6506d51d94.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (360p)
+https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (420p)
+https://live-hls-web-aje-fa.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (540p)
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (720p)
+https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (1080p)
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐频道",Vevo '70s (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2693be85-9bc1-4f79-9302-acd4c8b9d6b6/1.m3u8
@@ -814,6 +825,15 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_360p30.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐频道",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (360p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (432p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-1.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (720p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-4.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际频道",Global Fashion Channel (360p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_360p.m3u8
