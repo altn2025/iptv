@@ -350,7 +350,7 @@ http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台新马 (AKTV)",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:11 group-title="港台新马 (AKTV)",TVBS 新聞台
+#EXTINF:-1 group-title="港台新马 (AKTV)",TVBS 新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 group-title="港台新马 (AKTV)",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
@@ -558,6 +558,22 @@ https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (1080p)
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际频道",NHK World Japan (360p)
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_600k.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际频道",NHK World Japan (720p)
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际频道",NHK World Japan (1080p)
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV (360p)
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/170f2f717127ac5dc8bbb9f4c8445c51.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV (720p)
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/6975c22f22fae655b58158a10f6a3541.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV (1080p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/4c5aa2b0d285b7160171fb9212a19982.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV (2160p)
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
 
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐频道",Vevo '70s (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2693be85-9bc1-4f79-9302-acd4c8b9d6b6/1.m3u8
