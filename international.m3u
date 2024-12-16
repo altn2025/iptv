@@ -54,6 +54,17 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951289/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="" group-title="Music",WMX Hip-Hop
 https://dbrb49pjoymg4.cloudfront.net/10001/99951291/hls/playlist.m3u8?ads.xumo_channelId=99951291
 
+#EXTINF:-1 tvg-logo="" group-title="Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Deluxe Dance by Kontor
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Deluxe Lounge
+https://sdn-global-streaming-cache.3qsdn.com/stream/98807/files/24/07/31/10452083/98807-ZQbdfrkHjpqLFYT.ism/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 60s
 https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 70s
