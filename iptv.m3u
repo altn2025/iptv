@@ -629,6 +629,51 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Hip-Hop (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (360p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (474p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (720p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (360p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (474p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (720p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (360p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (474p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (720p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (360p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (474p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (720p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (360p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/1020800/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (474p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/1751200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (720p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/3291200/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐频道",Now 70s (360p)
 https://lightning-now70s-samsungnz.amagi.tv/playlist360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐频道",Now 70s (480p)
@@ -643,11 +688,11 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐频道",Now 80s (720p)
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",NOW Rock (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",Now Rock (360p)
 https://lightning-now90s-samsungnz.amagi.tv/playlist360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",NOW Rock (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",Now Rock (480p)
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",NOW Rock (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",Now Rock (720p)
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="音乐频道",Staccs Music TV Greatest Hits (360p)
