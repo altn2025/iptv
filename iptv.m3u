@@ -692,12 +692,32 @@ https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1280x720.m
 #EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (1080p)
 https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time
-https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock
-https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now
-https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (360p)
+https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (576p)
+https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (720p)
+https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (1080p)
+https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (360p)
+https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (576p)
+https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (720p)
+https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (1080p)
+https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (360p)
+https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (576p)
+https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (720p)
+https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (1080p)
+https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (360p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1020800/manifest.m3u8
