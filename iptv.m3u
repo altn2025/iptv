@@ -629,6 +629,76 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Hip-Hop (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (360p)
+https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (576p)
+https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (720p)
+https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (1080p)
+https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (360p)
+https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (576p)
+https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (720p)
+https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (1080p)
+https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (360p)
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (576p)
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (720p)
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (1080p)
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (360p)
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (576p)
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (720p)
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (1080p)
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (360p)
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (576p)
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (720p)
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (1080p)
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (360p)
+https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (576p)
+https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (720p)
+https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (1080p)
+https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (360p)
+https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (576p)
+https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (720p)
+https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (1080p)
+https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time
+https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock
+https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now
+https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (360p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1020800/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (474p)
