@@ -98,6 +98,9 @@ https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="Music",Staccs Music TV 80's Hits
 https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music",New K-Pop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=NEqL2-zcEJYZa_bxrddz
+
 #EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="Music",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
