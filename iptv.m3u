@@ -107,6 +107,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="中国频道",新疆卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="中国频道",厦门卫视
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
 #EXTINF:-1 ttvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="中国频道",深圳卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="中国频道",大湾区卫视
