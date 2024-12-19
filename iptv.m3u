@@ -114,178 +114,47 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="中国频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯無限台
-http://litv.zapi.us.kg/?id=litv-longturn10
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯無限二台
-http://litv.zapi.us.kg/?id=litv-longturn13
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯網球台
-http://litv.zapi.us.kg/?id=litv-longturn09
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯魅力台
-http://litv.zapi.us.kg/?id=litv-longturn04
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯運動一台
-http://litv.zapi.us.kg/?id=litv-longturn07
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯運動二台
-http://litv.zapi.us.kg/?id=litv-longturn08
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯高球台
-http://litv.zapi.us.kg/?id=litv-longturn05
-#EXTINF:-1 group-title="台湾频道 (4GTV)",博斯高球台二台
-http://litv.zapi.us.kg/?id=litv-longturn06
-#EXTINF:-1 group-title="台湾频道 (4GTV)",TRACE Sport Stars
-http://litv.zapi.us.kg/?id=4gtv-4gtv077
-#EXTINF:-1 group-title="台湾频道 (4GTV)",時尚運動X
-http://litv.zapi.us.kg/?id=4gtv-4gtv014
-#EXTINF:-1 group-title="台湾频道 (4GTV)",GINX Esports TV
-http://litv.zapi.us.kg/?id=4gtv-4gtv053
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台 (备用)
+http://cdn9.1689.us.kg/smt3.1.1.php?id=jade_twn
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
+http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVB Plus
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河 (备用)
+http://cdn9.1689.us.kg/smt3.1.1.php?id=Xinhe
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="香港频道",TVB千禧经典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB生活台.png" group-title="香港频道",TVB生活台
+http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港频道",TVB华丽台
+http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港频道",TVB华丽台 (备用)
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB功夫台.png" group-title="香港频道",TVB功夫台
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
-#EXTINF:-1 group-title="台湾频道 (4GTV)",華視新聞
-http://litv.zapi.us.kg/?id=4gtv-4gtv052
-#EXTINF:-1 group-title="台湾频道 (4GTV)",中視新聞
-http://litv.zapi.us.kg/?id=4gtv-4gtv074
-#EXTINF:-1 group-title="台湾频道 (4GTV)",民視新聞台
-http://litv.zapi.us.kg/?id=litv-ftv13
-#EXTINF:-1 group-title="台湾频道 (4GTV)",TVBS新聞
-http://litv.zapi.us.kg/?id=4gtv-4gtv072
-#EXTINF:-1 group-title="台湾频道 (4GTV)",鏡電視新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv075
-#EXTINF:-1 group-title="台湾频道 (4GTV)",東森新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv152
-#EXTINF:-1 group-title="台湾频道 (4GTV)",中天新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 group-title="台湾频道 (4GTV)",寰宇新聞台灣台
-http://litv.zapi.us.kg/?id=litv-longturn15
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",CATCHPLAY電影台
-http://litv.zapi.us.kg/?id=4gtv-4gtv076
-#EXTINF:-1 group-title="台湾频道 (4GTV)",采昌影劇台
-http://litv.zapi.us.kg/?id=4gtv-4gtv049
-#EXTINF:-1 group-title="台湾频道 (4GTV)",影迷數位電影台
-http://litv.zapi.us.kg/?id=4gtv-4gtv011
-#EXTINF:-1 group-title="台湾频道 (4GTV)",amc電影台
-http://litv.zapi.us.kg/?id=4gtv-4gtv017
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天映畫
-http://litv.zapi.us.kg/?id=4gtv-4gtv055
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天電影台
-http://litv.zapi.us.kg/?id=4gtv-4gtv061
-#EXTINF:-1 group-title="台湾频道 (4GTV)",龍華電影台
-http://litv.zapi.us.kg/?id=litv-longturn03
-#EXTINF:-1 group-title="台湾频道 (4GTV)",龍華經典台
-http://litv.zapi.us.kg/?id=litv-longturn21
-#EXTINF:-1 group-title="台湾频道 (4GTV)",視納華仁紀實頻道
-http://litv.zapi.us.kg/?id=4gtv-4gtv013
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",台視
-http://litv.zapi.us.kg/?id=4gtv-4gtv066
-#EXTINF:-1 group-title="台湾频道 (4GTV)",中視
-http://litv.zapi.us.kg/?id=4gtv-4gtv040
-#EXTINF:-1 group-title="台湾频道 (4GTV)",華視
-http://litv.zapi.us.kg/?id=4gtv-4gtv041
-#EXTINF:-1 group-title="台湾频道 (4GTV)",民視
-http://litv.zapi.us.kg/?id=4gtv-4gtv002
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",民視第一台
-http://litv.zapi.us.kg/?id=4gtv-4gtv003
-#EXTINF:-1 group-title="台湾频道 (4GTV)",民視台灣台
-http://litv.zapi.us.kg/?id=4gtv-4gtv001
-#EXTINF:-1 group-title="台湾频道 (4GTV)",民視綜藝台
-http://litv.zapi.us.kg/?id=4gtv-4gtv004
-#EXTINF:-1 group-title="台湾频道 (4GTV)",民視旅遊台
-http://litv.zapi.us.kg/?id=litv-ftv07
-#EXTINF:-1 group-title="台湾频道 (4GTV)",中視菁采台
-http://litv.zapi.us.kg/?id=4gtv-4gtv064
-#EXTINF:-1 group-title="台湾频道 (4GTV)",中視經典台
-http://litv.zapi.us.kg/?id=4gtv-4gtv080
-#EXTINF:-1 group-title="台湾频道 (4GTV)",好消息
-http://litv.zapi.us.kg/?id=litv-ftv16
-#EXTINF:-1 group-title="台湾频道 (4GTV)",好消息2台
-http://litv.zapi.us.kg/?id=litv-ftv17
-#EXTINF:-1 group-title="台湾频道 (4GTV)",八大綜藝台
-http://litv.zapi.us.kg/?id=4gtv-4gtv039
-#EXTINF:-1 group-title="台湾频道 (4GTV)",八大精彩台
-http://litv.zapi.us.kg/?id=4gtv-4gtv034
-#EXTINF:-1 group-title="台湾频道 (4GTV)",TVBS
-http://litv.zapi.us.kg/?id=4gtv-4gtv073
-#EXTINF:-1 group-title="台湾频道 (4GTV)",TVBS歡樂台
-http://litv.zapi.us.kg/?id=4gtv-4gtv068
-#EXTINF:-1 group-title="台湾频道 (4GTV)",TVBS精采台
-http://litv.zapi.us.kg/?id=4gtv-4gtv067
-#EXTINF:-1 group-title="台湾频道 (4GTV)",龍華日韓台
-http://litv.zapi.us.kg/?id=litv-longturn11
-#EXTINF:-1 group-title="台湾频道 (4GTV)",龍華偶像台
-http://litv.zapi.us.kg/?id=litv-longturn12
-#EXTINF:-1 group-title="台湾频道 (4GTV)",龍華戲劇台
-http://litv.zapi.us.kg/?id=litv-longturn18
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天育樂台
-http://litv.zapi.us.kg/?id=4gtv-4gtv062
-#EXTINF:-1 group-title="台湾频道 (4GTV)",KLT-靖天國際台
-http://litv.zapi.us.kg/?id=4gtv-4gtv063
-#EXTINF:-1 group-title="台湾频道 (4GTV)",Nice TV 靖天歡樂台
-http://litv.zapi.us.kg/?id=4gtv-4gtv054
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天資訊台
-http://litv.zapi.us.kg/?id=4gtv-4gtv065
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天綜合台
-http://litv.zapi.us.kg/?id=4gtv-4gtv046
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天日本台
-http://litv.zapi.us.kg/?id=4gtv-4gtv047
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天戲劇台
-http://litv.zapi.us.kg/?id=4gtv-4gtv058
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖洋戲劇台
-http://litv.zapi.us.kg/?id=4gtv-4gtv045
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",台灣戲劇台
-http://litv.zapi.us.kg/?id=litv-longturn22
-#EXTINF:-1 group-title="台湾频道 (4GTV)",公視戲劇
-http://litv.zapi.us.kg/?id=4gtv-4gtv042
-#EXTINF:-1 group-title="台湾频道 (4GTV)",豬哥亮歌廳秀
-http://litv.zapi.us.kg/?id=4gtv-4gtv006
-#EXTINF:-1 group-title="台湾频道 (4GTV)",愛爾達娛樂台
-http://litv.zapi.us.kg/?id=4gtv-4gtv070
-#EXTINF:-1 group-title="台湾频道 (4GTV)",客家電視台
-http://litv.zapi.us.kg/?id=4gtv-4gtv043
-#EXTINF:-1 group-title="台湾频道 (4GTV)",亞洲旅遊台
-http://litv.zapi.us.kg/?id=litv-longturn17
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",Mezzo Live HD
-http://litv.zapi.us.kg/?id=4gtv-4gtv083
-#EXTINF:-1 group-title="台湾频道 (4GTV)",CLASSICA 古典樂
-http://litv.zapi.us.kg/?id=4gtv-4gtv059
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",國會頻道1
-http://litv.zapi.us.kg/?id=4gtv-4gtv084
-#EXTINF:-1 group-title="台湾频道 (4GTV)",國會頻道2
-http://litv.zapi.us.kg/?id=4gtv-4gtv085
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",韓國娛樂台 KMTV
-http://litv.zapi.us.kg/?id=4gtv-4gtv016
-#EXTINF:-1 group-title="台湾频道 (4GTV)",ARIRANG阿里郎頻道
-http://litv.zapi.us.kg/?id=4gtv-4gtv079
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",Smart知識台
-http://litv.zapi.us.kg/?id=litv-longturn19
-#EXTINF:-1 group-title="台湾频道 (4GTV)",達文西頻道
-http://litv.zapi.us.kg/?id=4gtv-4gtv018
-#EXTINF:-1 group-title="台湾频道 (4GTV)",ELTV生活英語台
-http://litv.zapi.us.kg/?id=litv-longturn20
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖天卡通台
-http://litv.zapi.us.kg/?id=4gtv-4gtv044
-#EXTINF:-1 group-title="台湾频道 (4GTV)",靖洋卡通Nice Bingo
-http://litv.zapi.us.kg/?id=4gtv-4gtv057
-#EXTINF:-1 group-title="台湾频道 (4GTV)",i-Fun動漫台
-http://litv.zapi.us.kg/?id=litv-ftv15
-#EXTINF:-1 group-title="台湾频道 (4GTV)",龍華卡通台
-http://litv.zapi.us.kg/?id=litv-longturn01
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",台視財經台
-http://litv.zapi.us.kg/?id=4gtv-4gtv056
-#EXTINF:-1 group-title="台湾频道 (4GTV)",第1商業台
-http://litv.zapi.us.kg/?id=4gtv-4gtv104
-#EXTINF:-1 group-title="台湾频道 (4GTV)",東森財經新聞台
-http://litv.zapi.us.kg/?id=4gtv-4gtv153
-
-#EXTINF:-1 group-title="台湾频道 (4GTV)",半島國際新聞台
-http://litv.zapi.us.kg/?id=litv-ftv10
-#EXTINF:-1 group-title="台湾频道 (4GTV)",VOA美國之音
-http://litv.zapi.us.kg/?id=litv-ftv03
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文 (备用)
+http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯 (备用)
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港频道",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港频道",凤凰香港 (备用)
+http://114.105.187.77:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="香港频道",凤凰电影
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="港台新马 (AKTV)",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -410,50 +279,6 @@ http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 group-title="港台新马 (AKTV)",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
-http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台 (备用)
-http://cdn9.1689.us.kg/smt3.1.1.php?id=jade_twn
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVB Plus
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河 (备用)
-http://cdn9.1689.us.kg/smt3.1.1.php?id=Xinhe
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="香港频道",TVB千禧经典台
-http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB生活台.png" group-title="香港频道",TVB生活台
-http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港频道",TVB华丽台
-http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港频道",TVB华丽台 (备用)
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB功夫台.png" group-title="香港频道",TVB功夫台
-http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文 (备用)
-http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯 (备用)
-https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港频道",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港频道",凤凰香港 (备用)
-http://114.105.187.77:9901/tsfile/live/1034_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="香港频道",凤凰电影
-http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
-http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/ChannelV.png" group-title="香港频道",Channel V
-http://114.105.187.77:9901/tsfile/live/0141_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际频道",BBC News (360p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/2.m3u8
@@ -673,12 +498,6 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Hip-Hop (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/2.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (360p)
 https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_640x360.m3u8
@@ -948,63 +767,3 @@ http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/19192/index.m3u8
 #EXTINF:-1 group-title="国际频道",MTV India
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6582/index.m3u8
-
-#EXTINF:-1 group-title="电影频道",粤语电影1
-http://allinone.netsite.cc/douyu/6566671
-#EXTINF:-1 group-title="电影频道",粤语电影2
-http://allinone.netsite.cc/douyu/1226741
-#EXTINF:-1 group-title="电影频道",粤语电影3
-http://allinone.netsite.cc/douyu/5033502
-
-#EXTINF:-1 group-title="电影频道",豆瓣电影TOP250
-http://allinone.netsite.cc/douyu/8770422
-#EXTINF:-1 group-title="电影频道",邵氏影院
-http://allinone.netsite.cc/douyu/4246519
-#EXTINF:-1 group-title="电影频道",华语喜剧片
-http://allinone.netsite.cc/douyu/428402
-
-#EXTINF:-1 group-title="电影频道",外语恐怖片
-http://allinone.netsite.cc/douyu/96577
-#EXTINF:-1 group-title="电影频道",华语恐怖片1
-http://allinone.netsite.cc/douyu/218859
-#EXTINF:-1 group-title="电影频道",华语恐怖片2
-http://allinone.netsite.cc/douyu/2935323
-
-#EXTINF:-1 group-title="电影频道",中外电影1
-http://allinone.netsite.cc/douyu/747764
-#EXTINF:-1 group-title="电影频道",中外电影2
-http://allinone.netsite.cc/douyu/1377142
-#EXTINF:-1 group-title="电影频道",中外电影3
-http://allinone.netsite.cc/douyu/431460
-
-#EXTINF:-1 group-title="电影频道",华语电影1
-http://allinone.netsite.cc/douyu/122402
-#EXTINF:-1 group-title="电影频道",华语电影2
-http://allinone.netsite.cc/douyu/85894
-#EXTINF:-1 group-title="电影频道",华语电影3
-http://allinone.netsite.cc/douyu/276200
-#EXTINF:-1 group-title="电影频道",华语电影4
-http://allinone.netsite.cc/douyu/3928
-#EXTINF:-1 group-title="电影频道",华语电影5
-http://allinone.netsite.cc/douyu/315457
-
-#EXTINF:-1 group-title="电影频道",外语电影1
-http://allinone.netsite.cc/douyu/20415
-#EXTINF:-1 group-title="电影频道",外语电影2
-http://allinone.netsite.cc/douyu/6140589
-#EXTINF:-1 group-title="电影频道",外语电影3
-http://allinone.netsite.cc/douyu/36337
-#EXTINF:-1 group-title="电影频道",外语电影4
-http://allinone.netsite.cc/douyu/2436390
-#EXTINF:-1 group-title="电影频道",外语电影5
-http://allinone.netsite.cc/douyu/323876
-#EXTINF:-1 group-title="电影频道",外语电影6
-http://allinone.netsite.cc/douyu/252802
-#EXTINF:-1 group-title="电影频道",外语电影7
-http://allinone.netsite.cc/douyu/4332
-#EXTINF:-1 group-title="电影频道",外语电影8
-http://allinone.netsite.cc/douyu/6621
-#EXTINF:-1 group-title="电影频道",外语电影9
-http://allinone.netsite.cc/douyu/263824
-#EXTINF:-1 group-title="电影频道",外语电影10
-http://allinone.netsite.cc/douyu/2793084
