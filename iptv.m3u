@@ -156,6 +156,52 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="台湾频道",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="台湾频道",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="台湾频道",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png" group-title="台湾频道",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="台湾频道",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大戏剧台.png" group-title="台湾频道",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大第1台.png" group-title="台湾频道",八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大综合台.png" group-title="台湾频道",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="台湾频道",纬来精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三立戏剧台.png" group-title="台湾频道",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾频道",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="台湾频道",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="台湾频道",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/MOMO綜合台.png" group-title="台湾频道",MOMO綜合台
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来育乐.png" group-title="台湾频道",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 "纬来日本" tvg-logo="https://live.fanmingming.com/tv/纬来日本.png" group-title="台湾频道",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="台湾频道",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/DAZN.png" group-title="台湾频道",DAZN 体育1台
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/DAZN.png" group-title="台湾频道",DAZN 体育2台
+rtmp://f13h.mine.nu/sat/tv741
+
 #EXTINF:-1 group-title="港台新马 (AKTV)",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港台新马 (AKTV)",翡翠台
