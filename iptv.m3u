@@ -1,921 +1,921 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国频道",CCTV-1 综合
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国",CCTV-1 综合
 http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中国频道",CCTV-2 财经
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中国",CCTV-2 财经
 http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中国频道",CCTV-3 综艺
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中国",CCTV-3 综艺
 http://[2409:8087:1a0a:df::404e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国频道",CCTV-4 中文国际
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国",CCTV-4 中文国际
 http://[2409:8087:1a0a:df::4032]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中国频道",CCTV-5 体育
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中国",CCTV-5 体育
 http://[2409:8087:1a0a:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中国频道",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事
 http://[2409:8087:1a0a:df::4032]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中国频道",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中国",CCTV-16 奥林匹克
 http://[2409:8087:1a0a:df::4030]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中国频道",CCTV-6 电影
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中国",CCTV-6 电影
 http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中国频道",CCTV-7 国防军事
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中国",CCTV-7 国防军事
 http://[2409:8087:1a0a:df::400f]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中国频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中国",CCTV-8 电视剧
 http://[2409:8087:1a0a:df::4036]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中国频道",CCTV-9 纪录
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中国",CCTV-9 纪录
 http://[2409:8087:1a0a:df::4015]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中国频道",CCTV-10 科教
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中国",CCTV-10 科教
 http://[2409:8087:1a0a:df::4035]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中国频道",CCTV-11 戏曲
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中国",CCTV-11 戏曲
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中国频道",CCTV-12 社会与法
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中国",CCTV-12 社会与法
 http://[2409:8087:1a0a:df::404e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中国频道",CCTV-13 新闻
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中国",CCTV-13 新闻
 http://[2409:8087:1a0a:df::402d]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中国频道",CCTV-14 少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中国",CCTV-14 少儿
 http://[2409:8087:1a0a:df::404d]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中国频道",CCTV-15 音乐
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中国",CCTV-15 音乐
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中国频道",CCTV-17 农业农村
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中国",CCTV-17 农业农村
 http://[2409:8087:1a0a:df::4030]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁文旅生活.png" group-title="中国频道",南宁文旅生活
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁文旅生活.png" group-title="中国",南宁文旅生活
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁影视娱乐.png" group-title="中国频道",南宁影视娱乐
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁影视娱乐.png" group-title="中国",南宁影视娱乐
 https://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁公共.png" group-title="中国频道",南宁公共频道
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁公共.png" group-title="中国",南宁公共频道
 https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁新闻综合.png" group-title="中国频道",南宁新闻综合
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/南宁新闻综合.png" group-title="中国",南宁新闻综合
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="中国频道",北京卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="中国",北京卫视
 http://[2409:8087:1a0a:df::4010]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="中国频道",天津卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="中国",天津卫视
 http://[2409:8087:1a0a:df::402e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="中国频道",河北卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="中国",河北卫视
 http://[2409:8087:1a0a:df::4039]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="中国频道",山西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="中国",山西卫视
 http://[2409:8087:1a0a:df::402c]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="中国频道",内蒙古卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="中国",内蒙古卫视
 http://[2409:8087:1a0a:df::4035]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="中国频道",辽宁卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="中国",辽宁卫视
 http://[2409:8087:1a0a:df::404a]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="中国频道",吉林卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="中国",吉林卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="中国频道",黑龙江卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="中国",黑龙江卫视
 http://[2409:8087:1a0a:df::4030]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="中国频道",东方卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="中国",东方卫视
 http://[2409:8087:1a0a:df::402d]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="中国频道",江苏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="中国",江苏卫视
 http://[2409:8087:1a0a:df::402f]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="中国频道",浙江卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="中国",浙江卫视
 http://[2409:8087:1a0a:df::4038]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="中国频道",安徽卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="中国",安徽卫视
 http://[2409:8087:1a0a:df::404e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="中国频道",东南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="中国",东南卫视
 http://[2409:8087:1a0a:df::404e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="中国频道",江西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="中国",江西卫视
 http://[2409:8087:1a0a:df::4035]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="中国频道",山东卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="中国",山东卫视
 http://[2409:8087:1a0a:df::4036]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="中国频道",河南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="中国",河南卫视
 http://[2409:8087:1a0a:df::402b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="中国频道",湖北卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="中国",湖北卫视
 http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="中国频道",湖南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="中国",湖南卫视
 http://[2409:8087:1a0a:df::402e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="中国频道",广东卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="中国",广东卫视
 http://[2409:8087:1a0a:df::4011]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="中国频道",广西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="中国",广西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="中国频道",海南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="中国",海南卫视
 http://[2409:8087:1a0a:df::4035]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="中国频道",重庆卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="中国",重庆卫视
 http://[2409:8087:1a0a:df::4039]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="中国频道",四川卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="中国",四川卫视
 http://[2409:8087:1a0a:df::402f]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="中国频道",贵州卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="中国",贵州卫视
 http://[2409:8087:1a0a:df::402c]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="中国频道",云南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="中国",云南卫视
 http://[2409:8087:1a0a:df::4036]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="中国频道",西藏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="中国",西藏卫视
 http://[2409:8087:1a0a:df::402e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="中国频道",陕西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="中国",陕西卫视
 http://[2409:8087:1a0a:df::404a]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="中国频道",甘肃卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="中国",甘肃卫视
 http://[2409:8087:1a0a:df::4015]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="中国频道",青海卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="中国",青海卫视
 http://[2409:8087:1a0a:df::4037]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="中国频道",宁夏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="中国",宁夏卫视
 http://[2409:8087:1a0a:df::4039]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="中国频道",新疆卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="中国",新疆卫视
 http://[2409:8087:1a0a:df::404e]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="中国频道",厦门卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="中国",厦门卫视
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 ttvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="中国频道",深圳卫视
+#EXTINF:-1 ttvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="中国",深圳卫视
 http://[2409:8087:1a0a:df::4037]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="中国频道",大湾区卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="中国",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台 (备用)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台 (备用)
 http://cdn9.1689.us.kg/smt3.1.1.php?id=jade_twn
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",无线新闻台
 http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVB Plus
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB星河 (备用)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港",TVB星河 (备用)
 http://cdn9.1689.us.kg/smt3.1.1.php?id=Xinhe
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="香港频道",TVB千禧经典台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="香港",TVB千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB生活台.png" group-title="香港频道",TVB生活台
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB生活台.png" group-title="香港",TVB生活台
 http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港频道",TVB华丽台
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港",TVB华丽台
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港频道",TVB华丽台 (备用)
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB华丽台.png" group-title="香港",TVB华丽台 (备用)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB功夫台.png" group-title="香港频道",TVB功夫台
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/TVB功夫台.png" group-title="香港",TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港频道",凤凰中文 (备用)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="香港",凤凰中文 (备用)
 http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港频道",凤凰资讯 (备用)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="香港",凤凰资讯 (备用)
 https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港频道",凤凰香港
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港频道",凤凰香港 (备用)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="香港",凤凰香港 (备用)
 http://114.105.187.77:9901/tsfile/live/1034_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="香港频道",凤凰电影
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰电影.png" group-title="香港",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港频道",星空卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="香港",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="台湾频道",TVBS NEWS
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="台湾",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="台湾频道",中天娱乐
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中天娱乐.png" group-title="台湾",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="台湾频道",AMC电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="台湾",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png" group-title="台湾频道",探索亚洲
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png" group-title="台湾",探索亚洲
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="台湾频道",动物星球
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/动物星球.png" group-title="台湾",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大戏剧台.png" group-title="台湾频道",八大戏剧台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大戏剧台.png" group-title="台湾",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大第1台.png" group-title="台湾频道",八大第1台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大第1台.png" group-title="台湾",八大第1台
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大综合台.png" group-title="台湾频道",八大综合台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大综合台.png" group-title="台湾",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="台湾频道",纬来精采
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="台湾",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三立戏剧台.png" group-title="台湾频道",三立戏剧台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三立戏剧台.png" group-title="台湾",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾频道",华视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾",华视
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾频道",台视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾",台视
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾",中视
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾频道",民视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾",民视
 rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="台湾频道",东森超视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="台湾",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="台湾频道",非凡新闻
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="台湾",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/MOMO綜合台.png" group-title="台湾频道",MOMO綜合台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/MOMO綜合台.png" group-title="台湾",MOMO綜合台
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来育乐.png" group-title="台湾频道",纬来育乐
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来育乐.png" group-title="台湾",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 "纬来日本" tvg-logo="https://live.fanmingming.com/tv/纬来日本.png" group-title="台湾频道",纬来日本
+#EXTINF:-1 "纬来日本" tvg-logo="https://live.fanmingming.com/tv/纬来日本.png" group-title="台湾",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="台湾频道",纬来体育
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="台湾",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/DAZN.png" group-title="台湾频道",DAZN 体育1台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/DAZN.png" group-title="台湾",DAZN 体育1台
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/DAZN.png" group-title="台湾频道",DAZN 体育2台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/DAZN.png" group-title="台湾",DAZN 体育2台
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 group-title="港台新马 (AKTV)",無線新聞台
+#EXTINF:-1 group-title="港台 (AKTV)",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",翡翠台
+#EXTINF:-1 group-title="港台 (AKTV)",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",翡翠台 (4K)
+#EXTINF:-1 group-title="港台 (AKTV)",翡翠台 (4K)
 http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",明珠台
+#EXTINF:-1 group-title="港台 (AKTV)",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",TVB Plus
+#EXTINF:-1 group-title="港台 (AKTV)",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",娛樂新聞台
+#EXTINF:-1 group-title="港台 (AKTV)",娛樂新聞台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",黃金翡翠台
+#EXTINF:-1 group-title="港台 (AKTV)",黃金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",千禧經典台
+#EXTINF:-1 group-title="港台 (AKTV)",千禧經典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",亞洲劇台
+#EXTINF:-1 group-title="港台 (AKTV)",亞洲劇台
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",翡翠剧集台(北美)
+#EXTINF:-1 group-title="港台 (AKTV)",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",明珠剧集台(北美)
+#EXTINF:-1 group-title="港台 (AKTV)",明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",翡翠综合台(北美)
+#EXTINF:-1 group-title="港台 (AKTV)",翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",无线新闻台(北美)	
+#EXTINF:-1 group-title="港台 (AKTV)",无线新闻台(北美)	
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台新马 (AKTV)",ViuTV 
+#EXTINF:-1 group-title="港台 (AKTV)",ViuTV 
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",ViuTVsix
+#EXTINF:-1 group-title="港台 (AKTV)",ViuTVsix
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",C+台
+#EXTINF:-1 group-title="港台 (AKTV)",C+台
 http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",美亞電影台
+#EXTINF:-1 group-title="港台 (AKTV)",美亞電影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Now星影台	
+#EXTINF:-1 group-title="港台 (AKTV)",Now星影台	
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Now爆谷台	
+#EXTINF:-1 group-title="港台 (AKTV)",Now爆谷台	
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",AXN
+#EXTINF:-1 group-title="港台 (AKTV)",AXN
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",ROCK Action
+#EXTINF:-1 group-title="港台 (AKTV)",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Love Nature HD
+#EXTINF:-1 group-title="港台 (AKTV)",Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",PopC
+#EXTINF:-1 group-title="港台 (AKTV)",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",tvN
+#EXTINF:-1 group-title="港台 (AKTV)",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Animax
+#EXTINF:-1 group-title="港台 (AKTV)",Animax
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",KIX
+#EXTINF:-1 group-title="港台 (AKTV)",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Thrill
+#EXTINF:-1 group-title="港台 (AKTV)",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台新马 (AKTV)",鳳凰中文
+#EXTINF:-1 group-title="港台 (AKTV)",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",鳳凰資訊
+#EXTINF:-1 group-title="港台 (AKTV)",鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",鳳凰香港
+#EXTINF:-1 group-title="港台 (AKTV)",鳳凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台新马 (AKTV)",TVBS
+#EXTINF:-1 group-title="港台 (AKTV)",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",TVBS 新聞台
+#EXTINF:-1 group-title="港台 (AKTV)",TVBS 新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",中天亞洲台
+#EXTINF:-1 group-title="港台 (AKTV)",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",中天新聞台
+#EXTINF:-1 group-title="港台 (AKTV)",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",东森新闻
+#EXTINF:-1 group-title="港台 (AKTV)",东森新闻
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",寰宇新聞台
+#EXTINF:-1 group-title="港台 (AKTV)",寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",中視
+#EXTINF:-1 group-title="港台 (AKTV)",中視
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",華視
+#EXTINF:-1 group-title="港台 (AKTV)",華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",靖天電影台
+#EXTINF:-1 group-title="港台 (AKTV)",靖天電影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",龍華日韓台
+#EXTINF:-1 group-title="港台 (AKTV)",龍華日韓台
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",龍華電影台
+#EXTINF:-1 group-title="港台 (AKTV)",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台新马 (AKTV)",Channel 5 HD
+#EXTINF:-1 group-title="港台 (AKTV)",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Channel 8 HD
+#EXTINF:-1 group-title="港台 (AKTV)",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Channel U HD
+#EXTINF:-1 group-title="港台 (AKTV)",Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台新马 (AKTV)",Astro AEC
+#EXTINF:-1 group-title="港台 (AKTV)",Astro AEC
 http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Astro AOD
+#EXTINF:-1 group-title="港台 (AKTV)",Astro AOD
 http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Astro iQIYI
+#EXTINF:-1 group-title="港台 (AKTV)",Astro iQIYI
 http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Astro QJ
+#EXTINF:-1 group-title="港台 (AKTV)",Astro QJ
 http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Astro Xing He 
+#EXTINF:-1 group-title="港台 (AKTV)",Astro Xing He 
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台新马 (AKTV)",NHK World-Japan
+#EXTINF:-1 group-title="港台 (AKTV)",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",日テレNEWS24
+#EXTINF:-1 group-title="港台 (AKTV)",日テレNEWS24
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",DW
+#EXTINF:-1 group-title="港台 (AKTV)",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",France 24
+#EXTINF:-1 group-title="港台 (AKTV)",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)", 亞洲新聞台
+#EXTINF:-1 group-title="港台 (AKTV)", 亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",東方衛視國際頻道
+#EXTINF:-1 group-title="港台 (AKTV)",東方衛視國際頻道
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台新马 (AKTV)", Nick Jr
+#EXTINF:-1 group-title="港台 (AKTV)", Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",Nickelodeon
+#EXTINF:-1 group-title="港台 (AKTV)",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="港台新马 (AKTV)",ZooMoo
+#EXTINF:-1 group-title="港台 (AKTV)",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际频道",BBC News (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (360p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际频道",BBC News (540p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (540p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际频道",BBC News (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (720p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际频道",BBC News (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (1080p)
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/558b146b-6e34-4b8c-8ee1-8d89b2ac699f/5.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际频道",CNN International (360p)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (360p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际频道",CNN International (540p)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (540p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际频道",CNN International (720p)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (720p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际频道",CNN International (1080p)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (1080p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际频道",ABC News Live (576p)
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (576p)
 https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/37b41504-51f9-45f5-940e-025def7af291/2.m3u8
-#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际频道",ABC News Live (720p)
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (720p)
 https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/37b41504-51f9-45f5-940e-025def7af291/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际频道",CBS News 24/7 (360p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (360p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_21.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际频道",CBS News 24/7 (540p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (540p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_22.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际频道",CBS News 24/7 (720p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
-#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际频道",NBC News NOW (360p)
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (360p)
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/1.m3u8
-#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际频道",NBC News NOW (432p)
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (432p)
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/0.m3u8
-#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际频道",NBC News NOW (720p)
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (720p)
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/3.m3u8
-#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际频道",NBC News NOW (1080p)
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际频道",LiveNow from Fox (360p)
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (360p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/0.m3u8
-#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际频道",LiveNow from Fox (480p)
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (480p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/1.m3u8
-#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际频道",LiveNow from Fox (720p)
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (720p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/2.m3u8
-#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际频道",LiveNow from Fox (1080p)
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (1080p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际频道",Sky News (360p)
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4e3b0346-ab71-41d4-992b-db6420482768/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际频道",Sky News (432p)
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (432p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4e3b0346-ab71-41d4-992b-db6420482768/0.m3u8
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际频道",Sky News (720p)
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4e3b0346-ab71-41d4-992b-db6420482768/3.m3u8
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际频道",Sky News (1080p)
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4e3b0346-ab71-41d4-992b-db6420482768/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际频道",ABC News Australia (360p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia (360p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际频道",ABC News Australia (576p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia (576p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际频道",ABC News Australia (720p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (360p)
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/1.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (480p)
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (480p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/4.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (576p)
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (576p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/2.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (720p)
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/0.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际频道",CBC News (1080p)
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (480p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/4.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (576p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (576p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/2.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/0.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际频道",Reuters TV (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (360p)
 https://rakuten-euronews-9-gb.lg.wurl.tv/55d551f954cbc061170857c5d0a40341.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (480p)
 https://rakuten-euronews-9-gb.lg.wurl.tv/92a5d583c1409319f9c31e07a958679f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (576p)
 https://rakuten-euronews-9-gb.lg.wurl.tv/66037cf47c8df41335fbf42b1b1b9e7f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际频道",Euronews (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (720p)
 https://rakuten-euronews-9-gb.lg.wurl.tv/32f463ebb125922dd9112b6506d51d94.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (360p)
 https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (420p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (420p)
 https://live-hls-web-aje-fa.getaj.net/AJE/04.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (540p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (540p)
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (720p)
 https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际频道",Al Jazeera English (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (1080p)
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际频道",NHK World Japan (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (360p)
 https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_600k.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际频道",NHK World Japan (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (720p)
 https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际频道",NHK World Japan (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (1080p)
 https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV (360p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734366315&url=ffc61657527c0285acca20c856fe67de-91bb2312c55f2f27ac31345e7efd19f23bfd456dc8e691995b8a35da91a7020907fe7e16c0df3b2827a208c1bd1057dca3ea724c3c682f746aa5f98b59cf3a13f063fe786acd7f62c88c48a4b73c7d6b52b1b186bb763312663c3d77a62b31410256d874fd1784f7056742fc7649f7ddc35af23b9979edc4d72265b9d8ca0a3c5041a2df64d8210dcf375bed68e46b85a6d54efb55b39356252b8b6d38995ac37337bc65a9d036b33243a662abf5b6f39717f9ba204d15e30f88d5b374b4abdd5528aabc828ef6d1d2fef5b7e042a151
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV (720p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734366315&url=f52d0329b4b7e2a9167caa7fc9a38df1-0e70764e68d7daca04b89a77b644f4b0d06d0a6bb2e8377715a969bc0b934cd4049e73b64c5c615de82220edea22dc1adb7e24d323f873becd6f5206054c97abd69c63a309e4613f84553cabe4d278ffc94ad00a862e3507ae7c58e8fedd16d90b8956cf7c795c8c9fa631e29627a378320b566e4b21f9fb55dc2df38383655284c98ef7be9367b353f1b14db67127e1d456d2f788e8ffd6ba7a4e6cdf0685ce09b560834bcdd542f2314a2ef601eed28067bddf5bfcf79033daba2f541556a176d6e0fd936795014484fb124c0db2a3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际频道",Bloomberg TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV (1080p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734366315&url=a235b4d4e77ed8a87f37a9f0037a91df-426fa33ce4e157364752a6601beb633125eefe6882e4e73875fc5c64b940df2be654c9d337b3e2c60660e997f60f284cf898ce111c23c20f9685aa05f0c751799d6cb7f995ee834bee3974c54984981b2e1aec9734ca7702db9c5f1071416d0ee79e27b1a4c39beba0b77ab501a5a35b5f3dc7ade411580765dcf403aab51efcff257d32c3c9a02f5525bd730b8f213e0e530ab5dbf925d9d55c792be02b0425dc05cf19ae85ae699511e3234eb89ef6bca81b5d341dd81fa8175e8abd214ea63824c3720cd457facca46c45b2915ea5
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐频道",Vevo '70s (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2693be85-9bc1-4f79-9302-acd4c8b9d6b6/1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐频道",Vevo '70s (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (480p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2693be85-9bc1-4f79-9302-acd4c8b9d6b6/2.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐频道",Vevo '70s (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2693be85-9bc1-4f79-9302-acd4c8b9d6b6/3.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐频道",Vevo '70s (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/2693be85-9bc1-4f79-9302-acd4c8b9d6b6/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐频道",Vevo '80s (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/6d20f57d-9f31-41f7-88df-8b3422a1d2a2/1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐频道",Vevo '80s (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (480p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/6d20f57d-9f31-41f7-88df-8b3422a1d2a2/2.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐频道",Vevo '80s (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/6d20f57d-9f31-41f7-88df-8b3422a1d2a2/3.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐频道",Vevo '80s (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音乐",Vevo '80s (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/6d20f57d-9f31-41f7-88df-8b3422a1d2a2/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐频道",Vevo '90s (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (360p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61559301bcb11028da48b065/variant.m3u8?x-plex-token=foKh2BY-7sPp6KjmQYp8&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1733083930&url=13e38b00365895f7fdcd46073540bad6-8f82fb12a740f6f853fe19b389ddf9d2a163140557f470a2c834f5552618bb696aa06de31c23c02c3fd0048abeffca4e6a89f0b0cf4bac179a9d6d1602f9883e3da6e068d7f0c4b6c64d85e3584817b8714fdf8d3fca11ac0d2c0f75d5c31b00ff1ef317d5e117aecb51cb430b6edfae306dcafe7db660e9ddce3fdf813cf12b13351abfe7788a25349cdf80e26d47cdad996562c75918ad396f1b1a9be510a7a0e514b769ccc7cce57836641e4e31cab4a5a5935a27f262b7ad42fe8de543acec22b7cca782e3fd985aa7e4934ae963cba13ba9a81237ede0b65cb500099ffb01d9804f499ce537383747a528e162d3141057c5ba35d8655627fcf796c453f2e9fb931ec451a2554c4ed691983de87b36bc4539f56fc5aa72df1bde7b4d0b612ffe877fecfb469cccdd869efeec47883ef35b8b3b5432d02459acc899c4f0860952ccb2641d7a866596b1627f5868233aa9bd4e8fde127acb45b7cf1d91570ffe0c192309942865b35dcfda72c4e539ff1a58f228b9d90088de0cd50c7f1db3fa39aad81b61a99dbd01a60d943d3b9f821fb7009e0a3b8bb63be2d730cd799633306300aca04a8b355ea62ea2e5fe027e5b8dbc3100712c85f790dbe6f4c1f478d177dc85be58fd958e1601f4dd40d209facb82e3f2415e75bf518d3e55cb423f3d973c72898091aaed72e92504ed94cdcc76bb3cf01f942191f73be384a23c8022cf47beced6b8e6659e1d13f50fe5fb2ccf192652a131526bc53ab7d864e5e3a87430111c6431e406a1cf0453ffbf76b60b37a41b19ece5b0e3aff529439fc17ab9f1de3d7e34d348c90d2e1f88ed6106af28ba47cd554c8ea7f2537dfdbffce34e319eaafce76dfba30957086f35e4dbe20c5a3a749a2baa4f273a7352d6441ef60da896c7ce53e604bdcbce4eff22b80e98dc2a83085d14f093f848e6088d2ba1253c2b762b12ac7f98c49ae8f790491294fc6bdebc68bcb49c9fe9039e5c235ede488fce2ed66281ad174c65fd4f0d3bb2561c26bf18bf52fdeff1ebd6941956c8422cd17389fb65235f0d893d59ac6bfb4aa3bff81c1bc348876be6934a15ec107e0c25aed1493973e5faf8ceb3592f0070f992915715cf3f47b0bc9002a1bba4d91ce33192dacff6eeea6489fdf87a54df6c45a0b4b119e7fc3b9c1a6db53ab978b99be1d3feb5eefbd90e0e9ee8f3274d0ab8fa2e067e00f51ade9615eb3cf0736c6c45d20ed409f41b1c9eb965e159daad5c869c6f4e221d01484da1d072a680a4c3daf5538badc798f1690b98abe2f1061be175107325856cdbd190bf1dd0daf6d166d4079e79dfee8bd337beee7e211b74dcc0f7d8d02285fb2b568d4f3d9cd8c2de7411c97e16fd26b2ea075c8f1c9590111215158716cd6a9e4a436f098530be3e80266dd66926e3a93a8511e5f8c083b9c2c930e9f725f25d056ddb5832392eb6cf41f822a6627c1bcc4b40fb11e367f2c58abda3928022444c74332b6a02454eebc6f054a6523630c52904ccd6022c4ede91bfa5a10a1bb8069fc78eb5b4a5825ea2a3fe8a78dfc62a95d1de67b17da5e2edf249b84db8d177c66f35f93824d28ddccfa07df87b9cde7df68ccb5c68d8c42afbc22946b602109bb2a3edfc279b14025f69732ef0d174363bd053d9e7b530d804a1713e4e14cb02c1a47d8b168559fd0a664d17fc059aa9275a635e176aea13cf5f1610f71b219078a0ddd58c94aa773ecc31868988729c9ffe08f0f97ca86f50252e9b7f701da2dd5ab0c714957956ce99c1c108dde2ac7a210a0af65590569da7e60bc746d0cacf3dab5577a41eec2f3d68cfad1e101bd48638ed43680126d5e645ef57bb15527ed336a03222b10bfabe33988232a2839f2c9665477a00193994cdc18d856857980f9c84afec610ee0a0b91b2f204392dca2ff8e134731055cbcf41f1a0f2dc074b477ac1c1f7a0d5836f58ab7f3abce84033aae2268f523a4729b6cdd07a69d88f5fec28d357641208537fee1b79f5e508fd31a7a2d33afead47d6d966cca27773f17af66ed7cd810c6e87c9019b1b38d7cc75835f1ede7dfe1465ef9135bd92476c7bd4cb6d4627d323360d3ac
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐频道",Vevo '90s (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (480p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61559301bcb11028da48b065/variant.m3u8?x-plex-token=foKh2BY-7sPp6KjmQYp8&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1733083930&url=65c5a9254f97534d95f9edf17fc2d082-2bb5ad033fac068affb2a931e9847a69c9256b70f7001fd24945bb30e0284930cc7f57ff4f4feaf3a19b3e6b44edb30c2cbf8033e2209d442da6fbbd0b996f91cc87f324f09249b9aef7763f5a45b87a63301e1bda090479bac94cbc3cee9bad8882308d86647c34c15f4e7aa57c420785bfb80b3410291cbee49bb40087ea44a434d86bfab6d34358844b8753dafd2a77ce8434515e221388635bf9449b7448ef0b3c404c2fba6963cf534393ce619f39bcde18ab58975a244e28b833327b18a82935e30b3ab61fb636a6130a641fdf21d1cc8cb56c6405ca76421e55adf4bf4803a243a9496497f90c3145d3f637d2d34201b75200454e7a1c0cd1503c1cd7bbb023340a62cb60c69c9015755ed6dbc865671530165c2232183e58f0db677fe143c039f0fa167a59d5cb6d355f1b4594b51d43269fff5644736f179fd4b65566d5d7b908e6f94007a8e8d3a2b7e66dbe2c057feeab398d517cc928b264a8e24caeb981eb032443a2a1dc6692b9b06809b56cd7c3901a62e8d0afd1a2b05cfa6832417585041219d84b6743028d3f36a6c743ddc21bbbfa0c2be5ffc694650bc081c74b408934f8150158b402b1184546ece85e1d25d8c29c97bc0913f725c6834fe597a9334f4fff32cd67ac1203bf27d3959a638035afc2b7eaaed8b9bfbddee52f1c5c952cd3e841b20d893bcc6a4271c522def7ab08107606a9798a2d876df2be879f4c4fcd665cd3c0452975e89c842cd62e8ee5da04096b8e00efd10a23fe66fa90741b6a5533b114c4c8282e77d33abba7ab353e1e64d8e1b20a8b55011858208e115ac0ba766175f246e98f9b16e8540ca798835e61bb3c49a4650d472c10c47917393d93c885f9f8e6db6172841292b22d19e100828ec702baf772d8c55b1ff4532edba67f33bd06212908ae6ad9932b66f67115482057082cc72a07297f6bf072feabb784ee411915ca54165dfa4c8b5548ecb8e95f2aa2c5e2f1195bbc289234d9eba5a26226a99d1bc4a68a7813265771c09c986dddc2bf62fd66242ab67a6393834d8acf80926b4bd34ef7c0a333cbff8b8efc68f93367d7555b228245a3e995417312bf407397f355c32a85510973c4d920bed0bebe68c36a521c395438997f3cb6b14e3c42ab610337a74a16b0c86b9d2c3cc7a1efe5f762ac362634a73c3dd316fd7d1016051f3c3f13660a0cb08fe37ad6a684a3f22e1b97b883f750800027f8d7e5eda54c58c7fba7746493159330722a379f4f35da3733c61c9530c02791b4363f6fc8dafd9c93df5d0c82d7816bccc8b40172b75bb8e44663d8546aca75e92668b66ea55a024004f05c60849a219b8f139f3ae0ab340936f33c1100fee815a32b3bdbb3f741256a4538461e6a2dc08d6a46d687e0d2d05f436b41e232255a0f5ff0c6ac9c89fe2dd2f4cb194497a1ffb54eaffc4094d5f1d151d7feb633ffb4a02d54be6e2b7898ad9aac02fffcfda66d4bf7894c6af85c200d5716ce9a02d177e5d294193047ae2151503e65ec4b1391b730a18ac36e287152498d653e9186b62fce0cf0f817d221fa277a9fd8d7512c8dbaf29de81e591639e165203181182021625022ecc70461934dc11ae9a4974112912daa6354e948a42eca97fe948b82f19e3176c897e2b9b9078e2de7b258ee718d2328b1db0d12ca7889c3f3420410a4eaa540d9e05b953ae642c281a4f179af037fac8517ab0f0406e2649a519de126dc3df122e2ac6586e8c75dbb5d7aed92c46e2b003b4a6df624c012187914f8fdf0531de4b48466f15d868e40ae1a0782d9e4ae0754fd85737ef38b2bb6bad651f31a862c2a1d32a4fc51b9d16d89776192dfb8c4af00c45410b7296561cc330185cd03d87b9dea03e4547aa9412b506841c3c3eab2728258e948241e18872df645a19c9298511ffd6ff05bcd9e4a716f6ea5015bc337ef3c22bc32ba58850865b45c215e89cd6b272ada1aec2dd5dd82c4cc772d1fa3fd262ba35a1629fe81663dacee62887d9e5ad242f1786f27ecfdba32f41575344163ec2996609a7f43867c7a1ff21add121a24c1e1b6984b1be3f1e601cb7b6b189a8bfeb6001ce1864f9afc921f
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐频道",Vevo '90s (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (720p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61559301bcb11028da48b065/variant.m3u8?x-plex-token=foKh2BY-7sPp6KjmQYp8&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1733083930&url=397fbef1f81b9956c297e2bcf56f19af-04da9575d07f8cf212e0b9c259208170cecc9ba41ddd1e142b34fff930f9b452994e071fd83c5e9a47a2940871fdba4b03323888b283fd0fb9e999433661f4ab0e298a969123e41e2107d5cc961af4e20c7eb0093d4fd47d62d656dbcecada0a2ab8f346b84954e39a47f26aa9e8775c14a0b58961ccdb6c7a487fce0f9c16f6e72ae872e65e799f91c0b29ce0612a2c8127a3c681e5f7b801ff8d505b2fe80317c222de0f35e6576cd8e8682bb60b232b23b6dbacc0dd886f3a004e1b46d63f6a2d3c887d55eb21d8fa91932c54d387f783bf5844a78823676b3f32a91fbae48c979cf86737b643218602e1a8df01c6a3456653c7c3800c54c188c45614e478425cda66db2b61be2e506791fd32655ec19bde39f0cc674bcff5e1b2c2733f93f5bde5ad522d4ff9e60586ce245e64d8cbe10abd903e03dd0b76fc15836cec89c867953a48926a9349ae02a565359fbe76cb2c805f522e5afa234fc14f3e56e6009057946038a9be95cdea899a74d6296183e08a00b4876708ee98c0511c92113712e4a00ede9b7add400bb4084a9d31cf75fce414740aeb857b32db27cf8530d97801a7996c92021d1765007d5366e304a1b53d3f82bc95040f0346647791c80de60e8bf5f8fd324bf36844ecb0124aa20eaaed2b32c639f28334ad9e82fa347da72de15da5f7e0041c2bbf569452c481f4d503709e3dd13c2753ea7b1bffe838f843636e23e7bc6a87d75fc2a95bc77871c4cf43408546729694ab5491709e374194f0d039df50705c941539763c0de5e46d0d4938e294267f7afe2ab50aac943455ea28984092535d2a7fb8789c919f02602e38b750443a15dee177cff6da1a28babe2008a12eae7fbd35cc1b31d83082585516b73028d29ddb89da5e7505f5d2cacd27489ed6a5be01987ef965bac8ff1c2f944279baa8f9401d1bf8b3c4172bb13be5f7d3a1ee74391d65a7153fb034cea1a4812faba4c6f5283209307c2d6ccbe384032a6c18b97383e46dc6b5faaac630d5a3b24a363ad365c4a4602ec057514757cbbb246df8dfd73c10bc9c2490e8142bf927e18324a695e88b53e24d14a2c4a7a3266cfd68955c5854b56288e25792b05dce3562519a55d7d4ba50d34f7cf97e1ff608502012f3b7c86a0f3948aa1f5680e2ef90b1b57eebda49eaf75c2e129e56dc3924ef2ab5510676ab57df2ea40c2fc9cefc313eb0337536efa9c2fd39ae09419af2328e4910da0f67c2086baf70773bf514f3b9f40f8e885bb95b4b44324a02c771cbe2a3dbc99bb607201f324c9a0e10b17c258e73e6a597af6ebffa9df76ad78368ff62e634a7b5f4ebadb96003f91a0d5d318be5a8c539b07f4c9f021758f4bca9748f27366a95080cf4e5b12d7f3d02428799450915c780ebb8a76604c9d26e8dbf81fb292b27ed6a71bc958dfe81da66166a3f3196bcd426e8f76602607121472e3b6fc99ff43c36a5105b053ac9eed5b32012c90e7e25308b338ed4951da5c5790826747aa226e2eef4c23b529b554b2b3eac9b620c65f90dc78bca7eb18bbef2788d4bab46d204e82d6a1255a9d44751e3a1bf075288df6e8155c1790a6f1b4672c4e39cf2f3cd5dde1ab4097b5c3d7c3572c5ae1d755a9aba48ccb2f5f9169588a5b7a45c6b40b37d78903fcd91ccb3086e5c62b4dee0aecabac7ed705968d55f70056626e6b8732381f9aed04e987a4874467947ef9f8e2a84fc5c63b901306f7dc2353e434f5748d0cd57feb9cad978efa96ba5dada02f7c21963c919ac5cb2661b7c1784cb0fdd59359508da543d09796c7003a2e1bfb105c6466fd10899fb185d1f665653af7309acc4bf8adef26a21dce3032d1e1b3ff4b6305923b4458c1f677605ad1c718d2bb0b32a9a1ef39038217b3ee215ec0eeab7edf7d3db18baaf2335275ec47f79d440a9a2179204a3be2139ec56ba4134be1d100c293fa92cbf591c9819095916326d0081863217ac4e745def58340fc24e9f13327ce1b5808fbb04df11c658f98ea5629647288381d96fbddcf249e574a92b3ec6ed23fb85e6c2acc02acd1e8b4d10f8a034b729dc0be2bdd6e6cf08afabc615ab7c61fe5fbc52dee3
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐频道",Vevo '90s (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音乐",Vevo '90s (1080p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61559301bcb11028da48b065/variant.m3u8?x-plex-token=foKh2BY-7sPp6KjmQYp8&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1733083930&url=53044defe561222d807aebd8f3b40147-ec5273d5950139868dc1de5324cb4e6dfef3b9a91895acd37dc9e6cc92d33e0cedc71d9452898a93235ec4ada823b8eac1ce6b1a84d1f2c0bf88ef275feba3d830c5050bbe827ad7551f9d7857d982494edb5de67cae0063315935cac98d0ef3984783ec921c02f5abdbac133266c5b37789bee3da45d7ab4c3f33042b5053fe8b47f4f7d3fd06df1308912356833d05b1f01eb91352a68a63e844a40836e6ffe90982914561918b673e450b3f3e059a6ae6dc033457bcb0c0155db97a8b4fec6fa2acc68433d0de7afc2d042ad2f576564d456dd45f6b375c7c995189f7ccdd208db378042dbe867d307cef343d0265a03d8361fbd7d37d198aac258738ddaec3c61c36eb29ba80ad65abde5ab1cfd6743154685ad4b999eb8c1b08d5c671ac7f7ee9cfbd32b7dcbb5c8d78996fbc1bec40c75e4569cec974ca2cdd5aefbbf858a8ce940bdc2df50adfaf4bfef3816e455137861908a9627fcf3f3168fc76c395ff3cdee19ec92c0bd02138e25cbd56d4af8ece736bc20a8b0237f360e1b3338923cdf44727042d534c6829bf410ee6b40d6bbd6b59accbbad8ace4d67f6be6e2b48d3b63b8bc855514a1fce77209df199fd3954122f46a39d9ae63fb89e70c3b8ac4329927975db2803897e8629fd4453f826c421931c91eec015c022954d078e181c92b86483e6d5a0ac10c2d8f4e526dc1a3c4cf23af7f534b111d8fa08875e864c741925374e9a441e9842dce6289040b1f0ea107820e02ef0305836433bacacc7d2c2d6f38d191b9ef42cedc175bc1621d0e748061df0b97fc1465856ba44d05bd375fbd7ec8db5f9a5a6fafc246d0242a4bc07186128d5a1272214946e429f4bd11d09b47bb84d595051178831353dc6d173237e310026358e035af419e7d7004d6c9cea84f5ac118cd7c12e5619651ef43f0235d36c17bfeec154e17eb3be2a0fd1bea7373f3cbb71e9ecb898f145ae1a985eba721ec1c9c0dd9db98b121958414d32c3c51fe6da7a1b5f2d36b2708c6c53326fd1cd92abd1017483cfdcd859a4605a40c4e7171dd23630179aeba18b6c5368ddf245c6f087cd83c1cefe1980cca0db313a808d9a4daae8d913933ef23850ed940f9752bcbc25aaacc89a99bc4fd5ded17db72c690891820ce7e5b864b24b67a8b9a6bf3503e485597aeeb28f56ba7c1a0f64c343748c0d44320cabdee75168ae0a37a2ee30d7b3dc5cdc19203df935b9c41b78f34aa10e30b35593dbbd48b2705a5cc2c27438274df87e38e31b8c4809a631bb9dd4cbb1d069e76a86bcdb0b15a8ab6f4ba13f416c652bb6f007cc17e8da1b34be33190faf137f534078dc40b416ec16af4dce4441e5ddba99c7bc9976c23eed744bd172c0f30a054c4d829be745ed7d6b71cf088bd8f3a573a00022c20b3e8441a7eb3a7f3ba6576b9e54b40979ea7e39aa6f8779e56314002ca04d46fe49b6ee24d3ad22bf4e8a95e804739717e5821b9801617eb2fae4b50bc1f246b7733f3691b2f39785389af55b1d216ca40bdc4ccda16eae87c7b1d7ecd3859a7e800d66ebc3cc1e25477a3d2df7e56d6da00410f6f463840e6130a0d6fbfc8525dfeb30f68fd5ea7295bf47bb32e1b25e1b8ba2c2e84d6e910abd9f45fb3ed045725f70a91280c8ea1cab784a7e8f0cd72744fcd4b2c90b05a56f97c7f170236ce8ed78cfcc4e16e3b740760651f0aa6fe9e84e4f5cf83319c7bcf4ce52c053282c543e877cd4575bbb249425d6282329ca50d1b2330a1658ee52bef28c48440134998b4693b09430d596f9a981f6164cb4ba6b5b325efc5683773eb7eb1e88d438adc1b6bcc78f9f9e7c4f60b330c4cac8345875b691995582d278d8186ce9421a1e926b272afb1caf76e2430087ebdbda53ac6258fff4d662a9927516863b7a5b066d71450dc702e090b0e9fcd671945e9590142582c057d6e1b05141dc3a928c7b4bd941e433d2680bacd737fdb91c68b3a60fd0b605cd1a535d69289f0083f292cac2167bcb853577cc31ed74dbfed9468718f7329f2ebc5f5b7f7541632acfe7767497819e30df2627acdb4fbcaaf656e6d1b12c4374401f3df6be70b561c10d884955d0837
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐频道",Vevo 2K (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (360p)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee27e1959a80f43d53801238ab95759d438b334074bb80b230e378bef50ab7204c6800a8b1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff3fdc38f84428f6390ef923e826cd94bb6f33d2aaae04cfac/162/640x360_1057680/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐频道",Vevo 2K (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (480p)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee27e1959a80f43d53801238ab95759d438b334074bb80b230e378bef50ab7204c6800a8b1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff3fdc38f84428f6390ef923e826cd94bb6f33d2aaae04cfac/162/848x480_2284360/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐频道",Vevo 2K (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (720p)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee27e1959a80f43d53801238ab95759d438b334074bb80b230e378bef50ab7204c6800a8b1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff3fdc38f84428f6390ef923e826cd94bb6f33d2aaae04cfac/162/1280x720_4473040/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐频道",Vevo 2K (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音乐",Vevo 2K (1080p)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383ee27e1959a80f43d53801238ab95759d438b334074bb80b230e378bef50ab7204c6800a8b1d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553ff3fdc38f84428f6390ef923e826cd94bb6f33d2aaae04cfac/162/1920x1080_7333040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐频道",Vevo Pop (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (360p)
 https://dtqutq7lmcchv.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/staging_default_xumo-ams-aws/9172c625-3b3d-476e-8c40-74ac75430654/1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐频道",Vevo Pop (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (480p)
 https://dtqutq7lmcchv.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/staging_default_xumo-ams-aws/9172c625-3b3d-476e-8c40-74ac75430654/2.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐频道",Vevo Pop (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (720p)
 https://dtqutq7lmcchv.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/staging_default_xumo-ams-aws/9172c625-3b3d-476e-8c40-74ac75430654/3.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐频道",Vevo Pop (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音乐",Vevo Pop (1080p)
 https://dtqutq7lmcchv.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/staging_default_xumo-ams-aws/9172c625-3b3d-476e-8c40-74ac75430654/4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Vevo Hip-Hop (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (360p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-632997b7f79ba3e1368f8b97/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734364883&url=e7e4539e6f7c5c0732505ee29a543152-a36a984ecc5d0eda6fee339eaf49114fb51d9c796a6577dcb4cd99f1d7b84b538b974f7b4ce259a0ee1f85a5063412c8813676399737401c9634181e16d54f8b1b32f8f0a6ad2c18276c926406a8df2adf7150eb3bc7612a26cad9d1b883349bc21c5425474406a0c804a874d9d385dc4047716ef645f34a8710ed80405355dca967e3ea384f1a8f666a2b372bda802be820e009579bdce51a4512d5ecf1aff2e355cf1cc6fe6c40d4c70e9402be736a4ad8fd380fdcf0e7b44ce3e0b8893fe6bdc9ad71e574fcdce5256baf50986cf0e541b309908d1713b49671263a15f5125ea4c04174da6176e1f9a2a64a8ecc20a8cd72956723c1328ec4f433ea1d7fbc7dd4c8eec832aa317560200c1d2c278bf59f34951af75e9a5d56e03e2bc4d491873f9507b153b2e4f5ea34bf5facfd15a153f9fb0dfcfffa393e5182ebb12fef8d9f5df425e27ac155a3581eddb5bb588982b269d676190e3fce15b44d1d71848c4b666ae3886036eb9e9e0a9fa052371d094eb398667e049d44c94bfdc95119ff0eaaa5dfe6c692a690844c229c1cde8a7a94a8c45fdde18f373c00bf4af131a417ea8bffb6129fb580d2eb7759ffaa2b27a5ffca756b0f8bf37b8d3047dbd915922b5edd8a0a3fdfc1be321865b743d8dffdf9ca679ee714263e6f7daa308090735a8720363bca555f4f9ae2f2f08b82d11726e44a315ea4c5425a930bd2f7c4ac1ad01afe9dfd9f8774cd6dbd854cffc6541cfc869a5f97dd03971b50382a5fe34e9364eaa912889e848b128d245248db6269a9841592ebcfbd78fd66daac24d6bcdbab397e90ee7881834d4b03305e1a9a08be46899beab565bf5ac0197fea615f1d50a650084f05b3b203a5a525123d5aab593627ba1babe0d031d04f52330552dde480a3348aba33c07456dd2d89f5fdbc0aa88456d3889dc6870783035411ead3b109d5ec11eb203a2b6708843a99bf935bcb5f58dd5288c0b702159ce0167ffb46fdb14205daf290a9baa82691f99e9a39149550382cd4f27605ff68dcbca6e3176a5a71901fe7d3863dcc7fa34f0cc0801fb7743aebca43064ba305d39be93089db8153a13dd3b3d4b91c5b739be10ffb5ea8d9ab63dc557d7cc8cc8daa9b6f45206ba96aa420b45a439482d78460de04a9127b3e0ba715039b66f647a227b1cb6403f9d658fcd9cf77e99b52d165924aa680531922738adf14d42fb04e992b71d6d82a8f69a34d0a5fac0de4e1f31c83c0d5e577552bfbb77c6d8e7ed565bedbade797a494f107f5e4c1983b6a6b0875cceb00c73de0cbb11e45ca330c92b4d7ea9a6f9c25b43ebee327fd8ba9e8afe2c6de1a65aaa1fdad7059148fd5cec2e6e68701666f78e3f0c7d98c8091d56f9dca014f731ca4f41d7c5f3128617874445f1d9ae285927eb1cc4a2836895325e79ad73ddf9ed3a4c9fbf5334d659c77b6f001bc9d3e2a6bd127e1669dfd254459cd9af4607e46fad3e3e4883f16432ad731ce0b6de7779ce7f172bc18671ec2df97edcd9e7472cdaca74e96e015d65cedb385d7ba48dcea83e33c3c5a9b374889059a9be658e6b561df2959a5e11a698be3f7927af697c99aa971bc6efa6d9124ad3c5335fe2b9e4f75e5837459af7ca3e91d3a97f73991ed19428665effda389377cd6503d78eba104907801a20edef40602479475784a25c99b511beda5c1c9042f787e86b5d9676674a7cc27d21533004571255b14c96b33b8d5b74afd7935dae3002be9de10fd98bc52af25986bc1a027c0ec5d6a48fa02003cd0d2ec9329c110bbd609850fce5600b89d836bc7343afc13092b3a12f3a46ce346fc8c3f4ecd1fb7497ea97d02f0b65efb60ebd08031dabad153bc6459bd32d184c9e4b7034c850c0313a4630660f908f3c3d5ca38de079695a057244f54bc92af0c74cff240a4009dce7447d7cc13dcb6e0fe57b93c6c5d83b87738c184076571fc54886d631bd562c52d548aac2afcf811a5e4c4f7a773885a7d4679eca51f7044632fb2ffcd8fdc93721757d075cb6e2e9957b1bc9bb4f707f7890899263e3046fd54a00a90dd90ddbe73b4914f2fff6ba7f629bb775e6e619f6b9030b8e0782b6d6635abe2dc8500901180339269ea9d898458ee924cdb62949c1e569e25ba82fce7ab8497d18a5b616f32009516451971aa1c8b4691fa3b6ce7e573548dde80be9c4cc76ef52423a3cd6554e4d4e189f36730a60cd250c2a60e4f768ea9daace075f56d454c35d11e4a4a00bcc5ac491c6446dc8a453a7c4ccd5520d3999c6c94ec98b08429edda127f53302a36d927171f0482c3abae7cea13d00f6cad7fd12f132455571c53b91a88a7df8475
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Vevo Hip-Hop (480p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (480p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-632997b7f79ba3e1368f8b97/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734364883&url=3681caa2bf99298e5ccf26954e187ad7-08d39121a3bff1a29e46d75321678ba362a8212d4cb1ba6e2158b1dc3c61bbf23f11567ad9ba943f700a4a82e8f4a7bdcc3d30f65bdfcf8ec1dcb944f4ee11b2e35b5758681eec04ce07f9398ea517443fef29e1a3810da47f232266a856caa9100fec12acf18f56486566f0c2bb37cd891b8fc1a31551bd9d796666e2dbcf14429fe03f711978a90afdef6f9fce3e957064ea95768979b5fc75a552866996702c4dcf4445047e85235c2d5e30ffcae71df37e4c43cb3d9fe028686e27b76ad82df3a2056b28322ba52c2c091452135a6020b9a4acb42e8af4f80ae52ea11e090f60b7cd56b6212dfc2bd8384d55b018518a441dfc913928c1f884652ee4138ceea05d7b6d795d5bf5e42df43eaabb222ef5916a7668399acea0b70f408bad3980ceec78c4037e27cabea3570b606ca20e36ede0c01bd238cc4bf96e325c84af3bfbf73205e340d13ca3e2061c268dc39afe03b00dc891784dad2a1b7ef9535c67683cdd9271bc3c9a38029efd9d959947e31d493e12c49880a0dbd9285f02cfe042ee032dafaceca04cd32f7c056edd8a2db4de29797ff908adff68e095ea0bf42a4b5254096a59dd0732fe128140603c37715e5d0f488613528ec0e2ed0805c86a6e4e0dc9ad42fb1e7c2fe1a58923f43616d05bee42819f52695bb73d34b4ca1dea65942e6611c9d12eed1a0daca4c90f30c4a85d4f1174b07cb57408d4629ff612935541a04016183bd655e5d06c25f4eaae459d778d5bacb5db0f1397ca636487537f5b6daaeffa792b5858fff149161dea30e832eca7ab31fd82f9c19cb579aac61d6181c5ecfba29d54662f5db024cfaff060737c9f447b150365aa21df06c9686da91265003b2c33ad5d00febe730d43ec5b14ef0ba383a4e08e79707d7a65f7e1ea9649f09fe929c23fa53f8176ca1f083c634637bc24839caa254e03804792d312ca20ea445d30c958b751877e79180122874b823faa9e11ee19889de3943ba3ea47b4dcf04a4429ac1fed08e01efbef36c7a524cb22cb89dd1b3043953e9ee875c654bfc3045856d6c04c651a8c28938829a4cca3531caa6890235c5da9b66a7ddb0136fdae5490dc26ba435738b7e9de4c5f46a4c9ee52a0b68407dca31961fbf95b9aeec48a3befcfa407aadc79c8cb970ebed806d0bc419c4e50d761eaea542dcc749a59026deb06162f5ba307a00f1b6ed9caea1cdd6b5bc4c3badd5c4b29bd31ebefcdaffe84d02413d36c11f321dedcc383335986f3a1c501be0adf556b6c4a16096c2684f61787be5fde442b280e2f426a4f53ed332d84b2b3f4c1ab3158263edc79c09181d4a763589f0cbd22905682e00e09753fbc872720c6de639ff12160f1a70dac798d136941e23cf29a88c1168399ad2569cd269f00d091cbd8c94457b74c449a820b294fb06d3d44d24f919416490ab3947d3e1f3a352e8cbe99d155e937a9dfb49cfb393d9ab8341da390d782c9be0c57619997222c7c589be8e78200ec2df51ffafb90b6457c555192dc45b2a2799588f4f32454853463a1a459bdcbe4e54f59169a31d161b6f4d3cf00516c693c11c1abe8d635c18ac28fd792b9c17c3c67d04bba4dd77f653fa73e3a6049e5beced9e92d19b871684da9df55f144b2b502bf2b0b3c357ddf0299eefd9948a4341b9a0fc08dfafc6d3afeeb33be9b380ec7d0b9f9e3068bd2f3680cd3c6b3e2085aee492ef52e1461427856c61390272011f94c682b41375ac8e72e24fb85b3643f8403ccd4ed0299b1b44a6ef065e0302f28b09f7c30a0a964c667f1101935877c4f8c669aa3e1bb0007f0a16feaf3c7f169a8f03709bb9cb71e56beecb94c3c68a7c1f80b1f9d0bd98adcdb1e5af1f87b1ac9d584d0e0709a9e6f3649448959944f237d2d848f6ef8d2abc2ea943c7450a9a83fb96a0a49dcad0eaf2e4f3b755e3f84b9cb26221588d5788359bbc2ae15161d5372b7e9fb394ae1f787d61065971ec4032041616436fc0105f3970bb1e966188ac3233ed8336d9eacad4a2b661f2b0445f8e866e7af913eb78eb7b3252170c2101ed494c7cdeb52273c0ce0b40261686693e7497307a192dc0b61b9da7d24a7e71d71f81637e95cf06da99fdd2d22d01e352452585cc2bcb81524b670986a391a44cc308e45ce0443fe0246abd5a4ff112b3a9bceff7408de65e3636951ceb5438246f595b443579035cc5518234290053d281dd449eb8b002108b0148fb995ea6f2a9a1f032708d13733b888e879ae4e8249837c70e2950a0436edc1b33e39fad7a3071ab9926131826f8370dff9a0e3ae7bda9b5263773dea3025874e0168b13eec96365e7623a5b207ae47f2e61991
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Vevo Hip-Hop (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (720p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-632997b7f79ba3e1368f8b97/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734364883&url=857230dc1145f6bd5b4585df18d4574b-3d4ce4c680174a6cc5bd5e5349b86578620562d2a48ee6c740f9bebf8f8e9f306ed4105d66098a02a563e68e069888e04982136e6264a66417f423ef3a6534240810b56da5d800184b6e3d3428be5202a53144464e41a70f7f25bcd4f76aa013d4fe14f2adce6fb2e22fbb397d3b68886b8220900a0f35e2d2a14c52e720e1031806740a5a16b3b9e8a148645d637ed4e469e59fcf39304f315e0fdc83cb056aa283f25e1cc5ca481d7395b4bdcaabf291ecf64d8fde8fd0983a9dec22f04a229678ce8750f9c5c3c87543dff6a655688acd7da422a0c668fcc9edce04df677236e9a863a2e3dbc206bfe035164e9f63a2f54a4a79f0bb2dbd5e79c1e6794ebfa47a65deedf594e8b29d88e1bba7e3bd467cb8e4b178d787373e03af966760750183942ba59d3794f91ca73c0990e0ee10f8e90423ab1d4c4e5fb8843026d9bad719045ac7b4199bffc6b402ce6167bfb4bdab5c8a6cb54be9c3b484e1442217ecd054fff4770ba3b3f23ac4b307e55a333268aae1e93ee2ae8ec2a2db46c2ed6404b08faaa9bf7b77767af140496b64b216c3ea157604ef14a5c2512b7ec6e31fec0cf66c6bb7624d5683417e7a27bcf347e29444e32c8c04ec7781f81621043137a7aaf13474c4396f6b50e4725b6abd29cf4ec9444c36c16e7910c6fb4b74d147e714cc43027a6ced52d248ae8e41e398c4d017799476a64a538b3d3ab18e60726a9d2f425eab08a801377ad9be386afcee726d64120ab3c2d7704db70003f8b812de068dcc914f490a3bf9b1552fabd59ef53c7d67e0ab1cdd5581a521ff00a51958ef5bdc78ee0fc96bb50803aadcda498e8e91be7104fb884b95ef16a3674180efc502926a2867d9c2b89b2e2fa140dbf89418211e265c38f13a21cf1fe8347f8c4e9585d1df4f0efccbc1d40c398e392c750969729697a1619a2cc59e366144018cb0a35a34226402de63928bdff61a6e8fb6c39a1a9353f96704925f994716fed46887476c19c45fe36d10cd49c429303323034933413f9aa46ee0c3bab9ba2e8b76397bcdc0419e19f0156a59accb4db206f9273b11887f7ff351448f84f866dfdef73a13fd16b936453486fb79b41160afc78e7916713ff11de9a10f78935ee2158c83881cb847b7ae592ade330eab2ef5da53e7573fbb4f0cfd65b212c39131cd0163ce059cb4d174e3ebec76fae8497e776f5704196eeda1f893fe84430878b2ad14975ae3280060b1528f35ef8fdc5b5ffdaa09b3338c49f4e4dee8fd36a2b7f7270fc49d03337e48e24dc66a99bf6223a1597d07c5508b48f17af6c7aaaa3421c394d7074d038ea8778203178530ecd1cbf921e1b86858320249ff986b284b0cf1f93c8b145ab39b53a35af9e79b58b15c32e0f4d01449fa1aa3c2b2637639430dd0bbc62cb87c766de4e07b5fb52f4fd16e830a1bb3b8727c6d08e8e767889519979d229e4899a93d85fd3ec51b4521ab65840a2e273733b4b5c38a99d858e1d7eae34b9f980d2bb9b3f2bae5c3d935f4a3625af39704f8be2e324121f50e24110da5f592dfcdaa174e07269d45b84ddb77e21554475c8fbe67d664bffa0f2523be3c9be2ab5a9917a2f9c39c1dfe6ea98b9f5467282cfc58ddf5c28ceb26fa77060e2baf0a3ef3117ef6b5b6bc7ad441e44ea89e8d11622f61cf734ae5e4501051507037abd7d3a2ecab944b545adeaf79e0a32f8202e2e3dbf8fe74293bbb1e9641af1c329bc9636d3e791020a7972eda31565f8c1ce10ab438dfbc037373524405ad7c5e430285a9723a6ce45ab926fa966448dbfdc558877bc8c2a3e7eb955e1c468a9852ba943921631e37f4f1734ba8c9fa74c7a10e2219dae89b55e7e7106d122a6f3e9c5db44318fa26c1a76967f3d671c65ce568c1ea9f1fb8d6cb500dbb13ce55951c8ef38d6682ee659ba3a7164965de7c85e8482e61086ab52d4955bb57c56a4e26074a99bf8c23d5e764dbbf55b55e7d7073750a0f4bcdd5d9685d2d9e79da4d088fc294863fdecf4616322790d9ad1adbb8cb6ba69b0677a37f00f6ab4c646cc5c61341bf010d081644d12c89335dba95230f6e4f44efcc51dc4784ee94e3ff05429ae67558df011458ca35fd240c29ebd18b470e737cf9caf733f448f49a418edf4a9546098cebf69e183187237dd4c4f1b08f0e04b14d0a342c81f71fb85af7add14f56476770f24d18acda96f3c6daf6232e2c62dd2683b9ac5f86cee784afda74c3a4f8ebe2cc7056e33c57018afb7a18a23452fc171d5638e8c59d3d582691f27210c4c6f8ca6b7960070900a65d85f36b6f0c1d2594543a9983936471f050e9ab42544778e90c66d6b8004855c8abfc5bcd18be89991206b5f03fa30638cb
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Vevo Hip-Hop (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Vevo Hip-Hop (1080p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-632997b7f79ba3e1368f8b97/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734364883&url=0af8111e2bea0a80f4d98ee712dea5f7-91443fcda21658e63eda49312437284328938bce6e1dac907cc9b934722b1377eedcbeb5a5ea8290b99352b71db5a204546dad9a09223236d7a86d634c68103b4f4444036686937a11408d7e24a4896ea21e6a16f2cb196576602a6fa27f9d14416c193d9a4f7811082efb8e42f636d7f8b26fb86ef8a2df318c4fbfe652e3b8b36593230435763e9ccc6e625ffb6aa1661694fd11aa54e931b15c7ae87c17f24cf613658830bedaa29d2dfe04fdde8d69cd3f376714447c57526563676f53510d5debce5c15634885c04471f27c076babdcb0526d6285d9dacad2898f058c46e1b33e489ebf830d52a755b95d5bee1be1b1afaaeec7047705627bf7abb667d907f37f9b2ee1decbdcfb8fa05e5b26c21f67b0f41d810e949310198052c82cb7915406ad387952c0a6785c7fcbe431a8b857063ec60a86dd43b690f673c90d230189b7ac4514d3c54f733772c1d13cbf6170c527644c76057b757f8c78381a4db01fc2fd164944053d6dde70e9a29e905048c2ede34303a6162a99f553187a49653bcea2b0bc8c6f1f809600887caf6dedf9e760969180aa39fd625db05b4b834bc44ccd1934220a2e7b3dee2f4b5be5977540a30693ebb932ce5487b3eb805bf4df06c42f830988e81cd81802e58700265dd17470423b400ab467fa8b9db3e1024100f336643dc6016aea266b37e6ee9c44278d5d6c5eb2020e100ef765fe35ae58e4871376f37b7f34ffd02b5a8d8b17a1f4e5724a8f1120fbd1d1e0c112a4a1f5c3b6bf6bc22a331803b6e6ca4e5b6b0208d2d30521018d2962840d99f201fa9dff8f24af0675cc96b95835c7c707d1d8fb1a8e43a1a5ea677c57ae2e3ba90f5caab106409d60d4ed8ccceec4610ae67ea5892aa37e030d7388044c6f5d9feb3d6ca393861aee6f375cd6fad9c0da3025cd57e001ed5191740aa511f1170fc4a2109200db9eb75eb0eeccae89417236abc9e2ab28f568184e1933d256940a9fda16b0b50677bdc35423047bc25410f8f985c99cc0b58015094a9954d2776bbb80f56b5d530733703171be2e06080e983836743aca4ee0190c83457852de00a936d4b748726f2625b360cd689ce3d567502ba02071a12f6d216676f7d41e29e340c3dedb961a7e7ba51a153eaf9751085e37c90bfba24cf4c8bd281bf61b6c5fa3e518a83a3dde15a1c1af1d2e343d2d771e1c92816052477ee113219e8808af83721f558aa115e121398eacf500f31541fc9592493d7371edc0a2c7f82acc14a05e6ebd075db8079cbb61caea8cc61f30fc93affc4f11bd28245ecb230f4b7b6c958a17535055d1fc3a604c0b0ba36bc97c90268ebea4f788c300c367196e68e97f1d212e1b30ea30bd8124f3fe812c270049767b59d7161995161380788e2271d8bc193349006f5b384c775274b6d1446a80de1dace68635df116491b96dc5293ab6c308feac4b8fca5470ff5459750944a6c643e463d5d87ea1b82252847b3fac78f0231cc6b9a2dcc2aafc511fd49b00065f6b6a15f47b7c1962e44b5021b3068dfad24e469cb549233c670c527a078047ed0bf9123a309011addb37759fc7bf20bc11ea509792e91b1fe12b6e6aae2595b827f6c141acff87556778ab909303f211bf92dffb9930eb3848d0729f9c170983dc0a6b56c857d2a323274f294a9d2c6f5cf18251dc2e84c78292470b08e064358aa163fd6e8574e77fe21527a9daa52173847d3c4b3a76ec5a49ca9d0841e35cb0b8977a8955b942bccc22bcab60725cde3f5d62bfa42e87ca1b98f73d810bb1d9606851f71539c529c97217e307dcee520ff3e4c6d26fda8461f49d79545bd26ff4c87353f80b2a5cfe663072a484c74e00e4eaf28c20b5a2e804dd88ca638ce69a77b597605fdd77266d61c0de188fc663392fbbf23a3eb5b93e7516e89ca0d09b9eb5621f863f688bd9df950c1b1b7ae60bf2d8f27adeef996203bcd000902efbdd01d4462031e398e48024be8cb6a3fb0d566f9c6ced35f55047008753d697d97bf5b415c6cc08d67022d103cb58b173cd95bfbbd5c49e9b666d9fff4dfe51b2dbbd8fbb3c4f4eb4bbcd0582c1b37130063351b314f3cb0e8ef961c097a7b4cba6bb8d0d47da01ecc928517ec3aff3c4038905211c4199f5174152bbdb1acb12029aad86a009c5e935ec62aadd417c8f5c456ad381c1bf3623a3956ede03456fb43b82c84ace6de95e1fd851773fe53aa81f55b6aa44ca1c4f077a106994868c83550d8c2e7cc8a7c2a549a68f53c89baaa7152afb5444fc3535868411fa5a9cff9dfefabf5bbbad91ab0f46d15529b82baeb4c1d5be1c9571d102a84005d97bdbd5ede156c388de7514ecff2c49b3b574dd1ea5245ab95fc3
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐频道",Vevo Country (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (360p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7744ae5e-ce1d-4af7-8983-f4668e5e3cc5/1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐频道",Vevo Country (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (480p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7744ae5e-ce1d-4af7-8983-f4668e5e3cc5/2.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐频道",Vevo Country (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7744ae5e-ce1d-4af7-8983-f4668e5e3cc5/3.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐频道",Vevo Country (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音乐",Vevo Country (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7744ae5e-ce1d-4af7-8983-f4668e5e3cc5/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐频道",Vevo Retro Rock (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (360p)
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383eb2281800ff0e40843801238abb5759d438b3345d45ba5e2355608fb959f97754938309881d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa3cdc38ed4f28f639d31f05d8ca9f2f5b9688b62591ba01a9/131/640x360_1057680/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐频道",Vevo Retro Rock (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (480p)
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383eb2281800ff0e40843801238abb5759d438b3345d45ba5e2355608fb959f97754938309881d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa3cdc38ed4f28f639d31f05d8ca9f2f5b9688b62591ba01a9/131/848x480_2284360/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐频道",Vevo Retro Rock (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (720p)
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383eb2281800ff0e40843801238abb5759d438b3345d45ba5e2355608fb959f97754938309881d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa3cdc38ed4f28f639d31f05d8ca9f2f5b9688b62591ba01a9/131/1280x720_4473040/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐频道",Vevo Retro Rock (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音乐",Vevo Retro Rock (1080p)
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/cb503f19657b7b8d9ed43c6ef2fc3dff915f3edd062fd12b6fba4cf02c9f4b06c2ffe1bd895be9765d940fba235339040323d41ec07c0ad79c3ca2503562176d8ac4eb208c89655ce18350383eb2281800ff0e40843801238abb5759d438b3345d45ba5e2355608fb959f97754938309881d95ba97f559e886976db56f3886b263c6a1b819108c7cc2f54d0cc06c67cfb870b7a53c26541969b47ef829b350c58281d68652dbd5c049976f64f2c33a501aba887090c85ab998e901840cbb4a347c7ccad9fbd742308f494c55ebb5acd500a94398d873d3285fcf71a39e5bbc74e78e29dee2c09a8fe55777e1791ea0110e06ade0b283f8347c9e6ef2a1e8da7c467e977e256ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3dba2844e992bde88a3d66d190e711258d70cecca249b25d473ad8e34245f464bdfe93fadb1d050346d5895c009a675358d9bddcd8e746aa0093653eb72d6480a6ad84e1755eb39fc8832699d662f9d2531f44a309202b1f81bfca9dfea1128f7b9e347ec64fbba1ad89553fa3cdc38ed4f28f639d31f05d8ca9f2f5b9688b62591ba01a9/131/1920x1080_7333040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐频道",WMX Rock (288p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐",WMX Rock (288p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/3.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐频道",WMX Rock (404p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐",WMX Rock (404p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/0.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐频道",WMX Rock (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐",WMX Rock (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐频道",WMX Rock (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="音乐",WMX Rock (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/69b5c932-899a-41c5-8c19-525e98dcab69/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Pop (288p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Pop (288p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/36b32a3f-5ef6-4174-a938-b4b7321739eb/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Pop (404p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Pop (404p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/36b32a3f-5ef6-4174-a938-b4b7321739eb/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Pop (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Pop (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/36b32a3f-5ef6-4174-a938-b4b7321739eb/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Pop (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Pop (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/36b32a3f-5ef6-4174-a938-b4b7321739eb/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Hip-Hop (288p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Hip-Hop (288p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Hip-Hop (404p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Hip-Hop (404p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Hip-Hop (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Hip-Hop (720p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",WMX Hip-Hop (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",WMX Hip-Hop (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5cb5b6bd-a4fc-4954-a140-a908a48a8942/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 60s (360p)
 https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 60s (576p)
 https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 60s (720p)
 https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 60s (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 60s (1080p)
 https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 70s (360p)
 https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 70s (576p)
 https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 70s (720p)
 https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 70s (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 70s (1080p)
 https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 80s (360p)
 https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 80s (576p)
 https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 80s (720p)
 https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 80s (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 80s (1080p)
 https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 90s (360p)
 https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 90s (576p)
 https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 90s (720p)
 https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 90s (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 90s (1080p)
 https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 2000s (360p)
 https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 2000s (576p)
 https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 2000s (720p)
 https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Best of The 2000s (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Best of The 2000s (1080p)
 https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Music Video Karaoke (360p)
 https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Music Video Karaoke (576p)
 https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Music Video Karaoke (720p)
 https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Music Video Karaoke (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Music Video Karaoke (1080p)
 https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Floorfillers (360p)
 https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Floorfillers (576p)
 https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Floorfillers (720p)
 https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Floorfillers (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Floorfillers (1080p)
 https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Greatest Music Videos of All Time (360p)
 https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Greatest Music Videos of All Time (576p)
 https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Greatest Music Videos of All Time (720p)
 https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Greatest Music Videos of All Time (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Greatest Music Videos of All Time (1080p)
 https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Rock (360p)
 https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Rock (576p)
 https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Rock (720p)
 https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Classic Rock (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Classic Rock (1080p)
 https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Hot Right Now (360p)
 https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (576p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Hot Right Now (576p)
 https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Hot Right Now (720p)
 https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",ROXi - Hot Right Now (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",ROXi - Hot Right Now (1080p)
 https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist_1920x1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (360p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1020800/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (474p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (474p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (720p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/3291200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐频道",Stingray Classica (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica (1080p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (360p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (360p)
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/1020800/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (474p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (474p)
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/1751200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (720p)
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/3291200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐频道",Stingray DJAZZ (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ (1080p)
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (360p)
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1020800/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (474p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (474p)
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/1751200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (720p)
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/3291200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐频道",Stingray Naturescape (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape (1080p)
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/5711200/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (360p)
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1020800/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (474p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (474p)
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/1751200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (720p)
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐频道",Movie Music by Stingray (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray (1080p)
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (360p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/1020800/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (474p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (474p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/1751200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (720p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/3291200/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐频道",Qello Concerts by Stingray (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray (1080p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐频道",Now 70s (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s (360p)
 https://lightning-now70s-samsungnz.amagi.tv/playlist360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐频道",Now 70s (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s (480p)
 https://lightning-now70s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐频道",Now 70s (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s (720p)
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐频道",Now 80s (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s (360p)
 https://lightning-now80s-samsungnz.amagi.tv/playlist360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐频道",Now 80s (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s (480p)
 https://lightning-now80s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐频道",Now 80s (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s (720p)
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",Now Rock (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock (360p)
 https://lightning-now90s-samsungnz.amagi.tv/playlist360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",Now Rock (480p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock (480p)
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐频道",Now Rock (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock (720p)
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Staccs Music TV Greatest Hits (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV Greatest Hits (360p)
 https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/ed878872-9e61-4b4e-858c-5cebca0b6050/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Staccs Music TV Greatest Hits (540p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV Greatest Hits (540p)
 https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/ed878872-9e61-4b4e-858c-5cebca0b6050/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Staccs Music TV Greatest Hits (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV Greatest Hits (720p)
 https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/ed878872-9e61-4b4e-858c-5cebca0b6050/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Staccs Music TV 80's Hits (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits (360p)
 https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Staccs Music TV 80's Hits (540p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits (540p)
 https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Staccs Music TV 80's Hits (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits (720p)
 https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/c6383a68-7837-4998-9804-e8786fd0d232/2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",New K-Pop (360p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (360p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734368200&url=b06a06efbbcc749b43099c884b7e4286-ae00f90958a8e4a358c7c9cefd77c6d96d6bce0e77d680177cc5b936b324c524c9dc2e0b11d511aa3438004562c0825d4511d840c11b488ddd7be85fd7606792b992082ac0f9a72b8b266e416cbe9e2b8e7daec26a0267f93b82172b9ba9c546dc0434e44147404640d559ef10dcd72a59900a6fc020ba9dca5671393065e25755d64415685cc53b915680b63039fcecd8ad9d3451cbd84dacf6075a883f1e957da5c1662f1a15e3ae7b549c068525cb0415153d25a066d9c25e81ce5675c926
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",New K-Pop (540p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (540p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734368200&url=1f05781eda00ebda72740bf6d027c23f-1a78a6cc83d8f9196f2ee8b64c97a06449b4767a2b38345140d9e3f9a7a2bdd590f94538ed993d1c1e38c0375c163568a6b94dd220800e44b06fed83cb8448f562bd3c56c34c9d21cb1b74a55f7a5139522febdfc951d5a9af1ca0de01238f5281ffed1b40d9750bad8d4dcd8a94fcbeb593f0a194bfe09bfd46c32bd857e0997e4661a1dccdbf73150f1421a5911b2d1669a275116c3e5c0b1024177d2f10bd6500a5dba85b6b7a3759f5055d118f4b6cbb09785b788055066d99dfe715fbac
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",New K-Pop (720p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (720p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734368200&url=8507c731062aef95c4cdfb612f0c1e7c-c951d6defd43b4e2aed7080e19605f8347583a2163b511ada404a27884d59018fd29bbfb0d76764640d96b194063861cc6cb695c125a052bcfb91941e743db4ed63f7392d7ffadbb43efa70bda6c7a8abb0cc4974323772977d806a41f2dc68b2fdfb70a2784b8b727701a199d4fd9e8d4cf0627c61554899be223e1e6fe1ac0e78951ed4244bc3ddc4566550af73842c6417b26483a3ac1020d051a39a3b817ef3e5872b652f567625b964c1d08e6fd7d7ea61930c724d9bf686d0316da087c
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",New K-Pop (1080p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop (1080p)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d/variant.m3u8?x-plex-token=NEqL2-zcEJYZa_bxrddz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1734368200&url=8175d254950dd01caf8178f1dd00c50b-51f0c7be79ec7b63c0a46fcfb44986cb1d978c53cbca332119d8c66e965e33497d8e8ef3d25bde7034c8249cf95a72b5787fd8764fadbbc6d1075befc1beb4ab50ac25b615c1409a62445845e7778d779cd17ecaf6734cc33e7b635096ff4ea137b58f86a2d3819a93fa27acebcf6103cfcc6060759096a4432c4039eceda24d4b15c2b504b83701f69a39c4d99d77b1f48e781935997cb348ae6325e232c261a6c71909b468c30b04778312c214985847ed46d3f2b6bb1fac021589c13f0b1f
 
-#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐频道",Classic Arts Showcase (360p)
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase (360p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_360p30.m3u8
-#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐频道",Classic Arts Showcase (480p)
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase (480p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
-#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐频道",Classic Arts Showcase (720p)
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐频道",Magic TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Deluxe Music
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Schlager Deluxe
+#EXTINF:-1 tvg-logo="" group-title="音乐",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Deluxe Rap
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Deluxe Dance by Kontor
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Dance by Kontor
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐频道",Deluxe Lounge
+#EXTINF:-1 tvg-logo="" group-title="音乐",Deluxe Lounge
 https://sdn-global-streaming-cache.3qsdn.com/stream/98807/files/24/07/31/10452083/98807-ZQbdfrkHjpqLFYT.ism/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="音乐频道",Muzzik Rock&Roll
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="音乐",Muzzik Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐频道",Muzzik MOBA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik MOBA
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="音乐频道",Muzzik POP STAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="音乐",Muzzik POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="音乐频道",J.E.K.A. Muzzik
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="音乐",J.E.K.A. Muzzik
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐频道",Muzzik ZZ TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="音乐频道",Worldwide Muzzik
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="音乐",Worldwide Muzzik
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐频道",Muzzik TIKTAK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik TIKTAK
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐频道",MUZZIK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",MUZZIK
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐频道",Muzzik SENSE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik SENSE
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐频道",Muzzik FLASHBACK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik FLASHBACK
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐频道",Muzzik ELECTRO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ELECTRO
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (360p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (432p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (432p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-1.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (720p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-4.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际频道",NBC LX Home (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-5.m3u8
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际频道",Global Fashion Channel (360p)
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (360p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_360p.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际频道",Global Fashion Channel (540p)
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (540p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_540p.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际频道",Global Fashion Channel (720p)
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (720p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际频道",Global Fashion Channel (1080p)
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/65/2f/35652f7e-99c6-e4d4-3c1d-6dde5d05fd68/mzl.nheytvtq.jpg/400x400bb.jpg" group-title="国际",Global Fashion Channel (1080p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际频道",Fashion TV (360p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (360p)
 https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/640x360_1020800/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际频道",Fashion TV (480p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (480p)
 https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/848x480_1249600/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际频道",Fashion TV (720p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (720p)
 https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/1280x720_2657600/index.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际频道",Fashion TV (1080p)
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJK1K.jpg" group-title="国际",Fashion TV (1080p)
 https://amg01546-ftv-fashiontv-xiaomi-i9oiw.amagi.tv/playlist/amg01546-ftv-fashiontv-xiaomi/cb553d1c7f6c648a9cd43e63d6ef42a1df246ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66413925924d8b2245d8d964a85a243e517e9b99ac7bc0894e50e98d1f5d7fe0214143ea0b15d7230624daba57098068ed345442ed0f230f33d5bb44fe7001cd86028b7a7f8bf9df03404765676ba61ccf9224c3edd42714983dff932372a75e26c7199604e6368ff19702cf69b66cc1168caa34b8f2aeb446b71b4126c24d9bea0f7fe99678b3833797c9936876a87e235f116f01c2f9a363339c4e4f50f9b09ef135bf5bf9802b856f20a840b67bc466c43af14993f347a4a8b5cb0d1677f49f1b7331fab4f1c4ab7c73b16ff0a7a9fa767f92f9660b2da05ad12c2f3787ee8b43f6a53ba2f675cbe5134c52a9bc4c988fbd90e0b69930e70cc4d3f18a33475a23211a9651ad8868c96990389fc71d25535a57effd71c195d24a3f7245e5d1068c0b7a59ba476818d45d9943b3e94b79be6c7b8eb0c18add5701/188/1920x1080_4716800/index.m3u8
 
-#EXTINF:-1 group-title="国际频道",MTV 80s
+#EXTINF:-1 group-title="国际",MTV 80s
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31558/index.m3u8
-#EXTINF:-1 group-title="国际频道",MTV 90s
+#EXTINF:-1 group-title="国际",MTV 90s
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
-#EXTINF:-1 group-title="国际频道",MTV 00s
+#EXTINF:-1 group-title="国际",MTV 00s
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31559/index.m3u8
-#EXTINF:-1 group-title="国际频道",MTV Live
+#EXTINF:-1 group-title="国际",MTV Live
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/221/index.m3u8
-#EXTINF:-1 group-title="国际频道",MTV Classic
+#EXTINF:-1 group-title="国际",MTV Classic
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/142/index.m3u8
-#EXTINF:-1 group-title="国际频道",MTV Hits
+#EXTINF:-1 group-title="国际",MTV Hits
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/153/index.m3u8
-#EXTINF:-1 group-title="国际频道",Club MTV
+#EXTINF:-1 group-title="国际",Club MTV
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
-#EXTINF:-1 group-title="国际频道",MTV Music
+#EXTINF:-1 group-title="国际",MTV Music
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/19192/index.m3u8
-#EXTINF:-1 group-title="国际频道",MTV India
+#EXTINF:-1 group-title="国际",MTV India
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6582/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国频道 (备用)",CCTV-1 综合
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国 (备用)",CCTV-1 综合
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中国频道 (备用)",CCTV-2 财经
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中国 (备用)",CCTV-2 财经
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中国频道 (备用)",CCTV-3 综艺
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="中国 (备用)",CCTV-3 综艺
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国频道 (备用)",CCTV-4 中文国际
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国 (备用)",CCTV-4 中文国际
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中国频道 (备用)",CCTV-5 体育
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中国 (备用)",CCTV-5 体育
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中国频道 (备用)",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中国 (备用)",CCTV-5+ 体育赛事
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中国频道 (备用)",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中国 (备用)",CCTV-16 奥林匹克
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中国频道 (备用)",CCTV-6 电影
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中国 (备用)",CCTV-6 电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中国频道 (备用)",CCTV-7 国防军事
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中国 (备用)",CCTV-7 国防军事
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000024341/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中国频道 (备用)",CCTV-8 电视剧
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="中国 (备用)",CCTV-8 电视剧
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000003736/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中国频道 (备用)",CCTV-9 纪录
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="中国 (备用)",CCTV-9 纪录
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中国频道 (备用)",CCTV-10 科教
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="中国 (备用)",CCTV-10 科教
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中国频道 (备用)",CCTV-11 戏曲
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中国 (备用)",CCTV-11 戏曲
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019789/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中国频道 (备用)",CCTV-12 社会与法
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="中国 (备用)",CCTV-12 社会与法
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032494/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中国频道 (备用)",CCTV-13 新闻
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中国 (备用)",CCTV-13 新闻
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中国频道 (备用)",CCTV-14 少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中国 (备用)",CCTV-14 少儿
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中国频道 (备用)",CCTV-15 音乐
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中国 (备用)",CCTV-15 音乐
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000008163/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中国频道 (备用)",CCTV-17 农业农村
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中国 (备用)",CCTV-17 农业农村
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000056836/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="中国频道 (备用)",北京卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="中国 (备用)",北京卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017156/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="中国频道 (备用)",天津卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="中国 (备用)",天津卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000831/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="中国频道 (备用)",河北卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="中国 (备用)",河北卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000017118/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="中国频道 (备用)",山西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="中国 (备用)",山西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="中国频道 (备用)",内蒙古卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="中国 (备用)",内蒙古卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000014080/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="中国频道 (备用)",辽宁卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="中国 (备用)",辽宁卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001945/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="中国频道 (备用)",吉林卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="中国 (备用)",吉林卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031117/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="中国频道 (备用)",黑龙江卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="中国 (备用)",黑龙江卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="中国频道 (备用)",东方卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="中国 (备用)",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000005866/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="中国频道 (备用)",江苏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="中国 (备用)",江苏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="中国频道 (备用)",浙江卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="中国 (备用)",浙江卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="中国频道 (备用)",安徽卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="中国 (备用)",安徽卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020780/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="中国频道 (备用)",东南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="中国 (备用)",东南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009263/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="中国频道 (备用)",江西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="中国 (备用)",江西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000013731/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="中国频道 (备用)",山东卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="中国 (备用)",山东卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012807/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="中国频道 (备用)",河南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="中国 (备用)",河南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031119/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="中国频道 (备用)",湖北卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="中国 (备用)",湖北卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000010355/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="中国频道 (备用)",湖南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="中国 (备用)",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="中国频道 (备用)",广东卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="中国 (备用)",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="中国频道 (备用)",广西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="中国 (备用)",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="中国频道 (备用)",海南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="中国 (备用)",海南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000075/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="中国频道 (备用)",重庆卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="中国 (备用)",重庆卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="中国频道 (备用)",四川卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="中国 (备用)",四川卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016825/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="中国频道 (备用)",贵州卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="中国 (备用)",贵州卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="中国频道 (备用)",云南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="中国 (备用)",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000024694/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="中国频道 (备用)",西藏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="中国 (备用)",西藏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="中国频道 (备用)",陕西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="中国 (备用)",陕西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="中国频道 (备用)",甘肃卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="中国 (备用)",甘肃卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000017827/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="中国频道 (备用)",青海卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="中国 (备用)",青海卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000013359/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="中国频道 (备用)",宁夏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="中国 (备用)",宁夏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031451/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="中国频道 (备用)",新疆卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="中国 (备用)",新疆卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="中国频道 (备用)",厦门卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="中国 (备用)",厦门卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
-#EXTINF:-1 ttvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="中国频道 (备用)",深圳卫视
+#EXTINF:-1 ttvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="中国 (备用)",深圳卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="中国频道 (备用)",大湾区卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="中国 (备用)",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
