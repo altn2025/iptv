@@ -823,11 +823,11 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国 (备用)",CCTV-4 中文国际
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中国 (备用)",CCTV-5 体育
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265005/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中国 (备用)",CCTV-5+ 体育赛事
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/1.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265016/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中国 (备用)",CCTV-16 奥林匹克
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="中国 (备用)",CCTV-6 电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="中国 (备用)",CCTV-7 国防军事
