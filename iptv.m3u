@@ -110,6 +110,9 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000013359/1.m3u8?chan
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="中国",新疆卫视
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="中国",海峡卫视
+http://php.jdshipin.com:8880/fujian.php?id=9
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="中国",厦门卫视
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
 #EXTINF:-1 ttvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="中国",深圳卫视
@@ -122,6 +125,19 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000266005/1.m3u8?chan
 http://[2409:8087:5e08:24::17]:6610/000000001000/4600001000000000117/1.m3u8?channel-id=bestzb&Contentid=4600001000000000117&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="中国",农林卫视
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="中国",延边卫视
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000266008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="中国",卡酷少儿
+http://[2409:8087:5e08:24::17]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=ystenlive&Contentid=7851974109718180595&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="中国",哈哈炫动
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="中国",金鹰卡通
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="中国",嘉佳卡通
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="中国",优漫卡通
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
