@@ -197,9 +197,6 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-logo="" group-title="台湾",HBO
-https://zf.315600.xyz/proxy/http://125.227.210.55:8153/VideoInput/play.ts
-
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBSNEWS.png" group-title="台湾",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png" group-title="台湾",中天娱乐
@@ -245,6 +242,9 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DAZN.png" group-title="台湾",DAZN 体育2台
 rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 tvg-logo="" group-title="台湾",HBO
+https://zf.315600.xyz/proxy/http://125.227.210.55:8153/VideoInput/play.ts
 
 #EXTINF:-1 group-title="港台 (AKTV)",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
