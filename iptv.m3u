@@ -128,15 +128,31 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000266003/1.m3u8?chan
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="中国",延边卫视
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000266008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="中国",卡酷少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="中国",CETV-1 综合教育频道
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="中国",CETV-2 空中课堂频道
+http://[2409:8087:5e08:24::17]:6610/200000001898/460000089800010104//1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="中国",CETV-4 职业教育频道
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="中国",山东教育卫视
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000004097/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="中国",纪实科教 (北京)
+http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000001910/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="中国",纪实人文 (上海)
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000010282/1.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="中国",金鹰纪实 (湖南)
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="中国",卡酷少儿 (北京)
 http://[2409:8087:5e08:24::17]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=ystenlive&Contentid=7851974109718180595&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="中国",哈哈炫动
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="中国",哈哈炫动 (上海)
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="中国",金鹰卡通
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="中国",金鹰卡通 (湖南)
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="中国",嘉佳卡通
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="中国",嘉佳卡通 (广东)
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="中国",优漫卡通
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="中国",优漫卡通 (江苏)
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台
