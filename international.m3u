@@ -190,3 +190,11 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Def Jam
 https://apollo.production-public.tubi.io/live/def-jam.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BBC One
+http://92.114.85.81:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BBC Two
+http://92.114.85.81:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BBC Three
+http://92.114.85.81:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BBC Four
+http://92.114.85.81:8000/play/a007/index.m3u8
