@@ -160,7 +160,9 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (备用)
 http://cdn9.1689.us.kg/smt3.1.1.php?id=jade_twn
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台
-http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (备用)
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5182&tk=7877e7cc41c7
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻台
@@ -183,19 +185,21 @@ http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文 (备用)
-http://122.224.58.42:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2360&tk=7877e7cc41c7
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯 (备用)
-https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7059&tk=7877e7cc41c7
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (备用)
-http://114.105.187.77:9901/tsfile/live/1034_1.m3u8
+http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰电影.png" group-title="香港",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
-http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.105.187.147:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/ChannelV.png" group-title="香港",Channel [V]
+http://114.105.187.147:9901/tsfile/live/0141_2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="台湾",HBO
 https://zf.315600.xyz/proxy/http://125.227.210.55:8153/VideoInput/play.ts
