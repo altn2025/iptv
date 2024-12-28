@@ -190,6 +190,7 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Def Jam
 https://apollo.production-public.tubi.io/live/def-jam.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",BBC One
 http://92.114.85.81:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",BBC Two
@@ -198,3 +199,8 @@ http://92.114.85.81:8000/play/a011/index.m3u8
 http://92.114.85.81:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",BBC Four
 http://92.114.85.81:8000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV Biggest Pop
+https://cfd-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?deviceId=eea5f14dad36540f20b2c4f7bb63352e99ef8dad&deviceModel=Browser&deviceVersion=1.0&appVersion=1.0&deviceType=browser&deviceMake=slingtv&deviceDNT=1&embedPartner=slingtv&appName=sling&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjBlOGI3MzJlLTVhNDctNGIwOC1hOWU1LWIyMzI1MmMxMTA5YiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2VydmljZXN0cmVhbSIsImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJWeWRtbGpaWE4wY21WaGJRPT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMzMjQzMzQ3LCJpYXQiOjE3MzMxNTY5NDcsImp0aSI6ImI1OTg2MmVlLTc1NzAtNGU5Yi04NjRmLWEzM2JiZTFjNTViYyJ9.WMqXjOlPDJcJJpoX3Bo5lhBSadd5ghjtZgRq7LA76MA&profilesFromStream=true
+#EXTINF:-1 tvg-logo="" group-title="Music",MTV Spankin' New
+https://cfd-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?deviceId=eea5f14dad36540f20b2c4f7bb63352e99ef8dad&deviceModel=Browser&deviceVersion=1.0&appVersion=1.0&deviceType=browser&deviceMake=slingtv&deviceDNT=1&embedPartner=slingtv&appName=sling&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjBlOGI3MzJlLTVhNDctNGIwOC1hOWU1LWIyMzI1MmMxMTA5YiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2VydmljZXN0cmVhbSIsImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJWeWRtbGpaWE4wY21WaGJRPT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzMzMjU1MTg1LCJpYXQiOjE3MzMxNjg3ODUsImp0aSI6IjAzYWNiNGM0LTBhMDgtNDFkNi05NWIyLWJjZmE5M2I5ODY4ZiJ9.3QAu6mhNp0A225NclriuEfYKGtg3hppso9rPUDsNkXc&profilesFromStream=true
