@@ -197,6 +197,21 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1 tvg-logo="" group-title="台湾",HBO
+https://zf.315600.xyz/proxy/http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",Cinemax
+https://zf.315600.xyz/proxy/http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",卡通頻道
+https://zf.315600.xyz/proxy/http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",三立新聞
+https://zf.315600.xyz/proxy/http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS 
+https://zf.315600.xyz/proxy/http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS新聞台
+https://zf.315600.xyz/proxy/http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS歡樂台
+https://zf.315600.xyz/proxy/http://125.227.210.55:8187/VideoInput/play.ts
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBSNEWS.png" group-title="台湾",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png" group-title="台湾",中天娱乐
@@ -243,8 +258,6 @@ rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DAZN.png" group-title="台湾",DAZN 体育2台
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 tvg-logo="" group-title="台湾",HBO
-https://zf.315600.xyz/proxy/http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="" group-title="台湾",民视新闻台
 https://zf.315600.xyz/proxy/https://pixman.mytvsuper.com.mp/litv/litv-ftv13
 
