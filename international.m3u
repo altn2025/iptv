@@ -207,3 +207,6 @@ https://cfd-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/cha
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
