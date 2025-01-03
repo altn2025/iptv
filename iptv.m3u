@@ -18,13 +18,13 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265006/1.m3u8?chann
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="中国",CCTV-7 国防军事
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="中国",CCTV-8 电视剧
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="中国",CCTV-9 纪录
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="中国",CCTV-10 科教
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265010/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="中国",CCTV-11 戏曲
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="中国",CCTV-12 社会与法
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="中国",CCTV-13 新闻
@@ -32,7 +32,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/1.m3u8?chann
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="中国",CCTV-14 少儿
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="中国",CCTV-15 音乐
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="中国",CCTV-17 农业农村
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
@@ -46,7 +46,7 @@ https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="中国",北京卫视
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265027/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265027&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000021288/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="中国",天津卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265026/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="中国",河北卫视
@@ -62,9 +62,9 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031117/1.m3u8?chann
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="中国",黑龙江卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="中国",东方卫视
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265018/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000005866/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="中国",江苏卫视
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265030/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000001828/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="中国",浙江卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265031/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="中国",安徽卫视
@@ -78,9 +78,9 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265019/1.m3u8?chann
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="中国",河南卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="中国",湖北卫视
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265023/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="中国",湖南卫视
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265024/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="中国",广东卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="中国",广西卫视
@@ -88,7 +88,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031118/1.m3u8?chann
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="中国",海南卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="中国",重庆卫视
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="中国",四川卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="中国",贵州卫视
@@ -108,8 +108,6 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000031451/1.m3u8?chann
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="中国",新疆卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="中国",海峡卫视
-http://php.jdshipin.com:8880/fujian.php?id=9
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="中国",厦门卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
 #EXTINF:-1 ttvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="中国",深圳卫视
