@@ -49,34 +49,6 @@ https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevot
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Christmas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ87d.png" group-title="Music",WMX Rock
-https://dbrb49pjoymg4.cloudfront.net/10001/99951290/hls/playlist.m3u8?ads.xumo_channelId=99951290
-#EXTINF:-1 tvg-logo="" group-title="Music",WMX Pop
-https://dbrb49pjoymg4.cloudfront.net/10001/99951289/hls/playlist.m3u8?ads.xumo_channelId=99951289
-#EXTINF:-1 tvg-logo="" group-title="Music",WMX Hip-Hop
-https://dbrb49pjoymg4.cloudfront.net/10001/99951291/hls/playlist.m3u8?ads.xumo_channelId=99951291
-
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 60s
-https://linear-769.frequency.stream/mt/studio/769/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 70s
-https://linear-760.frequency.stream/mt/studio/760/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 80s
-https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 90s
-https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Best of The 2000s
-https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Music Video Karaoke
-https://linear-761.frequency.stream/mt/studio/761/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Classic Floorfillers
-https://linear-764.frequency.stream/mt/studio/764/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Greatest Music Videos of All Time
-https://linear-765.frequency.stream/mt/studio/765/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Classic Rock
-https://linear-768.frequency.stream/mt/studio/768/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ROXi - Hot Right Now
-https://linear-748.frequency.stream/mt/studio/748/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ
