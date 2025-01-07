@@ -175,6 +175,8 @@ http://php.jdshipin.com/smt.php?id=Tvbclassic
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB功夫台.png" group-title="香港",TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",翡翠綜合台
+https://cdn3.163189.xyz/live/j1/stream.m3u8
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.com/tv/港台电视31台.png" group-title="香港",港台电视31台 (VPN)
 http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
