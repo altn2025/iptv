@@ -28,7 +28,7 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World Japan
 https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News",Bloomberg TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=NEqL2-zcEJYZa_bxrddz
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="Music",Vevo '70s
 https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/playlist.m3u8
