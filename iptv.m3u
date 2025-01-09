@@ -404,9 +404,9 @@ https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (576p)
-https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/37b41504-51f9-45f5-940e-025def7af291/2.m3u8
+https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/6d4dd3ec-b197-47c0-a723-5fd46a2f25fd/2.m3u8
 #EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (720p)
-https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/37b41504-51f9-45f5-940e-025def7af291/0.m3u8
+https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/6d4dd3ec-b197-47c0-a723-5fd46a2f25fd/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (360p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_21.m3u8
@@ -460,16 +460,18 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News (1080p)
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/809099d8-4d8f-47e9-b518-fafaeaa0a193/3.m3u8
 
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (240p)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/02ca3dbb-06c0-4324-a52f-047dc3cee702/5.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (360p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/1.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/02ca3dbb-06c0-4324-a52f-047dc3cee702/1.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (480p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/4.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/02ca3dbb-06c0-4324-a52f-047dc3cee702/4.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (576p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/2.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/02ca3dbb-06c0-4324-a52f-047dc3cee702/2.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (720p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/0.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/02ca3dbb-06c0-4324-a52f-047dc3cee702/0.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (1080p)
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/281ff53f-4e95-45ae-a8e5-7f015ad12b25/3.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/02ca3dbb-06c0-4324-a52f-047dc3cee702/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (360p)
 https://rakuten-euronews-9-gb.lg.wurl.tv/55d551f954cbc061170857c5d0a40341.m3u8
