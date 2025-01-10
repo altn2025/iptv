@@ -86,6 +86,12 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Music",Clubbing TV
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Qwest TV
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="Music",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
@@ -180,12 +186,6 @@ https://cfd-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/embed/hls/cha
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",Qwest TV
-https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
