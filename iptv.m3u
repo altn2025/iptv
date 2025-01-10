@@ -709,8 +709,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (360p)
 https://clubbingtv-samsungnz.amagi.tv/playlist360_p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (480p)
-https://clubbingtv-samsungnz.amagi.tv/playlist480_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (540p)
+https://clubbingtv-samsungnz.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (720p)
 https://clubbingtv-samsungnz.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (1080p)
