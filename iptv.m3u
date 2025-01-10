@@ -714,6 +714,17 @@ https://qwest-jazz-plex.amagi.tv/720p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (1080p)
 https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (216p)
+https://bec-spin-1-us.plex.wurl.tv/512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (360p)
+https://bec-spin-1-us.plex.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (540p)
+https://bec-spin-1-us.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (720p)
+https://bec-spin-1-us.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (1080p)
+https://bec-spin-1-us.plex.wurl.tv/4300.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
