@@ -690,6 +690,30 @@ https://clubbingtv-samsungnz.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (1080p)
 https://d1j2csarxnwazk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/a2149e5e-7a51-4746-bd89-20baa5b6be8a/3.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (240p)
+https://stream.ecable.tv/afrobeats/tracks-v6a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (360p)
+https://stream.ecable.tv/afrobeats/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (480p)
+https://stream.ecable.tv/afrobeats/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (576p)
+https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (720p)
+https://stream.ecable.tv/afrobeats/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (240p)
+https://qwest-jazz-plex.amagi.tv/240p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (360p)
+https://qwest-jazz-plex.amagi.tv/360p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (480p)
+https://qwest-jazz-plex.amagi.tv/480p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (720p)
+https://qwest-jazz-plex.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV (1080p)
+https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
