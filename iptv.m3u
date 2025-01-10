@@ -385,14 +385,16 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7 (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (240p)
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_6.m3u8
 #EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (360p)
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/1.m3u8
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_2.m3u8
 #EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (432p)
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/0.m3u8
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (720p)
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/3.m3u8
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_4.m3u8
 #EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/68471b64-5f87-4afb-b54c-b1ed45daa9ee/4.m3u8
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox (360p)
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/0.m3u8
