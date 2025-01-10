@@ -753,6 +753,15 @@ https://bec-spin-1-us.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="音乐",SPIN (1080p)
 https://bec-spin-1-us.plex.wurl.tv/4300.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (360p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (540p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (540p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (720p)
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
