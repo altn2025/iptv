@@ -681,6 +681,15 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (360p)
+https://clubbingtv-samsungnz.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (480p)
+https://clubbingtv-samsungnz.amagi.tv/playlist480_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (720p)
+https://clubbingtv-samsungnz.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV (1080p)
+https://d1j2csarxnwazk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/a2149e5e-7a51-4746-bd89-20baa5b6be8a/3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
