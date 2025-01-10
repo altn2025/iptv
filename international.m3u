@@ -80,6 +80,9 @@ https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="Music",New K-Pop
 https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music",YG TV
+https://newidco-ygtv-1-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="Music",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
