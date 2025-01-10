@@ -360,6 +360,19 @@ https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International (1080p)
 https://d1yx2biofua75q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/51c276f6-699f-4d72-bc84-1d26398f688a/0.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="国际",CNN Headlines (240p)
+https://amg01918-cnnus-amg01918c1-plex-us-4790.playouts.now.amagi.tv/playlist240P.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",CNN Headlines (360p)
+https://amg01918-cnnus-amg01918c1-plex-us-4790.playouts.now.amagi.tv/playlist360P.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",CNN Headlines (480p)
+https://amg01918-cnnus-amg01918c1-plex-us-4790.playouts.now.amagi.tv/playlist480P.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",CNN Headlines (576p)
+https://amg01918-cnnus-amg01918c1-plex-us-4790.playouts.now.amagi.tv/playlist576P.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",CNN Headlines (720p)
+https://amg01918-cnnus-amg01918c1-plex-us-4790.playouts.now.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际",CNN Headlines (1080p)
+https://amg01918-cnnus-amg01918c1-plex-us-4790.playouts.now.amagi.tv/playlist1080P.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (576p)
 https://d2fewflvrapcwe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/6d4dd3ec-b197-47c0-a723-5fd46a2f25fd/2.m3u8
 #EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live (720p)
