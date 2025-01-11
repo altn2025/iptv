@@ -790,7 +790,7 @@ https://bec-spin-1-us.plex.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (360p)
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (540p)
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (480p)
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam (540p)
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_2.m3u8
@@ -798,16 +798,16 @@ https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="音乐",Kiss TV
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="音乐",Kiss Kiss TV
-https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist_w92801553.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="音乐",Muzzik Rock&Roll
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik MOBA
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="音乐",Muzzik POP STAR
@@ -825,9 +825,9 @@ https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik SENSE
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik FLASHBACK
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ELECTRO
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (360p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
