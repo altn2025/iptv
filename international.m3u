@@ -3,12 +3,8 @@
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="News",CNN International
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",CNN Headlines
-https://amg01918-cnnus-amg01918c1-plex-us-4790.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="News",ABC News Live
-https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8
-#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="News",ABC News Live (Tubi)
 https://aegis-cloudfront-1.tubi.video/9d419cbd-86b2-4f8f-be44-98e043f297cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="News",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
