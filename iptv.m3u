@@ -62,7 +62,7 @@ http://175.10.230.91:8081/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="中国",黑龙江卫视 (备用)
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="中国",东方卫视 (备用)
-http://150.158.112.123/mg.php?id=dfws
+http://175.10.230.91:8081/tsfile/live/0107_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="中国",江苏卫视 (备用)
 http://z.b.bkpcp.top/m.php?id=jsws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="中国",浙江卫视 (备用)
@@ -70,13 +70,13 @@ http://175.10.230.91:8081/tsfile/live/0124_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="中国",安徽卫视 (备用)
 http://175.10.230.91:8081/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="中国",东南卫视 (备用)
-http://150.158.112.123/mg.php?id=dnws
+http://175.10.230.91:8081/tsfile/live/0137_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="中国",江西卫视 (备用)
 http://z.b.bkpcp.top/m.php?id=jxws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="中国",山东卫视 (备用)
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="中国",河南卫视 (备用)
-http://150.158.112.123/mg.php?id=hnws
+http://175.10.230.91:8081/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="中国",湖北卫视 (备用)
 http://175.10.230.91:8081/tsfile/live/0132_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="中国",湖南卫视 (备用)
