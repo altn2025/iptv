@@ -256,6 +256,27 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
 http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
 
+
+#EXTINF:-1 group-title="台湾",美亚电影
+https://iptv.vip-tptv.xyz/tv.php?id=1
+#EXTINF:-1 group-title="台湾",美亚电影1
+https://ushls.ballbar.net/meiyamovie_twn/playlist-25.m3u8a?t=1736820879&token=b400c743d2035a3f32f84547a2579326
+#EXTINF:-1 group-title="台湾",纬来电影
+https://iptv.vip-tptv.xyz/tv.php?id=3
+#EXTINF:-1 group-title="台湾",纬来电影1
+https://bstvcdn.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1736821056&token=f55ea68ff599cc485916cac0c2ec3420
+#EXTINF:-1 group-title="台湾",东森电影
+https://iptv.vip-tptv.xyz/tv.php?id=4
+#EXTINF:-1 group-title="台湾",东森电影1
+https://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1736821159&token=61e5762b0cc47e454bfcacf45b8d9a2c
+#EXTINF:-1 group-title="台湾",东森洋片
+https://iptv.vip-tptv.xyz/tv.php?id=5
+#EXTINF:-1 group-title="台湾",东森洋片1
+https://ushls.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1736821623&token=7ad829c78a86e5a32911e27a93361381
+
+#EXTINF:-1 group-title="台湾",新白娘子传奇
+http://liushizupu.site:35455/yy/1354490667
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBSNEWS.png" group-title="台湾",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png" group-title="台湾",中天娱乐
