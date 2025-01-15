@@ -330,11 +330,6 @@ http://125.227.210.55:8186/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="" group-title="台湾",TVBS歡樂台 (VPN)
 http://125.227.210.55:8187/VideoInput/play.ts
 
-#EXTINF:-1 group-title="港台 (AKTV)",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-
 #EXTINF:-1 group-title="港台 (AKTV)",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",翡翠台
@@ -359,6 +354,8 @@ http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",无线新闻台(北美)	
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台 (AKTV)",ViuTV 
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
@@ -414,6 +411,8 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",i-Fun 動漫台
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",緯來體育台
+http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台 (AKTV)",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
