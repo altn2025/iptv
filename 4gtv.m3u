@@ -352,8 +352,8 @@ https://tv.iill.top/4gtv/168
 #EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="綜合", Arirang TV
 https://tv.iill.top/litv/4gtv-4gtv079
 
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="綜合", Bloomberg TV (失效)
-https://tv.iill.top/litv/4gtv-live059
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="綜合", Bloomberg TV
+https://tv.iill.top/4gtv/283
 
 #EXTINF:-1 tvg-id="VOA-美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="新聞財經", VOA 美國之音
 https://tv.iill.top/litv/litv-ftv03
