@@ -106,7 +106,7 @@ https://tv.iill.top/litv/litv-longturn14
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="新聞財經", 寰宇新聞台灣台
 https://tv.iill.top/litv/4gtv-4gtv156
 
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="新聞財經", 寰宇財經台 (失效)
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="新聞財經", 寰宇財經台
 https://tv.iill.top/litv/4gtv-4gtv158
 
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="其他", TVBS
@@ -115,8 +115,8 @@ https://tv.iill.top/litv/4gtv-4gtv073
 #EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="新聞財經", TVBS 新聞台
 https://tv.iill.top/litv/4gtv-4gtv072
 
-#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="音樂綜藝", TVBS 綜藝台 (失效)
-https://tv.iill.top/litv/4gtv-live087
+#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="音樂綜藝", TVBS 綜藝台
+https://tv.iill.top/4gtv/284
 
 #EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="音樂綜藝", TVBS 歡樂台
 https://tv.iill.top/litv/4gtv-4gtv068
@@ -124,8 +124,8 @@ https://tv.iill.top/litv/4gtv-4gtv068
 #EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="音樂綜藝", TVBS 精采台
 https://tv.iill.top/litv/4gtv-4gtv067
 
-#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="電影戲劇", TVBS 台劇台 (失效)
-https://tv.iill.top/litv/4gtv-live088
+#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="電影戲劇", TVBS 台劇台
+https://tv.iill.top/litv/4gtv/285
 
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="音樂綜藝", 八大精彩台
 https://tv.iill.top/litv/4gtv-4gtv034
@@ -196,8 +196,8 @@ https://tv.iill.top/litv/4gtv-4gtv048
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="新聞財經", 鏡電視新聞台
 https://tv.iill.top/litv/4gtv-4gtv075
 
-#EXTINF:-1 tvg-id="CNBC-Asia-財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="新聞財經", CNBC Asia 財經台 (失效)
-https://tv.iill.top/litv/4gtv-live130
+#EXTINF:-1 tvg-id="CNBC-Asia-財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="新聞財經", CNBC Asia 財經台
+https://tv.iill.top/4gtv/235
 
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="生活旅遊", 亞洲旅遊台
 https://tv.iill.top/litv/4gtv-4gtv076
@@ -256,8 +256,8 @@ https://tv.iill.top/litv/4gtv-live005
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="電影戲劇", 電影原聲台 CMusic (失效)
 https://tv.iill.top/litv/4gtv-live031
 
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="電影戲劇", CinemaWorld (失效)
-https://tv.iill.top/litv/4gtv-live069
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="電影戲劇", CinemaWorld
+https://tv.iill.top/4gtv/225
 
 #EXTINF:-1 tvg-id="HITS-頻道" tvg-name="HITS 頻道" tvg-logo="https://assets.livednow.com/logo/HITS-頻道.png" group-title="電影戲劇", HITS 頻道 (失效)
 https://tv.iill.top/litv/4gtv-live620
@@ -373,8 +373,8 @@ https://tv.iill.top/litv/4gtv-4gtv104
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="其他", History 歷史頻道 (失效)
 https://tv.iill.top/litv/4gtv-live026
 
-#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="其他", CI 罪案偵查頻道 (失效)
-https://tv.iill.top/litv/4gtv-live027
+#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="其他", CI 罪案偵查頻道
+https://tv.iill.top/4gtv/215
 
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="其他", Smart 知識台
 https://tv.iill.top/litv/litv-longturn19
