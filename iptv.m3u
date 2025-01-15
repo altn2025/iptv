@@ -330,12 +330,15 @@ http://125.227.210.55:8186/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="" group-title="台湾",TVBS歡樂台 (VPN)
 http://125.227.210.55:8187/VideoInput/play.ts
 
+#EXTINF:-1 group-title="港台 (AKTV)",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+
 #EXTINF:-1 group-title="港台 (AKTV)",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",翡翠台 (4K)
-http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",TVB Plus
@@ -361,14 +364,8 @@ http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",ViuTVsix
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",C+台
-http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",美亞電影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Now星影台	
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Now爆谷台	
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",AXN
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",ROCK Action
@@ -415,6 +412,8 @@ http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台 (AKTV)",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -423,21 +422,17 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
-#EXTINF:-1 group-title="港台 (AKTV)",Astro AEC
-http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Astro AOD
-http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",Astro iQIYI
 http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Astro QJ
-http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",Astro Xing He 
 http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",Astro AEC
+http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台 (AKTV)",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",日テレNEWS24
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",France 24
