@@ -423,3 +423,40 @@ https://tv.iill.top/4gtv/287
 
 #EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物四台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="其他", 東森購物四台
 https://tv.iill.top/4gtv/286
+
+#EXTINF:-1 group-title="台湾",三立都会台
+https://tv.iill.top/nsw/sldh
+#EXTINF:-1 group-title="台湾",三立台湾台
+https://tv.iill.top/nsw/sltw
+#EXTINF:-1 group-title="台湾",三立戏剧台
+https://tv.iill.top/nsw/slxj
+#EXTINF:-1 group-title="台湾",东森幼幼台
+https://tv.iill.top/nsw/dsyy
+#EXTINF:-1 group-title="台湾",东森综合台
+https://tv.iill.top/nsw/dszh
+#EXTINF:-1 group-title="台湾",东森戏剧台
+https://tv.iill.top/nsw/dsxj
+#EXTINF:-1 group-title="台湾",东森电影
+https://tv.iill.top/nsw/dsdy
+#EXTINF:-1 group-title="台湾",东森洋片
+https://tv.iill.top/nsw/dsyp
+#EXTINF:-1 group-title="台湾",美亚电影
+https://tv.iill.top/nsw/mydy
+#EXTINF:-1 group-title="台湾",好莱坞电影台
+https://tv.iill.top/nsw/hlw
+#EXTINF:-1 group-title="台湾",HBOSIGNATURE
+https://tv.iill.top/nsw/hbo-s
+#EXTINF:-1 group-title="台湾",HBOFAMILY
+https://tv.iill.top/nsw/hbo-f
+#EXTINF:-1 group-title="台湾",HBOHITS
+https://tv.iill.top/nsw/hbo-h
+#EXTINF:-1 group-title="台湾",纬来电影台
+https://tv.iill.top/nsw/wldy
+#EXTINF:-1 group-title="台湾",纬来日本台
+https://tv.iill.top/nsw/wlrb
+#EXTINF:-1 group-title="台湾",纬来体育台
+https://tv.iill.top/nsw/wlty
+#EXTINF:-1 group-title="台湾",爱尔达体育1台
+https://tv.iill.top/nsw/elda1
+#EXTINF:-1 group-title="台湾",爱尔达体育2台
+https://tv.iill.top/nsw/elda2
