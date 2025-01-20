@@ -851,6 +851,15 @@ https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ELECTRO
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (240p)
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist240p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (480p)
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (720p)
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="国际",Love Nature (1080p)
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist1080-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (360p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1-2.m3u8
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGcQO.jpg" group-title="国际",NBC LX Home (432p)
