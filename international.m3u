@@ -217,8 +217,8 @@ https://mediaplatform.streamingmediahosting.com/p/14215/sp/1421500/playManifest/
 #EXTINF:-1 tvg-logo="" group-title="General",TVB Pearl Drama
 https://amg01868-tvb-amg01868c1-plex-us-1579.playouts.now.amagi.tv/65ddf185-64b8-487e-98d0-6aa6a63ac76b/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Music",IQ Channel
+https://rtmp.info/iqtv/envivo/playlist.m3u8
 
 
 
