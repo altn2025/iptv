@@ -153,6 +153,14 @@ http://php.jdshipin.com/smt.php?id=jade_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (备用)
 http://php.jdshipin.com/smt.php?id=inews_twn
+
+#EXTINF:-1 tvg-logo="" group-title="香港",TVB Pearl Drama (360p)
+https://amg01868-tvb-amg01868c1-plex-us-1579.playouts.now.amagi.tv/65ddf185-64b8-487e-98d0-6aa6a63ac76b/playlist_65ddf185_64895d34.m3u8
+#EXTINF:-1 tvg-logo="" group-title="香港",TVB Pearl Drama (540p)
+https://amg01868-tvb-amg01868c1-plex-us-1579.playouts.now.amagi.tv/65ddf185-64b8-487e-98d0-6aa6a63ac76b/playlist_65ddf185_07c55ada.m3u8
+#EXTINF:-1 tvg-logo="" group-title="香港",TVB Pearl Drama (720p)
+https://amg01868-tvb-amg01868c1-plex-us-1579.playouts.now.amagi.tv/65ddf185-64b8-487e-98d0-6aa6a63ac76b/playlist_65ddf185_3761f128.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻台
