@@ -290,6 +290,8 @@ http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
 http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视 (备用)
+http://114.105.186.150:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ChannelV.png" group-title="香港",Channel [V]
 http://114.105.186.150:9901/tsfile/live/0141_2.m3u8
 
