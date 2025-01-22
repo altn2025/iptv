@@ -243,6 +243,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯 (备用)
+https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (备用)
@@ -251,6 +253,8 @@ http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
 http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ChannelV.png" group-title="香港",Channel [V]
+http://114.105.186.150:9901/tsfile/live/0141_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/港台电视31台.png" group-title="香港",港台电视31台 (VPN香港节点可看)
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -321,6 +325,63 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DAZN.png" group-title="台湾",DAZN 体育2台
 rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 tvg-logo="" group-title="台湾",HBO
+http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
+#EXTINF:-1 tvg-logo="" group-title="台湾",HBO原創钜獻
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-logo="" group-title="台湾",HBO溫馨家庭
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 tvg-logo="" group-title="台湾",Cinemax
+http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1 tvg-logo="" group-title="台湾",CN卡通頻道
+http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1 tvg-logo="" group-title="台湾",TLC 旅遊生活
+http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 tvg-logo="" group-title="台湾",動物星球
+http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&ct=19338&tsum=775367f2f
+#EXTINF:-1 tvg-logo="" group-title="台湾",DMAX
+http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+#EXTINF:-1 tvg-logo="" group-title="台湾",探索科學
+http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a
+
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS新聞台
+http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+#EXTINF:-1 tvg-logo="" group-title="台湾",TVBS歡樂台
+http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
+#EXTINF:-1 tvg-logo="" group-title="台湾",三立台灣台
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
+#EXTINF:-1 tvg-logo="" group-title="台湾",三立戲劇台
+http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 tvg-logo="" group-title="台湾",三立都會台
+http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+#EXTINF:-1 tvg-logo="" group-title="台湾",中天娛樂
+http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 tvg-logo="" group-title="台湾",中天綜合
+http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 tvg-logo="" group-title="台湾",中視
+http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+
+#EXTINF:-1 "tvg-logo="" group-title="台湾",美亚电影台
+http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+
+#EXTINF:-1 tvg-logo="" group-title="台湾",年代新闻
+http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+
+#EXTINF:-1 tvg-logo="" group-title="台湾",东森新闻
+http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1 tvg-logo="" group-title="台湾",东森电影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1 tvg-logo="" group-title="台湾",东森洋片
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+#EXTINF:-1 tvg-logo="" group-title="台湾",龍祥電影
+http://50.7.234.10:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 tvg-logo="" group-title="台湾",龍華洋片
+http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 tvg-logo="" group-title="台湾",好莱坞电影
+http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 
 #EXTINF:-1 tvg-logo="" group-title="台湾",HBO (VPN)
 http://125.227.210.55:8153/VideoInput/play.ts
