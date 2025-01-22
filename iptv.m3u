@@ -252,7 +252,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB功夫台.png" group-title="香港",TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="香港",美亚电影台
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="香港",美亚电影台 (粤语)
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="香港",ViuTV
@@ -339,7 +339,7 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/三立戏剧台.png" group-title="台湾",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="台湾",美亚电影台
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="台湾",美亚电影台 (国语)
 https://iptv.vip-tptv.xyz/tv.php?id=1
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="台湾",天映频道
 https://iptv.vip-tptv.xyz/tv.php?id=2
