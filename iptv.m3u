@@ -10,7 +10,7 @@ http://113.65.162.226:9999/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="中国",CCTV-5 体育
 http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事
-http://220.170.241.204:9901/tsfile/live/0016_1.m3u8
+http://221.226.4.10:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="中国",CCTV-6 电影
 http://113.65.162.226:9999/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="中国",CCTV-7 国防军事
@@ -18,17 +18,17 @@ https://www.freetv.top/migu/673168121.m3u8?migutoken=a878b713604abd82c57cce75de1
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="中国",CCTV-8 电视剧
 http://113.65.162.226:9999/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="中国",CCTV-9 纪录
-http://113.65.162.226:9999/tsfile/live/0009_1.m3u8
+http://221.226.4.10:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="中国",CCTV-10 科教
-http://113.65.162.226:9999/tsfile/live/0010_1.m3u8
+http://221.226.4.10:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="中国",CCTV-11 戏曲
 http://113.65.162.226:9999/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="中国",CCTV-12 社会与法
-http://113.65.162.226:9999/tsfile/live/0012_1.m3u8
+http://221.226.4.10:9901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="中国",CCTV-13 新闻
 http://113.65.162.226:9999/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="中国",CCTV-14 少儿
-http://113.65.162.226:9999/tsfile/live/0014_1.m3u8
+http://221.226.4.10:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="中国",CCTV-15 音乐
 http://113.65.162.226:9999/tsfile/live/0015_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="中国",CCTV-16 奥林匹克
