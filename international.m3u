@@ -223,6 +223,16 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Óčko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News",France 24
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",CNA
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/playlist.m3u8
+
+
+
+
+
 
 
 
