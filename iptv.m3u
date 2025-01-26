@@ -1442,3 +1442,23 @@ webview://https://www.iqiyi.com/v_19rrkjzed8.html
 
 #EXTINF:-1 tvg-logo="" group-title="赵本山",王宝钏和薛平贵西瓜
 webview://https://www.ixigua.com/6551333784279581191
+
+#EXTINF:-1 tvg-logo="" group-title="赵本山",河北
+webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+#EXTINF:-1 tvg-logo="" group-title="赵本山",河北都是频道
+webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+#EXTINF:-1 tvg-logo="" group-title="赵本山",河北农民频道
+webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+
+#EXTINF:-1 tvg-logo="" group-title="赵本山",山西卫视
+https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/d1sqvR0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="赵本山",山西卫视1
+webview://https://www.sxrtv.com/tv/index.shtml
+#EXTINF:-1 tvg-logo="" group-title="赵本山",吉林卫视1
+webview://https://www.jlntv.cn/tv?id=104
+#EXTINF:-1 tvg-logo="" group-title="赵本山",东方卫视
+webview://https://live.kankanews.com/huikan?id=1
+#EXTINF:-1 tvg-logo="" group-title="赵本山",江苏卫视
+webview://https://live.jstv.com/
+#EXTINF:-1 tvg-logo="" group-title="赵本山",东南卫视
+webview://http://www.setv.fjtv.net/live/
