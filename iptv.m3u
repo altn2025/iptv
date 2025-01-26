@@ -1418,3 +1418,16 @@ webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b6
 
 #EXTINF:-1 tvg-logo="" group-title="广西",广西都市频道
 webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
+
+#EXTINF:-1 tvg-logo="" group-title="欧飞",台视
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+
+#EXTINF:-1 tvg-logo="" group-title="欧飞",台视新闻
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv051
+
+#EXTINF:-1 tvg-logo="" group-title="赵本山",赵本山合辑
+webview://https://www.bilibili.com/video/BV16K411g7mA/
+
+#EXTINF:-1 tvg-logo="" group-title="赵本山",小品《说事儿》赵本山、宋丹丹、崔永元
+webview://https://www.bilibili.com/video/BV1K94y1X7Ca/
+
