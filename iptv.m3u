@@ -1410,3 +1410,5 @@ webview://https://www.gdtv.cn/tvChannelDetail/102
 #EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/GRTN教育频道.png" group-title="荔枝网",GRTN教育频道
 webview://https://www.gdtv.cn/tvChannelDetail/104
 
+#EXTINF:-1 tvg-logo="" group-title="广西",广西卫视
+https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
