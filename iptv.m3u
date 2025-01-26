@@ -2,39 +2,39 @@
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="中国",CCTV-1 综合
 http://113.65.162.226:9999/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="中国",CCTV-2 财经
-http://113.65.162.226:9999/tsfile/live/0002_1.m3u8
+http://183.255.10.89:6610/200000001898/460000089800010211/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="中国",CCTV-3 综艺
-http://113.65.162.226:9999/tsfile/live/0003_1.m3u8
+http://183.255.10.90:6610/200000001898/460000089800010212/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="中国",CCTV-4 中文国际
-http://113.65.162.226:9999/tsfile/live/0004_1.m3u8
+http://183.255.10.121:6610/200000001898/460000089800010017/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="中国",CCTV-5 体育
 http://183.255.10.75:6610/200000001898/460000089800010139/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事
-http://221.226.4.10:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="中国",CCTV-6 电影
-http://113.65.162.226:9999/tsfile/live/0006_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="中国",CCTV-7 国防军事
-https://www.freetv.top/migu/673168121.m3u8?migutoken=a878b713604abd82c57cce75de174e0284d3f101e21d0c3e362670e4b5a5e75d9b42846e5e0adf92c1ad15c63d60934f3e68c25f787bc0665d12acde75a6db4761278e79b762292ed5b5a2fae3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="中国",CCTV-8 电视剧
-http://113.65.162.226:9999/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="中国",CCTV-9 纪录
-http://221.226.4.10:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="中国",CCTV-10 科教
-http://221.226.4.10:9901/tsfile/live/0010_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="中国",CCTV-11 戏曲
-http://113.65.162.226:9999/tsfile/live/0011_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="中国",CCTV-12 社会与法
-http://221.226.4.10:9901/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="中国",CCTV-13 新闻
-http://113.65.162.226:9999/tsfile/live/0013_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="中国",CCTV-14 少儿
-http://221.226.4.10:9901/tsfile/live/0014_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="中国",CCTV-15 音乐
-http://113.65.162.226:9999/tsfile/live/0015_1.m3u8
+http://183.255.10.81:6610/200000001898/460000089800010202/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="中国",CCTV-16 奥林匹克
-http://219.135.180.210:18888/hls/31/index.m3u8
+http://183.255.10.68:6610/200000001898/460000089800010142/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="中国",CCTV-6 电影
+http://183.255.10.92:6610/200000001898/460000089800010214/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="中国",CCTV-7 国防军事
+http://183.255.10.73:6610/200000001898/460000089800010215/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="中国",CCTV-8 电视剧
+http://183.255.10.76:6610/200000001898/460000089800010216/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="中国",CCTV-9 纪录
+http://183.255.10.92:6610/200000001898/460000089800010217/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="中国",CCTV-10 科教
+http://183.255.10.81:6610/200000001898/460000089800010203/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="中国",CCTV-11 戏曲
+http://183.255.10.68:6610/200000001898/460000089800010092/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="中国",CCTV-12 社会与法
+http://183.255.10.82:6610/200000001898/460000089800010205/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="中国",CCTV-13 新闻
+http://183.255.10.121:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="中国",CCTV-14 少儿
+http://183.255.10.87:6610/200000001898/460000089800010207/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="中国",CCTV-15 音乐
+http://183.255.10.190:6610/200000001898/460000089800010094/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="中国",CCTV-17 农业农村
-https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34d75ff515080f8def9861a030c98c5861b036729d642445a7bc5b0cd43e7086ca1903346f6cbad01b639771ee3bd13e653bdb2d14f169744862c9695688b0b177bc144a
+http://183.255.10.89:6610/200000001898/460000089800010210/1.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/南宁文旅生活.png" group-title="中国",南宁文旅生活
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
