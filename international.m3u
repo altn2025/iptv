@@ -232,6 +232,21 @@ https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap
 #EXTINF:-1 tvg-logo="" group-title="Music",Juice TV
 https://juicex.nz/hls/mystream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Dance Hits 80s
+http://dancehits80.denvs.ru:8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Cool Summer Channel
+https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Surf Roots TV
+https://cdnvod.panda-os.com/livehls/6334b01306304444c756ebc4/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Miami TV Music
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
+
 
 
 
