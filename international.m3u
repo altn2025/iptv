@@ -262,9 +262,10 @@ http://92.114.85.72:8000/play/a0lk
 http://92.114.85.72:8000/play/a0l2
 #EXTINF:-1 tvg-logo="" group-title="Music",That's Oldies
 http://92.114.85.72:8000/play/a0lc
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Music",That's Dance
+http://92.114.85.72:8000/play/a09c
+#EXTINF:-1 tvg-logo="" group-title="Music",That's 80s
+http://92.114.85.72:8000/play/a0l0
 
 
 
