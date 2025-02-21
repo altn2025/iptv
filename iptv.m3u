@@ -202,7 +202,7 @@ http://z.b.bkpcp.top/m.php?id=ynws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="中国",西藏卫视 (备用)
 http://z.b.bkpcp.top/m.php?id=xzws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="中国",陕西卫视 (备用)
-http://39.164.180.36:19901/tsfile/live/0136_1.m3u8
+http://z.b.bkpcp.top/m.php?id=sxws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="中国",甘肃卫视 (备用)
 https://hls.gstv.com.cn/9hvng2/5gd714.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="中国",青海卫视 (备用)
