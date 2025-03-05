@@ -642,14 +642,16 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV (1080p)
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (240p)
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_250000=1-mp4a_143200_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (360p)
-https://rakuten-euronews-9-gb.lg.wurl.tv/55d551f954cbc061170857c5d0a40341.m3u8
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_360000=3-mp4a_143200_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (480p)
-https://rakuten-euronews-9-gb.lg.wurl.tv/92a5d583c1409319f9c31e07a958679f.m3u8
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_480000=4-mp4a_143200_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (576p)
-https://rakuten-euronews-9-gb.lg.wurl.tv/66037cf47c8df41335fbf42b1b1b9e7f.m3u8
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_900000=5-mp4a_143200_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews (720p)
-https://rakuten-euronews-9-gb.lg.wurl.tv/32f463ebb125922dd9112b6506d51d94.m3u8
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/euronews-en-avc1_3300000=7-mp4a_143200_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English (360p)
 https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8
