@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=xL0ch83RAK8
 #EXTINF:-1,中視新聞
 https://www.youtube.com/watch?v=TCnaIE_SAtM
-#EXTINF:-1,華視新聞 (美国/加拿大等受限)
+#EXTINF:-1,華視新聞 (美国/加拿大等IP不可看)
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
 #EXTINF:-1,民視新聞台
 https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -11,13 +11,13 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1,三立新聞
 https://www.youtube.com/watch?v=MV9mI0GChwo
-#EXTINF:-1,三立新聞 (海外版) (台湾受限)
+#EXTINF:-1,三立新聞 (海外版) (台湾IP不可看)
 https://www.youtube.com/watch?v=hGJkDZDchYI
 #EXTINF:-1,三立iNEWS
 https://www.youtube.com/watch?v=pF507BLtbqU
 #EXTINF:-1,東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
-#EXTINF:-1,東森新聞 (海外版) (台湾受限)
+#EXTINF:-1,東森新聞 (海外版) (台湾IP不可看)
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 #EXTINF:-1,東森財經新聞
 https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -27,9 +27,9 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1,寰宇財經台
 https://www.youtube.com/watch?v=WTRQiVWK1jY
-#EXTINF:-1,TVBS (台湾受限)
+#EXTINF:-1,TVBS (台湾IP不可看)
 https://www.youtube.com/watch?v=o_-hSMgpAzs
-#EXTINF:-1,TVBS新聞台 (台湾受限)
+#EXTINF:-1,TVBS新聞台 (台湾IP不可看)
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1,TVBS新聞台 (網路版)
 https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -37,13 +37,13 @@ https://www.youtube.com/watch?v=m_dhMSvUCIc
 https://www.youtube.com/watch?v=vr3XyVCR4T0
 #EXTINF:-1,中天2台
 https://www.youtube.com/watch?v=DM_PEM8GrIg
-#EXTINF:-1,中天亞洲台 (新加坡/马来西亚受限)
+#EXTINF:-1,中天亞洲台 (新加坡/马来西亚IP不可看)
 https://www.youtube.com/watch?v=R2ci13O5Mt0
 #EXTINF:-1,鏡新聞
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1,台視 [仅台湾可看]
+#EXTINF:-1,台視 [仅台湾IP可看]
 https://www.youtube.com/watch?v=uDqQo8a7Xmk
-#EXTINF:-1,公視 [仅台湾可看]
+#EXTINF:-1,公視 [仅台湾IP可看]
 https://www.youtube.com/watch?v=C6gYqSHLRw4
 #EXTINF:-1,鳳凰衛視資訊台
 https://www.youtube.com/watch?v=HFib76ySpbU
@@ -64,12 +64,12 @@ https://www.youtube.com/watch?v=0aBJU1mFpsk
 #EXTINF:-1,萬秀豬王
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 #EXTINF:-1,台灣啟示錄
-https://www.youtube.com/watch?v=TR7dfvmtWsg
+https://www.youtube.com/watch?v=4Eu20-JSWqQ
 #EXTINF:-1,57怪奇物語
 https://www.youtube.com/watch?v=0CfImCAFIPo
 #EXTINF:-1,天才衝衝衝
 https://www.youtube.com/watch?v=UsZi0jxZHZ8
 #EXTINF:-1,大陸尋奇
-https://www.youtube.com/watch?v=h0mUy0edJK0
+https://www.youtube.com/watch?v=UtOw97Ba8hE
 #EXTINF:-1,小猪佩奇
 https://www.youtube.com/watch?v=tYNkscK3yts
