@@ -214,6 +214,43 @@ http://z.b.bkpcp.top/m.php?id=xjws
 #EXTINF:-1 ttvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="中国",深圳卫视 (备用)
 http://z.b.bkpcp.top/m.php?id=szws
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="中国",CCTV-1 综合 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="中国",CCTV-2 财经 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001800
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="中国",CCTV-3 综艺 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001801
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="中国",CCTV-4 中文国际 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001814
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="中国",CCTV-5 体育 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001818
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001817
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="中国",CCTV-6 电影 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600108442
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="中国",CCTV-7 国防军事 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600004092
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="中国",CCTV-8 电视剧 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001803
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="中国",CCTV-9 纪录 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600004078
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="中国",CCTV-10 科教 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001805
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="中国",CCTV-11 戏曲 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001806
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="中国",CCTV-12 社会与法 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001807
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="中国",CCTV-13 新闻 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001811
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="中国",CCTV-14 少儿 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001809
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="中国",CCTV-15 音乐 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001815
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="中国",CCTV-16 奥林匹克 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600098637
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="中国",CCTV-17 农业农村 (WebView)
+webview://https://yangshipin.cn/tv/home?pid=600001810
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="中国",北京卫视 (WebView)
 webview://https://www.brtn.cn/btv/btvsy_index
 webview://https://yangshipin.cn/tv/home?pid=600002309
