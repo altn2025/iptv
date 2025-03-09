@@ -256,7 +256,7 @@ http://39.164.180.36:19901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="中国",天津卫视 (备用2)
 http://182.37.169.94:352/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="中国",河北卫视 (备用2)
-http://218.13.14.6:60050/tsfile/live/1040_1.m3u8
+http://182.37.169.94:352/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="中国",山西卫视 (备用2)
 http://39.164.180.36:19901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="中国",内蒙古卫视 (备用2)
