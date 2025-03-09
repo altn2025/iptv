@@ -254,7 +254,7 @@ http://182.37.169.94:352/tsfile/live/0019_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="中国",北京卫视 (备用2)
 http://39.164.180.36:19901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="中国",天津卫视 (备用2)
-http://222.173.108.238:352/tsfile/live/0135_1.m3u8
+http://182.37.169.94:352/tsfile/live/0135_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="中国",河北卫视 (备用2)
 http://218.13.14.6:60050/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="中国",山西卫视 (备用2)
@@ -302,7 +302,7 @@ http://39.164.180.36:19901/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="中国",云南卫视 (备用2)
 http://39.164.180.36:19901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="中国",西藏卫视 (备用2)
-http://183.66.15.146:60901/tsfile/live/0111_1.m3u8
+http://182.37.169.94:352/tsfile/live/0111_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="中国",陕西卫视 (备用2)
 http://39.164.180.36:19901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="中国",甘肃卫视 (备用2)
@@ -312,7 +312,7 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="中国",宁夏卫视 (备用2)
 http://39.164.180.36:19901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="中国",新疆卫视 (备用2)
-http://124.128.73.58:9901/tsfile/live/0110_1.m3u8
+http://182.37.169.94:352/tsfile/live/0110_1.m3u8
 #EXTINF:-1 ttvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="中国",深圳卫视 (备用2)
 http://182.37.169.94:352/tsfile/live/0126_1.m3u8
 
