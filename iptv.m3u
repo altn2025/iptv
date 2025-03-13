@@ -170,7 +170,7 @@ http://z.b.bkpcp.top/m.php?id=dfws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="中国",江苏卫视 (备用1)
 http://z.b.bkpcp.top/m.php?id=jsws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="中国",浙江卫视 (备用1)
-http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="中国",安徽卫视 (备用1)
 http://z.b.bkpcp.top/m.php?id=ahws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="中国",东南卫视 (备用1)
@@ -272,7 +272,7 @@ http://182.37.169.94:352/tsfile/live/0107_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="中国",江苏卫视 (备用2)
 http://182.37.169.94:352/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="中国",浙江卫视 (备用2)
-http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="中国",安徽卫视 (备用2)
 http://182.37.169.94:352/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="中国",东南卫视 (备用2)
