@@ -269,6 +269,14 @@ http://92.114.85.72:8000/play/a09c
 #EXTINF:-1 tvg-logo="" group-title="Music",That's 80s
 http://92.114.85.72:8000/play/a0l0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Movies",MyTime Movie Network
+https://amg00500-studiocitypictu-mytimemovientus-plex-00p3m.amagi.tv/playlist/amg00500-studiocitypictu-mytimemovientus-plex/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Miramax Movie Channel
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere
+https://plexaaaaa-moviesphere-plex-efzys.amagi.tv/playlist/plexaaaaa-moviesphere-plex/playlist.m3u8
+
+
 
 
 
