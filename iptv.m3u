@@ -187,13 +187,9 @@ http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=
 http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰电影.png" group-title="香港",凤凰电影
-http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/feng-huang-dian-ying-2.ctv
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
-http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视 (备用)
-http://114.105.186.150:9901/tsfile/live/0117_1.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ChannelV.png" group-title="香港",Channel [V]
-http://114.105.186.150:9901/tsfile/live/0141_2.m3u8
+https://stream1.freetv.fun/xing-kong-wei-shi-7.ctv
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/港台电视31台.png" group-title="香港",港台电视31台 (VPN香港节点可看)
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
