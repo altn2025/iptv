@@ -380,6 +380,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",美亞電影台
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",天映频道
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",AXN
 http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",ROCK Action
@@ -422,6 +424,12 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 
+#EXTINF:-1 group-title="港台 (AKTV)",龍華偶像
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",龍華日韓
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",龍華經典
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",龍華電影
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 
