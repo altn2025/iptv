@@ -355,6 +355,12 @@ http://125.227.210.55:8187/VideoInput/play.ts
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",翡翠台 (4k)
+http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",翡翠台 (马来西亚)
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",TVB星河 (马来西亚)
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",明珠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",TVB Plus
@@ -439,11 +445,29 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",Channel U HD
 http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",Mediacorp Entertainment Chinese
+http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台 (AKTV)",Xite Hits
 http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",Xite Rock
 http://aktv_stream1.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",National Geographic
+http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",Cinemaworld 
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",Fight Sports 
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",Unifi Sport
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",NBA TV
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",MUTV
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",Sukan
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",TV9
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台 (AKTV)",NHK World-Japan
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
