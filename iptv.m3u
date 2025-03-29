@@ -422,6 +422,10 @@ http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",中視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",台視新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+#EXTINF:-1 group-title="港台 (AKTV)",三立新聞iNEWS
+http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 
 #EXTINF:-1 group-title="港台 (AKTV)",台視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
@@ -469,6 +473,8 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",TV9
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 
+#EXTINF:-1 group-title="港台 (AKTV)",朝鲜中央电视台
+http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",NHK World-Japan
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 group-title="港台 (AKTV)",NHK東京総合
