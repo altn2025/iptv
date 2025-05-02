@@ -111,6 +111,8 @@ http://z.b.bkpcp.top/m.php?id=xzws
 http://z.b.bkpcp.top/m.php?id=xjws
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="中国",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="中国",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -257,6 +259,13 @@ http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME5E9654770896547708&
 http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 #EXTINF:-1 tvg-logo="" group-title="台湾",探索科學
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBS-Asia.png" group-title="台湾",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="台湾",TVBS
 http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
