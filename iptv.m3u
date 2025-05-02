@@ -116,9 +116,7 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (4K)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (备用1)
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (备用2)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (备用)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台
@@ -128,8 +126,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (备用)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (备用1)
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (备用2)
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -147,12 +147,12 @@ http://php.jdshipin.com/smt.php?id=pearl_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB千禧经典台.png" group-title="香港",TVB千禧经典台
 http://php.jdshipin.com/smt.php?id=Tvbclassic
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB华丽台.png" group-title="香港",TVB华丽台
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="香港",翡翠台 (马来西亚版)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB功夫台.png" group-title="香港",TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="香港",美亚电影台 (粤语)
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="香港",美亚电影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="香港",ViuTV
@@ -167,10 +167,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文 (备用1)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文 (备用)
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="香港",凤凰中文 (备用2)
-http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -179,17 +177,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (备用1)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (备用)
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (备用2)
-http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="香港",凤凰香港 (备用3)
-http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/凤凰电影.png" group-title="香港",凤凰电影
-https://stream1.freetv.fun/feng-huang-dian-ying-2.ctv
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="香港",星空卫视
-https://stream1.freetv.fun/xing-kong-wei-shi-7.ctv
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/港台电视31台.png" group-title="香港",港台电视31台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
@@ -218,41 +207,12 @@ https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w1253919208.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png" group-title="台湾",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/AMC电影台.png" group-title="台湾",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/探索亚洲.png" group-title="台湾",探索亚洲
-http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/动物星球.png" group-title="台湾",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/八大戏剧台.png" group-title="台湾",八大戏剧台
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/八大第1台.png" group-title="台湾",八大第1台
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/八大综合台.png" group-title="台湾",八大综合台
-http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/纬来精采.png" group-title="台湾",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/三立戏剧台.png" group-title="台湾",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="台湾",美亚电影台 (国语)
-https://iptv.vip-tptv.xyz/tv.php?id=1
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="台湾",天映频道
-https://iptv.vip-tptv.xyz/tv.php?id=2
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/纬来电影台.png" group-title="台湾",纬来电影台
-https://iptv.vip-tptv.xyz/tv.php?id=3
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/东森电影台.png" group-title="台湾",东森电影台
-https://iptv.vip-tptv.xyz/tv.php?id=4
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/东森洋片台.png" group-title="台湾",东森洋片台
-https://iptv.vip-tptv.xyz/tv.php?id=5
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/纬来日本台.png" group-title="台湾",纬来日本台
-https://iptv.vip-tptv.xyz/tv.php?id=6
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/纬来体育台.png" group-title="台湾",纬来体育台
-https://iptv.vip-tptv.xyz/tv.php?id=7
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/东森幼幼台.png" group-title="台湾",东森幼幼台
-https://iptv.vip-tptv.xyz/tv.php?id=8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/爱尔达影剧台.png" group-title="台湾",爱尔达影剧台
-https://iptv.vip-tptv.xyz/tv.php?id=9
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="台湾",华视
 rtmp://f13h.mine.nu/sat/tv111
