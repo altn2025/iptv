@@ -320,149 +320,38 @@ http://125.227.210.55:8186/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="" group-title="台湾",TVBS歡樂台 (VPN)
 http://125.227.210.55:8187/VideoInput/play.ts
 
-#EXTINF:-1 group-title="港台 (AKTV)",無線新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",翡翠台 (4k)
-http://aktv_stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",翡翠台 (马来西亚)
-http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",TVB星河 (马来西亚)
-http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",明珠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",娛樂新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",黃金翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",千禧經典台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",翡翠剧集台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",明珠剧集台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",翡翠综合台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",无线新闻台(北美)	
-http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",myTV SUPER 18台
-http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png" group-title="国际",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
-#EXTINF:-1 group-title="港台 (AKTV)",viuTV
-http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",美亞電影台
-http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",天映频道
-http://aktv_stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",AXN
-http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",ROCK Action
-http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Love Nature HD
-http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",PopC
-http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",tvN
-http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Animax
-http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",KIX
-http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Thrill
-http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.disneyadvertising.com/wp-content/uploads/2023/03/abc-news-live_2021_logo_sq-uai-516x516-1.png" group-title="国际",ABC News Live
+https://aegis-cloudfront-1.tubi.video/9d419cbd-86b2-4f8f-be44-98e043f297cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/CBS_News_old_app_icon.png" group-title="国际",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://newsblues.com/wp-content/uploads/2024/11/HwdTwNVp_400x400.jpg" group-title="国际",NBC News NOW
+https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://talkingbiznews.wpenginepowered.com/wp-content/uploads/2023/03/l0FPfXAr_400x400.png" group-title="国际",LiveNow from Fox
+https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
-#EXTINF:-1 group-title="港台 (AKTV)",鳳凰中文
-http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",鳳凰資訊
-http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",鳳凰香港
-http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-
-#EXTINF:-1 group-title="港台 (AKTV)",TVBS新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",中天新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",东森新闻
-http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",寰宇新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",中視新聞
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",台視新聞
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",三立新聞iNEWS
-http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
-
-#EXTINF:-1 group-title="港台 (AKTV)",台視
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",中視
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",華視
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-
-#EXTINF:-1 group-title="港台 (AKTV)",龍華偶像
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",龍華日韓
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",龍華經典
-http://aktv_stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",龍華電影
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-
-#EXTINF:-1 group-title="港台 (AKTV)",Channel 5 HD
-http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Channel 8 HD
-http://aktv_stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Channel U HD
-http://aktv_stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Mediacorp Entertainment Chinese
-http://aktv_stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
-
-#EXTINF:-1 group-title="港台 (AKTV)",Xite Hits
-http://aktv_stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Xite Rock
-http://aktv_stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",National Geographic
-http://aktv_stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Cinemaworld 
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Fight Sports 
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Unifi Sport
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",NBA TV
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",MUTV
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Sukan
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",TV9
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-
-#EXTINF:-1 group-title="港台 (AKTV)",朝鲜中央电视台
-http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",NHK World-Japan
-http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",NHK東京総合
-http://aktv_stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",DW
-http://aktv_stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",France 24
-http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)", 亞洲新聞台
-http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",東方衛視國際頻道
-http://aktv_stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-
-#EXTINF:-1 group-title="港台 (AKTV)", Nick Jr
-http://aktv_stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",Nickelodeon
-http://aktv_stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="港台 (AKTV)",ZooMoo
-http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="国际",Sky News
+https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/d/d7/ABC_News_%28Australia%29.jpg" group-title="国际",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/mastodon-press-coop/accounts/avatars/109/797/629/514/205/026/original/5f79635589140b9a.jpg" group-title="国际",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png" group-title="国际",Reuters TV
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews
+https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef53813a/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="国际",Bloomberg TV
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24
+https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/500px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="国际",BBC News (360p)
 https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/2.m3u8
@@ -608,6 +497,96 @@ https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/480p/ind
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24 (1080p)
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="音乐",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="音乐",Movie Music by Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="音乐",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音乐",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音乐",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音乐",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Xite Hits
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",XITE Rock x Metal
+https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV Greatest Hits 
+https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits
+https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop
+https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",YG TV
+https://newidco-ygtv-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://news.imz.at/imzfiles/378556-logo.png" group-title="音乐",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="音乐",Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Qwest TV
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",SPIN
+https://bec-spin-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Def Jam
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",Loupe
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="音乐",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="音乐",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="音乐",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="音乐",Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik MOBA
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="音乐",Muzzik POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Y5NAEF.png" group-title="音乐",J.E.K.A. Muzzik
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="音乐",Worldwide Muzzik
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik TIKTAK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="音乐",Muzzik ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音乐",Vevo '70s (240p)
 https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/cb51341f65706d909bc9216fd9d34ddd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce0548340508398f06d96201ccce38ee5b357d09748388ee2282cc027ee78b547538a7781a56a80c47852d4e71dabe1e45d46cb07f484aed596c1b64dbe458ab275b90835bda7c4be297fa59b09ade6ebf6c77d7dc3bb1c59d180d8d31f3ee590ac20d64ddb037acf4806f4de671a836c334ae54c8b8c091e31295beb542a022c52690e70a5de0806fbcb72b7ca2ba2348b9643a490e50a98f86e64b318448564effc52cde0fa23ec1932c8d6c36f455d61fc478bd62a40da8f65de0838f9f140f68ff846f732ea4e0ae9eb4627ded3dbbb0ff87222dd7a65d384bc066dd620c3d93f6c466f7a97ca1bf2d81bb7e0e7897e323b5a9f2d5a1e1f71bf64ce7cef78a325141651078fd74ac8e68c927d86ce8eb0b31504256a8881589c6ee573e664091931cb3371eaad09f8ccf04589b394e428980b8e7d5fd1752b3ad16329ecca1c4a585696066ca1edc/195/426x240_511680/index.m3u8
@@ -976,3 +955,14 @@ http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/558/index.m3u8
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/19192/index.m3u8
 #EXTINF:-1 group-title="音乐",MTV India
 http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6582/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="电影",MyTime Movie Network
+https://amg00500-studiocitypictu-mytimemovientus-plex-00p3m.amagi.tv/playlist/amg00500-studiocitypictu-mytimemovientus-plex/playlist.m3u8
+#EXTINF:-1 group-title="电影",Miramax Movie Channel
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="电影",MovieSphere
+https://plexaaaaa-moviesphere-plex-efzys.amagi.tv/playlist/plexaaaaa-moviesphere-plex/playlist.m3u8
+#EXTINF:-1 group-title="电影",Universal Movies
+https://xumo-xumoent-ch839-d5ey0.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="电影",CineLife
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/playlist.m3u8
