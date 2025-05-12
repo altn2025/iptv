@@ -30,7 +30,7 @@ http://218.89.240.144:59901/tsfile/live/0013_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="中国",CCTV-14 少儿
 http://183.66.15.146:60901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="中国",CCTV-15 音乐
-http://183.66.15.146:60901/tsfile/live/0015_1.m3u8
+http://218.89.240.144:59901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="中国",CCTV-16 奥林匹克
 http://121.11.160.7:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="中国",CCTV-17 农业农村
