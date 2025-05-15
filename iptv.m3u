@@ -499,6 +499,31 @@ https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/720p/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24 (1080p)
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/1080p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="Music",Vevo '70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="Music",Vevo '80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="Music",Vevo '90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="Music",Vevo 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
+#EXTINF:-1 tvg-logo="" group-title="Music",Vevo 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="Music",Vevo Pop
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
+#EXTINF:-1 tvg-logo="" group-title="Music",Vevo R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
+#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Hip-Hop
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600002EK
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="Music",Vevo Country
+https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600001RQ
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="Music",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Features
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
+#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Latino
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600015GF
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="音乐",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="音乐",Stingray DJAZZ
@@ -522,10 +547,7 @@ https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="音乐",XITE Rock x Metal
 https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV Greatest Hits 
-https://3cf9b1046f5f4735911350e41a9de7f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_STACCSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="音乐",Staccs Music TV 80's Hits
-https://b9c1982ea06743cca84fc96bd88dad38.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_STACCSTVThrowback/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="音乐",New K-Pop
 https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
@@ -565,6 +587,9 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ja6c2YZ.png" group-title="音乐",Kiss Kiss TV
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="音乐",VH1+ Rock Italy (VPN)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="音乐",Muzzik Rock&Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
