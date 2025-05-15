@@ -32,25 +32,6 @@ https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News",France 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="Music",Vevo '70s
-https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="Music",Vevo '80s
-https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="Music",Vevo '90s
-https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="Music",Vevo 2K
-https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="Music",Vevo Pop
-https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Hip-Hop
-https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="Music",Vevo Country
-https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="Music",Vevo Retro Rock
-https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevotv-vevoretrorock-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Christmas
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Music",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ
