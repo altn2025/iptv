@@ -5,9 +5,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (源3)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (源4)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (源4)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="香港",翡翠台 (马来西亚版)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (马来西亚版)
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (源1)
