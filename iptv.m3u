@@ -5,18 +5,20 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港",翡翠台 (源3)
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (源4)
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="香港",翡翠台 (马来西亚版)
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
 
 #EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (源1)
 http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (源2))
+#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港",无线新闻台 (源2)
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (源1)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (源2)
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png" group-title="香港",TVB J1 (源3)
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港",TVB Plus (源1)
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -34,10 +36,6 @@ http://php.jdshipin.com/smt.php?id=pearl_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB千禧经典台.png" group-title="香港",TVB千禧经典台
 http://php.jdshipin.com/smt.php?id=Tvbclassic
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="香港",翡翠台 (马来西亚版)
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 "tvg-logo="https://live.fanmingming.cn/tv/TVB功夫台.png" group-title="香港",TVB功夫台
-http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="香港",美亚电影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
